@@ -1,0 +1,1484 @@
+Time: 13.02.2024 16:39:40
+Accuracy: 0.8025765379314158
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 13.02.2024 17:12:39
+Accuracy: 0.8065101909449504
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 13.02.2024 17:47:36
+Accuracy: 0.8060349070624924
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 13.02.2024 18:17:02
+Accuracy: 0.8035835259756756
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 13.02.2024 18:46:10
+Accuracy: 0.8067772254722619
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 13.02.2024 19:21:02
+Accuracy: 0.8059829160477965
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 13.02.2024 19:56:15
+Accuracy: 0.8066081499775751
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 13.02.2024 20:31:40
+Accuracy: 0.8081771873021238
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 13.02.2024 21:03:27
+Accuracy: 0.8017966923485466
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 13.02.2024 21:31:52
+Accuracy: 0.808736470553638
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 13.02.2024 22:00:10
+Accuracy: 0.7995985703655832
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 13.02.2024 22:28:31
+Accuracy: 0.8066576172337255
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 13.02.2024 22:57:10
+Accuracy: 0.8065713983781151
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 13.02.2024 23:25:23
+Accuracy: 0.8055957748407389
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 13.02.2024 23:53:40
+Accuracy: 0.8061371883460483
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 00:21:56
+Accuracy: 0.804647332346177
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 00:50:08
+Accuracy: 0.8036487414586726
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 01:18:19
+Accuracy: 0.7990994027866742
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 01:46:42
+Accuracy: 0.7971252572036075
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 02:15:07
+Accuracy: 0.7988569915640183
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 02:43:28
+Accuracy: 0.8090692927012002
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 03:11:47
+Accuracy: 0.7985550544577581
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 03:40:10
+Accuracy: 0.8048589088350102
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 04:08:34
+Accuracy: 0.8065281090128127
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 04:36:59
+Accuracy: 0.8135287822151445
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 05:05:25
+Accuracy: 0.7939357775778187
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 05:33:55
+Accuracy: 0.7946200080594347
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 06:02:11
+Accuracy: 0.7977469323205184
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 06:29:44
+Accuracy: 0.8015485445287209
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 06:56:03
+Accuracy: 0.8014815877008697
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 07:22:24
+Accuracy: 0.8029982467755201
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 07:48:45
+Accuracy: 0.8028488461388286
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 08:15:03
+Accuracy: 0.8142993965962066
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 08:41:28
+Accuracy: 0.8055641905696036
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 09:07:57
+Accuracy: 0.8094199567934655
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 09:34:14
+Accuracy: 0.8016414686211246
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 10:00:33
+Accuracy: 0.8044215832695752
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 10:26:53
+Accuracy: 0.8019631871578032
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 10:53:08
+Accuracy: 0.8105260399809249
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 11:19:28
+Accuracy: 0.7986282333058248
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 11:45:44
+Accuracy: 0.8050229467417134
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 12:12:07
+Accuracy: 0.8005706845149837
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 12:38:20
+Accuracy: 0.8035898583193107
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 13:04:41
+Accuracy: 0.7987656353880532
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 13:31:03
+Accuracy: 0.8023263778124176
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 13:57:26
+Accuracy: 0.8029763169068292
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 14:23:48
+Accuracy: 0.8049190659892209
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 14:50:04
+Accuracy: 0.8075866476606774
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 15:16:26
+Accuracy: 0.8025457393836745
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 15:42:40
+Accuracy: 0.8053543119581973
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 16:08:54
+Accuracy: 0.8054812770036427
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 16:35:15
+Accuracy: 0.7982219119309855
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 17:01:35
+Accuracy: 0.8035429258540479
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 17:27:49
+Accuracy: 0.8078979668911829
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 17:54:04
+Accuracy: 0.806195886362712
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 18:20:24
+Accuracy: 0.8055934485611145
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 18:46:39
+Accuracy: 0.8073129599692267
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 19:13:00
+Accuracy: 0.8160953354357976
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 19:39:22
+Accuracy: 0.8009525562342299
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 20:05:42
+Accuracy: 0.8073859499435991
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 20:31:59
+Accuracy: 0.7979932059660927
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 20:58:18
+Accuracy: 0.806869201445198
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 21:24:38
+Accuracy: 0.8027537440414763
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 21:50:55
+Accuracy: 0.8012073951694512
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 22:17:22
+Accuracy: 0.8070150514329547
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 22:43:42
+Accuracy: 0.8062091948974589
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 23:10:06
+Accuracy: 0.8000125587767877
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 14.02.2024 23:36:21
+Accuracy: 0.7995834613526295
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 00:02:43
+Accuracy: 0.8098782241710457
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 00:28:58
+Accuracy: 0.8031582393430754
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 00:55:21
+Accuracy: 0.8015256566114549
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 01:21:46
+Accuracy: 0.8095685269154546
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 01:48:11
+Accuracy: 0.8033748108350519
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 02:14:39
+Accuracy: 0.8045049010605452
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 02:41:04
+Accuracy: 0.8004733289514636
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 03:07:20
+Accuracy: 0.8027719469644078
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 03:33:38
+Accuracy: 0.8049907287728563
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 04:00:01
+Accuracy: 0.8074879318093945
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 04:26:22
+Accuracy: 0.8000285274298267
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 04:52:44
+Accuracy: 0.8047075673887221
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 05:18:57
+Accuracy: 0.811012882006755
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 05:45:14
+Accuracy: 0.8027013280609683
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 06:11:38
+Accuracy: 0.8011736931299542
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 06:38:02
+Accuracy: 0.8032314993891789
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 07:04:23
+Accuracy: 0.8017850252056358
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 07:30:44
+Accuracy: 0.8042853636337576
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 07:57:09
+Accuracy: 0.8103201837613951
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 08:23:32
+Accuracy: 0.8057732510225305
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 08:49:55
+Accuracy: 0.8025992833108238
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 09:16:13
+Accuracy: 0.8006136325396259
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 09:42:26
+Accuracy: 0.8050311382556148
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 10:08:42
+Accuracy: 0.8015714637778381
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 10:35:03
+Accuracy: 0.8104970253628776
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 11:01:18
+Accuracy: 0.8032430158302987
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 11:27:35
+Accuracy: 0.8010384562551578
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 11:53:51
+Accuracy: 0.8067378594284054
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 12:20:01
+Accuracy: 0.8041712117709051
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 12:46:20
+Accuracy: 0.795858557018038
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 13:12:37
+Accuracy: 0.80203270194446
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 13:38:51
+Accuracy: 0.7987592736983884
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 14:05:04
+Accuracy: 0.8047699292461489
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 14:31:27
+Accuracy: 0.8086174198896637
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 14:57:44
+Accuracy: 0.8054627748835972
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 15:23:59
+Accuracy: 0.8006978598368668
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 15:50:17
+Accuracy: 0.798560752221084
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+
+Time: 15.02.2024 16:16:33
+Accuracy: 0.8137382687371179
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Bidirectional: False
+Hidden Dim: 22
+n_layers: 1
+
+

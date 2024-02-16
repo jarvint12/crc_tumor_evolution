@@ -1,0 +1,280 @@
+Created: 25.01.2024 06:42:36
+Model version: base_fc_v6
+Path: saved_models/basemodel_fc/base_fc_v6.pth
+Run name: None
+Accuracy: 0.34776595016457595
+
+Hyperparameters:
+Optimizer: SGD
+Momentum: 0.0239
+Learning rate: 0.001
+Weight decay: 0.0001
+Used CrossEntropyLoss with label smoothing 0.0337
+Balanced classes
+Data normalized: True
+Train batch size: 64
+Validation batch size: 5
+
+
+--------------------------Script of the model can be seen below.---------------------------
+import torch
+import torch.nn as nn
+import torch.nn.functional as F
+import os
+
+model_version=os.path.basename(__file__).split(".")[0]
+
+class base_fc(nn.Module):
+    def __init__(self):
+        super(base_fc, self).__init__()
+        # YOUR CODE HERE
+        self.dropout=nn.Dropout(0.3) #changed from 0.2->0.3 1.6.2022
+        self.fc1=nn.Linear(24,120)#150) 
+        self.bn1 = nn.BatchNorm1d(120)
+        self.fc2=nn.Linear(120,8)
+        self.sigmoid=nn.Sigmoid()
+        
+
+    def forward(self, sequences, mut_landscape):
+        """
+        Args:
+          sequences of shape (batch_size, 33): Input sequences.
+          mut_landscape of shape (batch_size, 20): Input sequences.
+        
+        Returns:
+          y of shape (batch_size, 8): Outputs of the network.
+        """
+        
+        x = self.create_one_hot_input(next(self.parameters()).device, sequences)
+        x=torch.cat((x,mut_landscape), dim=1) # (batch_size, 4+20)
+        y=self.fc1(x)
+        y=self.dropout(y)
+        y=F.relu(y)
+        y=self.bn1(y)
+        
+        y=self.fc2(y)
+        return y
+
+
+    def create_one_hot_input(self, device, sequences):
+      """Converts numbered sequence to one-hot based on the middle base
+      
+      Args:
+      sequences of shape (batch_size, 33): Input sequences.
+      
+      Returns:
+      sequences of shape (batch_size, 4): Target sequence one-hot encoded."""
+
+      # Define the conditions
+      condition_1 = (sequences[:, 16] == 1)
+      condition_2 = (sequences[:, 16] == 2)
+      condition_3 = (sequences[:, 16] == 3)
+      condition_4 = (sequences[:, 16] == 4)
+      
+      one_hot = torch.zeros((sequences.shape[0], 4), device = device)
+      one_hot[condition_1, 0] = 1
+      one_hot[condition_2, 1] = 1
+      one_hot[condition_3, 2] = 1
+      one_hot[condition_4, 3] = 1
+      return one_hot
+
+-------------------------------------------------------------------------------------------
+
+
+
+------------------------------Created input matrices with script:------------------------------
+import numpy as np
+import torch
+from torch.utils.data import Dataset
+
+
+class FeatureDataset(Dataset):
+    def __init__(self, data, labels):
+        '''
+        Args:
+        info_dir (string/pandas Dataframe): Path to excel file(or the file itself), that contains clinical info about PET images
+        seed (int): seed for sampling images
+        norm_mean_std (str): string that indicates the means and stds for normalization
+        prob_gaussian (float): Probability for blurring images
+        simple_transformation (bool): Whether to use minimal transformations
+        
+        Outputs:
+        image (torch.Tensor): Image as torch Tensor. Shape (1,3,512,512)
+        label (torch.Tensor): Label indicating if there is cancer in the picture. 1=Cancer, 0=Benign 
+        '''
+        self.data_tensor=data
+        self.labels=labels
+
+    def __len__(self):
+        return self.data_tensor.shape[0] 
+    
+    def __getitem__(self, idx):
+        #load images
+        tensor = self.data_tensor[idx,:]
+        #load labels 
+        label = self.labels[idx]
+        
+        return tensor, label
+    
+
+def get_norm_values(file):
+    channel_numbers=dict()
+    previous_id=None
+    with open(file, 'r') as fr:
+        for line in fr:
+            if line.startswith('#'):
+                if line.startswith("#ID:"):
+                        if line.strip()!=previous_id:
+                            previous_id=line.strip()
+                            channel=0
+                        else:
+                            channel+=1
+                continue
+            if not channel in channel_numbers:
+                channel_numbers[channel]=list()
+            numbers=line.strip().split(',')
+            channel_numbers[channel].append(float(numbers[17]))
+    mins=dict()
+    maxes=dict()
+    for channel in channel_numbers:
+        mins[channel]=min(channel_numbers[channel])
+        maxes[channel]=max(channel_numbers[channel])
+    return mins, maxes
+
+
+def parse_matrices(file, classes):
+    mins, maxes = get_norm_values(file)
+    first_2d=True
+    first_df_input=True
+    new_sampleid=True
+    previous_id=None
+    target=list()
+    with open(file, 'r') as fr:
+        for line in fr:
+            if line.startswith('#'):
+                if line.startswith("#ID:"):
+                    if previous_id==None or line.strip()!=previous_id:
+                        channel=0
+                        if previous_id!=None:
+                            if first_df_input:
+                                df_input=temp_2d
+                                first_df_input=False
+                            else:
+                                df_input=np.concatenate((df_input, temp_2d), axis=0)
+                        previous_id=line.strip()
+                        new_sampleid=True
+                        first_2d=True
+                    else:
+                        channel+=1
+                        
+                if line.startswith('#REF:'):
+                    ref=line[6]
+                elif line.startswith('#ALT:') and new_sampleid:
+                    alt=line[6]
+                    target.append(torch.tensor(classes[ref+alt]))
+                    new_sampleid=False
+                continue
+            numbers=line.strip().split(',')
+            important_feature=(float(numbers[17])-mins[channel])/(maxes[channel]-mins[channel])
+            row_in_array=np.array(important_feature).reshape(1,-1)
+            if first_2d:
+                temp_2d=row_in_array
+                first_2d=False
+            else:
+                temp_2d=np.concatenate((temp_2d, row_in_array), axis=1)
+
+    if not first_2d:
+        df_input=np.concatenate((df_input, temp_2d), axis=0)
+    return torch.Tensor(df_input), torch.tensor(target,dtype=torch.long)
+-------------------------------------------------------------------------------------------
+
+
+
+------------------------------Computed accuracies with script:-----------------------------
+import torch
+
+def count_f_scores(tp,fp,fn):
+    if (tp+fp)==0:
+        precision=0
+    else:
+        precision=tp/(tp+fp)
+    if tp+fn==0:
+        recall=0
+    else:
+        recall=tp/(tp+fn)
+    if precision==0 and recall==0:
+        f1=f2=0
+    else:
+        f1=2*(precision*recall)/(precision+recall)
+        f2=5*(precision*recall)/(4*precision+recall)
+    return f1, f2, precision, recall
+
+def count_pred_types(ftp, ftn, tp,fp,tn,fn, labels, predicted):
+    for label, prediction in zip(labels, predicted):
+        if label in [1,7]:
+            if label==prediction:
+                tn+=1
+            else:
+                fp+=1
+                if prediction in [1,7]:
+                    ftn+=1
+        else:
+            if label==prediction:
+                tp+=1
+            else:
+                fn+=1
+                if prediction not in [1,7]:
+                    ftp+=1
+    return tp,fp,tn,fn,ftn, ftp
+
+def compute_accuracy(device, net, dataloader, criterion, datatype, verbose, cv):
+    net.eval()
+    correct = 0
+    tp=fp=tn=fn=ftn=ftp=0
+    number_of_classes=8
+    correct_per_class=[0 for i in range(number_of_classes)]
+    total_per_class=[0 for i in range(number_of_classes)]
+    with torch.no_grad():
+        tot_loss=0
+        tot_items=0
+        for sequences, labels in dataloader:
+            sequences, labels = sequences.to(device), labels.to(device)
+            result = net(sequences)
+            if isinstance(result, tuple): #RNN case returns also hidden state
+                outputs, _ = result
+            else:
+                outputs = result
+            _, predicted = torch.max(outputs.data, 1)
+            for label, prediction in zip(labels, predicted):
+                correct_per_class[int(label.item())]+=(label.item()==prediction.item())
+                total_per_class[int(label.item())]+=1
+            if cv or verbose:
+                tot_items+=len(labels)
+            if cv:
+                tot_loss+=criterion(outputs,labels).item()
+            if verbose:
+                tp,fp,tn,fn, ftn, ftp = count_pred_types(ftp, ftn, tp,fp,tn,fn, labels, predicted)
+        if cv:
+            tot_loss/=tot_items
+        for i in range(number_of_classes):
+            correct+=(correct_per_class[i]/total_per_class[i])/number_of_classes
+        if verbose:
+            f1, f2, precision, recall = count_f_scores(tp,fp,fn)
+            f1_fake, f2_fake, fake_precision, fake_recall = count_f_scores((tp+ftp),(fp-ftn),(fn-ftp))
+            tn_tnfp=tn/(tn+fp) if tn+fp>0 else 0
+            fake_tpftp_tpftpfn=(tp+ftp)/(tp+ftp+fn) if (tp+ftp+fn)>0 else 0
+            fake_tnftn_tnftnfp=(tn+ftn)/(tn+ftn+fp) if (tn+ftn+fp)>0 else 0
+            print('\n',datatype)
+            print("TP:",tp,". FN:",fn, "TP/(TP+FN):",recall,"TN:",tn,"FP:",fp,"TN/(TN+FP):",tn_tnfp,
+                  "Wrong positive class predicted:",ftp, "Wrong negative class predicted:",ftn)
+            print("Fake F1-score:",f1_fake,". Fake F2-score:",f2_fake)
+            print("Fake TP/(TP+FN):",fake_tpftp_tpftpfn,"Fake TN/(TN+FP)",fake_tnftn_tnftnfp)
+            print("Fake precision:",fake_precision,"Fake recall:",fake_recall)
+            print("F1-score:",f1)
+            print("F2-score:",f2)
+            print("Precision:",precision)
+            print("Recall:",recall)
+            print("Fake accuracy:",(tn+ftn+tp+ftp)/tot_items)
+
+    return correct, tot_loss
+-------------------------------------------------------------------------------------------

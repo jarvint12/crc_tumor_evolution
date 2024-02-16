@@ -1,0 +1,98 @@
+Time: 08.01.2024 15:17:32
+Validation accuracy: 0.48163417255482655
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 64
+head: 3
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 08.01.2024 21:47:09
+Validation accuracy: 0.4729361483534972
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 64
+head: 3
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 09.01.2024 04:17:16
+Validation accuracy: 0.4688932209451935
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 64
+head: 3
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 09.01.2024 10:47:23
+Validation accuracy: 0.46589211876530606
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 64
+head: 3
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 09.01.2024 17:16:54
+Validation accuracy: 0.4698368598642063
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 64
+head: 3
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 09.01.2024 23:46:08
+Validation accuracy: 0.47127287780217086
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 64
+head: 3
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 10.01.2024 06:15:59
+Validation accuracy: 0.46734236274655305
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 64
+head: 3
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: max
+Target mode: whole_DNA_seq
+
+

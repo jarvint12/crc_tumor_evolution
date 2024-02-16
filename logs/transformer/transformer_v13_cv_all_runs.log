@@ -1,0 +1,2576 @@
+Run log.
+
+Time: 18.12.2023 15:08:12
+Average validation accuracy: 0.3216148192069522
+Fold 1: 0.32375114201240074.
+Fold 2: 0.3180725194182248.
+Fold 3: 0.3299105442905421.
+Fold 4: 0.31909723503971915.
+Fold 5: 0.317242655273874.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 64
+head: 21
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 18.12.2023 15:46:00
+Average validation accuracy: 0.2602182787516606
+Fold 1: 0.2525909100199219.
+Fold 2: 0.2637865277486304.
+Fold 3: 0.25676667176739904.
+Fold 4: 0.26909724410116714.
+Fold 5: 0.2588500401211845.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 64
+head: 6
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 18.12.2023 17:44:41
+Average validation accuracy: 0.2734426094627522
+Fold 1: 0.25860904211582403.
+Fold 2: 0.2956348240770168.
+Fold 3: 0.28085791199064586.
+Fold 4: 0.27751466049254564.
+Fold 5: 0.2545966086377288.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 256
+head: 42
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 18.12.2023 18:37:22
+Average validation accuracy: 0.3153742440030302
+Fold 1: 0.3115041208791209.
+Fold 2: 0.32617421985978096.
+Fold 3: 0.314850857387201.
+Fold 4: 0.3096451701332968.
+Fold 5: 0.31469685175575157.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 32
+head: 6
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 18.12.2023 19:34:27
+Average validation accuracy: 0.27971023589860927
+Fold 1: 0.2825209522632148.
+Fold 2: 0.3109524277512855.
+Fold 3: 0.2516511707864645.
+Fold 4: 0.2727677198716364.
+Fold 5: 0.2806589088204452.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 256
+head: 21
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 18.12.2023 20:54:11
+Average validation accuracy: 0.2670305010738538
+Fold 1: 0.25929012268379237.
+Fold 2: 0.2505681818181818.
+Fold 3: 0.27686457701440415.
+Fold 4: 0.277682158073211.
+Fold 5: 0.2707474657796795.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 256
+head: 2
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 18.12.2023 23:14:21
+Average validation accuracy: 0.267712529624196
+Fold 1: 0.2590339673279434.
+Fold 2: 0.28517257680167857.
+Fold 3: 0.2651670411811586.
+Fold 4: 0.2689040851388214.
+Fold 5: 0.2602849776713779.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 256
+head: 3
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 19.12.2023 02:02:40
+Average validation accuracy: 0.3147133575476294
+Fold 1: 0.31270028672626077.
+Fold 2: 0.31877447702741424.
+Fold 3: 0.3157693571211968.
+Fold 4: 0.31571846215079036.
+Fold 5: 0.31060420471248495.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 128
+head: 42
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 19.12.2023 04:57:15
+Average validation accuracy: 0.27405110836073937
+Fold 1: 0.27997987629219795.
+Fold 2: 0.2648422878045548.
+Fold 3: 0.28699751861042183.
+Fold 4: 0.2705785677249342.
+Fold 5: 0.267857291371588.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 128
+head: 42
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 19.12.2023 05:40:47
+Average validation accuracy: 0.26279503221858497
+Fold 1: 0.2597955721672073.
+Fold 2: 0.281050032647731.
+Fold 3: 0.26701975235412734.
+Fold 4: 0.2553969592167807.
+Fold 5: 0.25071284470707844.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 32
+head: 12
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 19.12.2023 06:51:52
+Average validation accuracy: 0.32633487333054223
+Fold 1: 0.33028994900906333.
+Fold 2: 0.3186354427937488.
+Fold 3: 0.33908492407115703.
+Fold 4: 0.3259101289801814.
+Fold 5: 0.31775392179856043.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 7
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 19.12.2023 07:18:20
+Average validation accuracy: 0.33385612946871046
+Fold 1: 0.3372301803141004.
+Fold 2: 0.33924257749710895.
+Fold 3: 0.337743847543968.
+Fold 4: 0.323547150284724.
+Fold 5: 0.3315168917036508.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 32
+head: 2
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 19.12.2023 07:34:28
+Average validation accuracy: 0.3280826476456416
+Fold 1: 0.32420620188477334.
+Fold 2: 0.338568125453805.
+Fold 3: 0.3175426479334211.
+Fold 4: 0.3288268082820765.
+Fold 5: 0.33126945467413227.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 64
+head: 2
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 19.12.2023 08:31:43
+Average validation accuracy: 0.3290428507909915
+Fold 1: 0.3140678659475621.
+Fold 2: 0.34382175662700865.
+Fold 3: 0.32607226491560093.
+Fold 4: 0.33294279017726836.
+Fold 5: 0.32830957628751745.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 64
+head: 42
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 19.12.2023 08:58:10
+Average validation accuracy: 0.3156877849238593
+Fold 1: 0.31116745014785047.
+Fold 2: 0.31471102426984776.
+Fold 3: 0.32179363190001486.
+Fold 4: 0.3185471013770701.
+Fold 5: 0.3122197169245132.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 32
+head: 4
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 19.12.2023 10:34:53
+Average validation accuracy: 0.27708067811794895
+Fold 1: 0.2918116023989687.
+Fold 2: 0.25680760771486577.
+Fold 3: 0.2761064812139502.
+Fold 4: 0.3072863135159229.
+Fold 5: 0.2533913857460369.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 128
+head: 42
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 19.12.2023 11:14:32
+Average validation accuracy: 0.2654297591198958
+Fold 1: 0.27400161040987736.
+Fold 2: 0.2622251397731095.
+Fold 3: 0.2649782588067229.
+Fold 4: 0.25822534231354344.
+Fold 5: 0.26771844429622565.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 256
+head: 4
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 19.12.2023 11:37:59
+Average validation accuracy: 0.32842778802846323
+Fold 1: 0.3278468862881361.
+Fold 2: 0.33213398419044715.
+Fold 3: 0.3327096378076443.
+Fold 4: 0.32050198969474913.
+Fold 5: 0.3289464421613394.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 64
+head: 4
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 19.12.2023 13:05:30
+Average validation accuracy: 0.27064833819675016
+Fold 1: 0.25.
+Fold 2: 0.29273927023889124.
+Fold 3: 0.27602533751233366.
+Fold 4: 0.2659003678322268.
+Fold 5: 0.26857671540029887.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 256
+head: 42
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 19.12.2023 13:40:52
+Average validation accuracy: 0.2716494772941459
+Fold 1: 0.27316017316017316.
+Fold 2: 0.2604318394944446.
+Fold 3: 0.26819941358009725.
+Fold 4: 0.2715285330550584.
+Fold 5: 0.2849274271809562.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 256
+head: 4
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 19.12.2023 14:07:05
+Average validation accuracy: 0.31255042582841785
+Fold 1: 0.30536726499763817.
+Fold 2: 0.3087121212121212.
+Fold 3: 0.31259327000072795.
+Fold 4: 0.3141489361702128.
+Fold 5: 0.3219305367613893.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 64
+head: 4
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 19.12.2023 15:06:11
+Average validation accuracy: 0.31533723897560767
+Fold 1: 0.31574486119940665.
+Fold 2: 0.3191858416673442.
+Fold 3: 0.31357491459248416.
+Fold 4: 0.3124194500569566.
+Fold 5: 0.3157611273618468.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 256
+head: 2
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 19.12.2023 17:28:52
+Average validation accuracy: 0.3159114712534069
+Fold 1: 0.3105001367427868.
+Fold 2: 0.3148879982019778.
+Fold 3: 0.3137168012411998.
+Fold 4: 0.3248683119543481.
+Fold 5: 0.3155841081267218.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 128
+head: 42
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 19.12.2023 18:20:53
+Average validation accuracy: 0.317582293038796
+Fold 1: 0.32045752335397887.
+Fold 2: 0.3189416237429482.
+Fold 3: 0.3151737682520707.
+Fold 4: 0.3146537070803845.
+Fold 5: 0.31868484276459735.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 128
+head: 6
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 19.12.2023 18:40:56
+Average validation accuracy: 0.3347261001704184
+Fold 1: 0.34385181212543786.
+Fold 2: 0.32655893025989624.
+Fold 3: 0.3301469436283563.
+Fold 4: 0.3373686022022154.
+Fold 5: 0.33570421263618594.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 32
+head: 4
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 19.12.2023 20:36:17
+Average validation accuracy: 0.29807367683189745
+Fold 1: 0.31750466031483016.
+Fold 2: 0.31782649657525525.
+Fold 3: 0.27592721625301414.
+Fold 4: 0.3137254901960784.
+Fold 5: 0.26538452082030917.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 32
+head: 4
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 19.12.2023 21:24:50
+Average validation accuracy: 0.292110865511557
+Fold 1: 0.3140844220919011.
+Fold 2: 0.2761739577971209.
+Fold 3: 0.29635179291122077.
+Fold 4: 0.29933283462649174.
+Fold 5: 0.2746113201310506.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 64
+head: 42
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 19.12.2023 22:30:46
+Average validation accuracy: 0.31532274478484557
+Fold 1: 0.32365574646131934.
+Fold 2: 0.3149653117824724.
+Fold 3: 0.307868190651734.
+Fold 4: 0.309558680420397.
+Fold 5: 0.3205657946083054.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 256
+head: 6
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 19.12.2023 23:55:59
+Average validation accuracy: 0.31501680900933193
+Fold 1: 0.3269104084321476.
+Fold 2: 0.31674164042585096.
+Fold 3: 0.3027124117439116.
+Fold 4: 0.31154703420669577.
+Fold 5: 0.3171725502380539.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 64
+head: 6
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 20.12.2023 01:24:55
+Average validation accuracy: 0.3148804789920244
+Fold 1: 0.31201005176055985.
+Fold 2: 0.31285597055549685.
+Fold 3: 0.31090072012068426.
+Fold 4: 0.31993784090104127.
+Fold 5: 0.3186978116223399.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 64
+head: 7
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 20.12.2023 02:02:58
+Average validation accuracy: 0.3154937666726368
+Fold 1: 0.3167263284648214.
+Fold 2: 0.31956944592814157.
+Fold 3: 0.30687505970006684.
+Fold 4: 0.31518912529550824.
+Fold 5: 0.3191088739746458.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 32
+head: 7
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 20.12.2023 03:21:01
+Average validation accuracy: 0.2746863130726877
+Fold 1: 0.26663521265093215.
+Fold 2: 0.265646395940364.
+Fold 3: 0.31123489635304213.
+Fold 4: 0.2748265535201149.
+Fold 5: 0.2550885068989855.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 64
+head: 2
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 20.12.2023 05:16:28
+Average validation accuracy: 0.3161987478961007
+Fold 1: 0.31369206888271417.
+Fold 2: 0.3237206433336379.
+Fold 3: 0.31066398390342054.
+Fold 4: 0.312966297322253.
+Fold 5: 0.31995074603847784.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 256
+head: 12
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 20.12.2023 08:25:46
+Average validation accuracy: 0.26866758039269933
+Fold 1: 0.2687144386310677.
+Fold 2: 0.2638128853320738.
+Fold 3: 0.27712803148994575.
+Fold 4: 0.2657980129921747.
+Fold 5: 0.26788453351823477.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 4
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 20.12.2023 11:54:54
+Average validation accuracy: 0.27286772027113326
+Fold 1: 0.2894572518099241.
+Fold 2: 0.2689984605928055.
+Fold 3: 0.2634575756375502.
+Fold 4: 0.2546279964623051.
+Fold 5: 0.28779731685308163.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 32
+head: 12
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 20.12.2023 12:19:52
+Average validation accuracy: 0.33026374475317133
+Fold 1: 0.32549409728327316.
+Fold 2: 0.3308162572179715.
+Fold 3: 0.32661307350173463.
+Fold 4: 0.3341178369148759.
+Fold 5: 0.33427745884800153.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 64
+head: 7
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 20.12.2023 12:39:07
+Average validation accuracy: 0.3299816431965918
+Fold 1: 0.3327975452104459.
+Fold 2: 0.3231936917724589.
+Fold 3: 0.3269155635227064.
+Fold 4: 0.3352778642144255.
+Fold 5: 0.3317235512629221.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 32
+head: 2
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 20.12.2023 14:46:19
+Average validation accuracy: 0.27327551090603813
+Fold 1: 0.2637849795328188.
+Fold 2: 0.2819445325805614.
+Fold 3: 0.2673068336706137.
+Fold 4: 0.2652688737041031.
+Fold 5: 0.28807233504209356.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 128
+head: 21
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 20.12.2023 16:09:11
+Average validation accuracy: 0.265944516189902
+Fold 1: 0.27226200447039256.
+Fold 2: 0.2646182017136333.
+Fold 3: 0.27139985527057686.
+Fold 4: 0.2525971899969308.
+Fold 5: 0.26884532949797646.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 32
+head: 2
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 20.12.2023 16:27:05
+Average validation accuracy: 0.268113404070201
+Fold 1: 0.2620402446147743.
+Fold 2: 0.25482083420384316.
+Fold 3: 0.2536867432435957.
+Fold 4: 0.27368525946622335.
+Fold 5: 0.29633393882256864.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 128
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 20.12.2023 18:19:32
+Average validation accuracy: 0.3156195192203789
+Fold 1: 0.31688962856173675.
+Fold 2: 0.31471935574856297.
+Fold 3: 0.30870288727524203.
+Fold 4: 0.3161364351142037.
+Fold 5: 0.3216492894021491.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 64
+head: 3
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 20.12.2023 18:46:24
+Average validation accuracy: 0.3416730598456243
+Fold 1: 0.34806657063775237.
+Fold 2: 0.33806316044814044.
+Fold 3: 0.3299683886478491.
+Fold 4: 0.33551954732510286.
+Fold 5: 0.35674763216927674.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 2
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 20.12.2023 20:20:33
+Average validation accuracy: 0.26896456339917113
+Fold 1: 0.2625810369316506.
+Fold 2: 0.27894546358211714.
+Fold 3: 0.2749308156181566.
+Fold 4: 0.2681360507557498.
+Fold 5: 0.26022945010818144.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 128
+head: 6
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 21.12.2023 00:10:31
+Average validation accuracy: 0.26728739547648656
+Fold 1: 0.27296607264154826.
+Fold 2: 0.2716932808730391.
+Fold 3: 0.2527556171692459.
+Fold 4: 0.27063576712607806.
+Fold 5: 0.2683862395725214.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 256
+head: 12
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 21.12.2023 01:32:05
+Average validation accuracy: 0.31650538106911474
+Fold 1: 0.32050237516570923.
+Fold 2: 0.3147819858537022.
+Fold 3: 0.3222280786589297.
+Fold 4: 0.3145011042045038.
+Fold 5: 0.31051336146272857.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 32
+head: 6
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 21.12.2023 03:10:43
+Average validation accuracy: 0.2660376993833404
+Fold 1: 0.26123757354361066.
+Fold 2: 0.2669290227415395.
+Fold 3: 0.28056196154313284.
+Fold 4: 0.2618332454330433.
+Fold 5: 0.25962669365537555.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 64
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 21.12.2023 05:12:17
+Average validation accuracy: 0.3159284106311013
+Fold 1: 0.3166626705029838.
+Fold 2: 0.3269320902745937.
+Fold 3: 0.31394432773109243.
+Fold 4: 0.31250544899738447.
+Fold 5: 0.30959751564945226.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 32
+head: 6
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 21.12.2023 06:48:58
+Average validation accuracy: 0.2688672742734334
+Fold 1: 0.25.
+Fold 2: 0.2809160647395942.
+Fold 3: 0.26304573236565276.
+Fold 4: 0.2826591437707361.
+Fold 5: 0.26771543049118374.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 128
+head: 4
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 21.12.2023 07:38:59
+Average validation accuracy: 0.28173180726248515
+Fold 1: 0.2732823410200097.
+Fold 2: 0.2939517134025769.
+Fold 3: 0.2942103603621231.
+Fold 4: 0.28510327141397773.
+Fold 5: 0.2621113501137381.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 256
+head: 4
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 21.12.2023 08:04:20
+Average validation accuracy: 0.2732377507480477
+Fold 1: 0.2947473316336839.
+Fold 2: 0.29268053346919765.
+Fold 3: 0.25085533471887117.
+Fold 4: 0.260037071298165.
+Fold 5: 0.26786848262032087.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 64
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 21.12.2023 08:24:32
+Average validation accuracy: 0.31848862567932706
+Fold 1: 0.3185220683843677.
+Fold 2: 0.32182792731064114.
+Fold 3: 0.3156503232592223.
+Fold 4: 0.3155250164743836.
+Fold 5: 0.3209177929680206.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 128
+head: 12
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 21.12.2023 08:59:42
+Average validation accuracy: 0.3336562285741686
+Fold 1: 0.3315501814027985.
+Fold 2: 0.32355320216587885.
+Fold 3: 0.3401476775535023.
+Fold 4: 0.3270321825186976.
+Fold 5: 0.3459978992299658.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 32
+head: 6
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 21.12.2023 09:34:46
+Average validation accuracy: 0.33008580041059277
+Fold 1: 0.32076475012958117.
+Fold 2: 0.32097604679689984.
+Fold 3: 0.3423167966215366.
+Fold 4: 0.32892347306444414.
+Fold 5: 0.33744793544050233.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 4
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 21.12.2023 10:40:29
+Average validation accuracy: 0.266508600108523
+Fold 1: 0.2722771794968946.
+Fold 2: 0.2677098588193715.
+Fold 3: 0.2651702445000923.
+Fold 4: 0.2587911788051464.
+Fold 5: 0.2685945389211101.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 64
+head: 12
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 21.12.2023 13:45:55
+Average validation accuracy: 0.2715131363220588
+Fold 1: 0.2819457873831933.
+Fold 2: 0.2899017584176484.
+Fold 3: 0.2636260613466502.
+Fold 4: 0.25360944281435294.
+Fold 5: 0.2684826316484493.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 256
+head: 4
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 21.12.2023 14:37:26
+Average validation accuracy: 0.3008738079472676
+Fold 1: 0.2946632420091324.
+Fold 2: 0.3026091184096802.
+Fold 3: 0.30246132274335613.
+Fold 4: 0.2957823027647781.
+Fold 5: 0.3088530538093911.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 128
+head: 7
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 21.12.2023 15:56:48
+Average validation accuracy: 0.3146424607439232
+Fold 1: 0.31380560039637506.
+Fold 2: 0.3066476072734765.
+Fold 3: 0.3181670094276231.
+Fold 4: 0.31800875328880795.
+Fold 5: 0.3165833333333333.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 64
+head: 4
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 21.12.2023 16:59:04
+Average validation accuracy: 0.31625050107307806
+Fold 1: 0.3136765245660951.
+Fold 2: 0.3120362628174097.
+Fold 3: 0.3165503043322592.
+Fold 4: 0.3204089815557338.
+Fold 5: 0.31858043209389225.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 64
+head: 2
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 21.12.2023 19:10:08
+Average validation accuracy: 0.27901642871302484
+Fold 1: 0.2808643652451468.
+Fold 2: 0.3135379746835443.
+Fold 3: 0.26588096608279843.
+Fold 4: 0.2710532553246807.
+Fold 5: 0.2637455822289541.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 256
+head: 12
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 21.12.2023 20:28:41
+Average validation accuracy: 0.2643473622434095
+Fold 1: 0.2739587142345375.
+Fold 2: 0.25114040668221765.
+Fold 3: 0.25105753155371024.
+Fold 4: 0.2703240224800098.
+Fold 5: 0.27525613626657247.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 32
+head: 12
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 21.12.2023 21:22:34
+Average validation accuracy: 0.31499645087471206
+Fold 1: 0.30850694444444443.
+Fold 2: 0.31569286837519656.
+Fold 3: 0.31152146464646463.
+Fold 4: 0.3254688747007183.
+Fold 5: 0.31379210220673637.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 64
+head: 6
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 21.12.2023 22:07:02
+Average validation accuracy: 0.2701050105296207
+Fold 1: 0.28898907816355557.
+Fold 2: 0.2645241078599088.
+Fold 3: 0.266452462779472.
+Fold 4: 0.27464913420186665.
+Fold 5: 0.2559102696433006.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 256
+head: 42
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 21.12.2023 23:27:08
+Average validation accuracy: 0.27124802789562164
+Fold 1: 0.2726795107569564.
+Fold 2: 0.27954061801041435.
+Fold 3: 0.2829396099180272.
+Fold 4: 0.2547388257011353.
+Fold 5: 0.2663415750915751.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 7
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 22.12.2023 00:41:23
+Average validation accuracy: 0.2801999054440048
+Fold 1: 0.26556136376231565.
+Fold 2: 0.26357318779986116.
+Fold 3: 0.31145662648506295.
+Fold 4: 0.25738144434503984.
+Fold 5: 0.3030269048277445.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 256
+head: 3
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 22.12.2023 01:19:21
+Average validation accuracy: 0.3156715989692004
+Fold 1: 0.3106756338899196.
+Fold 2: 0.31875.
+Fold 3: 0.3191183903849934.
+Fold 4: 0.3182936225699384.
+Fold 5: 0.3115203480011504.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 32
+head: 6
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 22.12.2023 02:11:03
+Average validation accuracy: 0.31660446028316563
+Fold 1: 0.31116886243270453.
+Fold 2: 0.31151824495250824.
+Fold 3: 0.32051654587720496.
+Fold 4: 0.3202928870292887.
+Fold 5: 0.3195257611241218.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 128
+head: 7
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 22.12.2023 03:57:20
+Average validation accuracy: 0.27295278426965747
+Fold 1: 0.26828974375656256.
+Fold 2: 0.25911310714154717.
+Fold 3: 0.30834704103359356.
+Fold 4: 0.25320496898438805.
+Fold 5: 0.27580906043219605.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 64
+head: 6
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 22.12.2023 04:24:57
+Average validation accuracy: 0.3177444401493539
+Fold 1: 0.3166033168915341.
+Fold 2: 0.30878541125626946.
+Fold 3: 0.3218467479817372.
+Fold 4: 0.3195544512830861.
+Fold 5: 0.3219322733341425.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 128
+head: 7
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 22.12.2023 06:18:10
+Average validation accuracy: 0.26993862227455623
+Fold 1: 0.2745641896806949.
+Fold 2: 0.2694896942729262.
+Fold 3: 0.26356930473536344.
+Fold 4: 0.2739117048823245.
+Fold 5: 0.2681582178014721.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 64
+head: 21
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 22.12.2023 07:23:03
+Average validation accuracy: 0.2653759990984915
+Fold 1: 0.26987943886424864.
+Fold 2: 0.27923393781838834.
+Fold 3: 0.2699342107032861.
+Fold 4: 0.2547836276187299.
+Fold 5: 0.2530487804878049.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 128
+head: 21
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 22.12.2023 09:47:37
+Average validation accuracy: 0.2988618877922705
+Fold 1: 0.28570112549055143.
+Fold 2: 0.3119315457553602.
+Fold 3: 0.31503111883051094.
+Fold 4: 0.26190247639306663.
+Fold 5: 0.31974317249186357.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 256
+head: 7
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 22.12.2023 10:42:11
+Average validation accuracy: 0.2986635212569916
+Fold 1: 0.3077038599182004.
+Fold 2: 0.2594354560110548.
+Fold 3: 0.31592440593808585.
+Fold 4: 0.3027142018779343.
+Fold 5: 0.30753968253968256.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 64
+head: 42
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 22.12.2023 11:11:42
+Average validation accuracy: 0.31689262394394263
+Fold 1: 0.31684414070777706.
+Fold 2: 0.3169412144702842.
+Fold 3: 0.3213969738660187.
+Fold 4: 0.30756100243671314.
+Fold 5: 0.32171978823892017.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 64
+head: 42
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 22.12.2023 12:53:45
+Average validation accuracy: 0.316319919922904
+Fold 1: 0.32313767090994816.
+Fold 2: 0.3127009129484377.
+Fold 3: 0.3203990506948522.
+Fold 4: 0.3166932350737818.
+Fold 5: 0.3086687299875002.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 64
+head: 12
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 22.12.2023 14:08:08
+Average validation accuracy: 0.2719739617181408
+Fold 1: 0.27219042216721673.
+Fold 2: 0.25.
+Fold 3: 0.2757876892177296.
+Fold 4: 0.2791529746949561.
+Fold 5: 0.2827387225108015.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 256
+head: 12
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 22.12.2023 14:38:20
+Average validation accuracy: 0.31531200546364585
+Fold 1: 0.31110608327882366.
+Fold 2: 0.32554923084160514.
+Fold 3: 0.31456679894179895.
+Fold 4: 0.3207569847605225.
+Fold 5: 0.3045809294954789.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 256
+head: 2
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 22.12.2023 15:00:04
+Average validation accuracy: 0.3151728337025241
+Fold 1: 0.30941299392097266.
+Fold 2: 0.3245717299578059.
+Fold 3: 0.3203401396405895.
+Fold 4: 0.31815114709851555.
+Fold 5: 0.30338815789473683.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 256
+head: 6
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 22.12.2023 15:31:34
+Average validation accuracy: 0.3239252729683343
+Fold 1: 0.3296600984267225.
+Fold 2: 0.3284199287655509.
+Fold 3: 0.3230097903173676.
+Fold 4: 0.31667352051210707.
+Fold 5: 0.3218630268199234.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 64
+head: 21
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 22.12.2023 16:21:02
+Average validation accuracy: 0.333330329815242
+Fold 1: 0.33852164736423873.
+Fold 2: 0.31685303924681973.
+Fold 3: 0.34922512649759274.
+Fold 4: 0.3272751699244999.
+Fold 5: 0.3347766660430587.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 32
+head: 4
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 22.12.2023 16:38:11
+Average validation accuracy: 0.3196356070363334
+Fold 1: 0.3268234462734866.
+Fold 2: 0.3161022636347211.
+Fold 3: 0.3268997948424342.
+Fold 4: 0.3193724420190996.
+Fold 5: 0.30898008841192565.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 128
+head: 4
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 22.12.2023 17:28:10
+Average validation accuracy: 0.31395367393182394
+Fold 1: 0.3157673745173745.
+Fold 2: 0.31483179989872645.
+Fold 3: 0.3090194698569083.
+Fold 4: 0.317765022675737.
+Fold 5: 0.3123847027103732.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 64
+head: 4
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 22.12.2023 18:28:32
+Average validation accuracy: 0.311430050406853
+Fold 1: 0.30972883389723815.
+Fold 2: 0.31051712774106205.
+Fold 3: 0.3116601238109618.
+Fold 4: 0.3093085106382979.
+Fold 5: 0.3159356559467051.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 128
+head: 3
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 22.12.2023 19:11:57
+Average validation accuracy: 0.31419321917482496
+Fold 1: 0.3167266506709322.
+Fold 2: 0.3177512409366148.
+Fold 3: 0.310616536806836.
+Fold 4: 0.3120979532163743.
+Fold 5: 0.3137737142433674.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 256
+head: 4
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 22.12.2023 19:32:39
+Average validation accuracy: 0.3153036559781778
+Fold 1: 0.3065389648153533.
+Fold 2: 0.31230292818228633.
+Fold 3: 0.3175862839814554.
+Fold 4: 0.31551027097902096.
+Fold 5: 0.3245798319327731.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 256
+head: 4
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 22.12.2023 20:16:32
+Average validation accuracy: 0.27397945518713845
+Fold 1: 0.2576001618921024.
+Fold 2: 0.2823973219797046.
+Fold 3: 0.27820707070707074.
+Fold 4: 0.26292766736026457.
+Fold 5: 0.28876505399655006.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 128
+head: 21
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 22.12.2023 23:38:37
+Average validation accuracy: 0.30418029945018243
+Fold 1: 0.2711458593947865.
+Fold 2: 0.3198750901875902.
+Fold 3: 0.30917582104969865.
+Fold 4: 0.29772135116882315.
+Fold 5: 0.3229833754500139.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 256
+head: 7
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 23.12.2023 00:03:02
+Average validation accuracy: 0.31065180000828396
+Fold 1: 0.310279065698539.
+Fold 2: 0.31653172598401447.
+Fold 3: 0.31573837868480725.
+Fold 4: 0.3093661622426197.
+Fold 5: 0.30134366743143964.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 64
+head: 2
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 23.12.2023 02:21:38
+Average validation accuracy: 0.3154282094837936
+Fold 1: 0.30850668284377997.
+Fold 2: 0.31541616600425176.
+Fold 3: 0.31677745943857843.
+Fold 4: 0.3135430463576159.
+Fold 5: 0.32289769277474195.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 128
+head: 2
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 23.12.2023 02:45:51
+Average validation accuracy: 0.26489098630386043
+Fold 1: 0.25670663947590716.
+Fold 2: 0.2623539920588147.
+Fold 3: 0.2710439908259907.
+Fold 4: 0.2675959974246358.
+Fold 5: 0.2667543117339537.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 256
+head: 6
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 23.12.2023 05:21:09
+Average validation accuracy: 0.27668006294399444
+Fold 1: 0.26013531281622226.
+Fold 2: 0.2786955463639383.
+Fold 3: 0.2716570480289121.
+Fold 4: 0.291790989591999.
+Fold 5: 0.28112141791890055.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 7
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 23.12.2023 06:08:22
+Average validation accuracy: 0.3150775575965919
+Fold 1: 0.31688093051729416.
+Fold 2: 0.3125052494050674.
+Fold 3: 0.3162713984401825.
+Fold 4: 0.3185483870967742.
+Fold 5: 0.31118182252364124.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 64
+head: 2
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 23.12.2023 07:01:24
+Average validation accuracy: 0.31879208641226836
+Fold 1: 0.31645582584366144.
+Fold 2: 0.3186970770339125.
+Fold 3: 0.3213412785826579.
+Fold 4: 0.3174408839111708.
+Fold 5: 0.3200253666899392.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 128
+head: 7
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 23.12.2023 08:34:11
+Average validation accuracy: 0.31595517725683553
+Fold 1: 0.32069309848088.
+Fold 2: 0.31926119402985076.
+Fold 3: 0.3069111207614085.
+Fold 4: 0.31590862840862843.
+Fold 5: 0.3170018446034103.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 256
+head: 6
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 23.12.2023 10:03:39
+Average validation accuracy: 0.26674418947409906
+Fold 1: 0.2646070755445755.
+Fold 2: 0.2609669071641822.
+Fold 3: 0.25937016263116586.
+Fold 4: 0.2910705072345551.
+Fold 5: 0.2577062947960168.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 128
+head: 4
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 23.12.2023 12:23:29
+Average validation accuracy: 0.3154787544911279
+Fold 1: 0.31382097356211797.
+Fold 2: 0.31352825132137274.
+Fold 3: 0.31857505070993913.
+Fold 4: 0.31383154847498673.
+Fold 5: 0.31763794838722287.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 256
+head: 21
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 23.12.2023 12:50:22
+Average validation accuracy: 0.34048425112584935
+Fold 1: 0.3423845141487989.
+Fold 2: 0.3415231160177034.
+Fold 3: 0.336973865608367.
+Fold 4: 0.3336493140353014.
+Fold 5: 0.34789044581907586.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 3
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 23.12.2023 13:56:07
+Average validation accuracy: 0.3150759408660987
+Fold 1: 0.31552727903821276.
+Fold 2: 0.3156580922204619.
+Fold 3: 0.31717956700833416.
+Fold 4: 0.3096918493968179.
+Fold 5: 0.3173229166666667.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 256
+head: 42
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 23.12.2023 14:45:20
+Average validation accuracy: 0.26383698190852883
+Fold 1: 0.2641529358299222.
+Fold 2: 0.26953227605943825.
+Fold 3: 0.26420104403638944.
+Fold 4: 0.256521156749628.
+Fold 5: 0.26477749686726615.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 64
+head: 12
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 03.01.2024 11:51:26
+Average validation accuracy: 0.2633424058963282
+Fold 1: 0.25287237744647706.
+Fold 2: 0.2652793749592437.
+Fold 3: 0.26702822706867013.
+Fold 4: 0.26975975950078623.
+Fold 5: 0.26177229050646394.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 32
+head: 2
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 03.01.2024 13:45:59
+Average validation accuracy: 0.27148163997730945
+Fold 1: 0.25683015555277294.
+Fold 2: 0.29463789034924115.
+Fold 3: 0.28591656886290884.
+Fold 4: 0.2520627265357658.
+Fold 5: 0.2679608585858586.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 256
+head: 12
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 03.01.2024 14:32:49
+Average validation accuracy: 0.2633192336023234
+Fold 1: 0.25156699955087053.
+Fold 2: 0.27113116390244774.
+Fold 3: 0.25265957446808507.
+Fold 4: 0.26536649225582576.
+Fold 5: 0.2758719378343877.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 32
+head: 6
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 03.01.2024 15:16:23
+Average validation accuracy: 0.26745823197618307
+Fold 1: 0.30654620361075596.
+Fold 2: 0.259173092610571.
+Fold 3: 0.2644019195090624.
+Fold 4: 0.2527259177987891.
+Fold 5: 0.2544440263517371.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 128
+head: 7
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 03.01.2024 16:51:34
+Average validation accuracy: 0.2707441386940472
+Fold 1: 0.2642928675083783.
+Fold 2: 0.27783899953437674.
+Fold 3: 0.2649844663265205.
+Fold 4: 0.28818977729385425.
+Fold 5: 0.25841458280710616.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 64
+head: 21
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 03.01.2024 17:26:23
+Average validation accuracy: 0.32658505379577074
+Fold 1: 0.3368151268168581.
+Fold 2: 0.319598805690434.
+Fold 3: 0.32391064533754826.
+Fold 4: 0.3245816295623202.
+Fold 5: 0.32801906157169314.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 3
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 03.01.2024 19:29:08
+Average validation accuracy: 0.31567966909821893
+Fold 1: 0.31902226102138803.
+Fold 2: 0.3158726332398317.
+Fold 3: 0.312722262129637.
+Fold 4: 0.31682651321398125.
+Fold 5: 0.3139546758862563.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 64
+head: 21
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 03.01.2024 20:00:48
+Average validation accuracy: 0.3155000566048859
+Fold 1: 0.32271946084077163.
+Fold 2: 0.3183064426186847.
+Fold 3: 0.3071132347637937.
+Fold 4: 0.32059694175764086.
+Fold 5: 0.30876420304353835.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 256
+head: 4
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 03.01.2024 20:27:27
+Average validation accuracy: 0.31345733580108803
+Fold 1: 0.3148164335664336.
+Fold 2: 0.31253968253968256.
+Fold 3: 0.31288291354663034.
+Fold 4: 0.3106701992537906.
+Fold 5: 0.31637745009890306.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 64
+head: 6
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 03.01.2024 22:47:28
+Average validation accuracy: 0.316364116349244
+Fold 1: 0.3200325334235309.
+Fold 2: 0.3225529826962205.
+Fold 3: 0.31316392586448283.
+Fold 4: 0.3101740738649198.
+Fold 5: 0.3158970658970659.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 32
+head: 7
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 03.01.2024 23:53:18
+Average validation accuracy: 0.3056901703948737
+Fold 1: 0.3095579566868102.
+Fold 2: 0.3175910973084886.
+Fold 3: 0.2739340099671334.
+Fold 4: 0.31281328320802004.
+Fold 5: 0.31455450480391567.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 64
+head: 21
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 04.01.2024 00:35:49
+Average validation accuracy: 0.2700788454150956
+Fold 1: 0.27669576134649665.
+Fold 2: 0.2697534462588393.
+Fold 3: 0.27226311260077907.
+Fold 4: 0.26817221090392934.
+Fold 5: 0.26350969596543355.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 64
+head: 21
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 04.01.2024 01:38:12
+Average validation accuracy: 0.2718910135689935
+Fold 1: 0.2861843781071093.
+Fold 2: 0.26695405987763265.
+Fold 3: 0.27810208004768877.
+Fold 4: 0.2667041950380185.
+Fold 5: 0.26151035477451806.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 64
+head: 21
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 04.01.2024 03:11:59
+Average validation accuracy: 0.2754602061105289
+Fold 1: 0.27181929121366566.
+Fold 2: 0.26871710724620207.
+Fold 3: 0.26976914018858456.
+Fold 4: 0.296365780820495.
+Fold 5: 0.27062971108369716.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 128
+head: 3
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 04.01.2024 05:24:45
+Average validation accuracy: 0.28176086882060514
+Fold 1: 0.31213998976222873.
+Fold 2: 0.28125589047911775.
+Fold 3: 0.2748683421463452.
+Fold 4: 0.25459170498655415.
+Fold 5: 0.2859484167287798.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 256
+head: 2
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 04.01.2024 06:16:01
+Average validation accuracy: 0.3001170294275557
+Fold 1: 0.30177410617551464.
+Fold 2: 0.29545698714693125.
+Fold 3: 0.30688747033385555.
+Fold 4: 0.3071171506577315.
+Fold 5: 0.2893494328237456.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 128
+head: 7
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 04.01.2024 11:31:39
+Average validation accuracy: 0.2688241764906994
+Fold 1: 0.2809954445454111.
+Fold 2: 0.2685994229819085.
+Fold 3: 0.2591124938297891.
+Fold 4: 0.2696629269844357.
+Fold 5: 0.2657505941119524.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 128
+head: 4
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 04.01.2024 12:14:22
+Average validation accuracy: 0.26615639288178083
+Fold 1: 0.2705166457126458.
+Fold 2: 0.2539356297122596.
+Fold 3: 0.26536686639335644.
+Fold 4: 0.2681085664645213.
+Fold 5: 0.2728542561261212.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 128
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 04.01.2024 14:07:11
+Average validation accuracy: 0.28051951486279225
+Fold 1: 0.27542085154975593.
+Fold 2: 0.2704453454755851.
+Fold 3: 0.2675968546822231.
+Fold 4: 0.27908887563640816.
+Fold 5: 0.3100456469699891.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 128
+head: 12
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 04.01.2024 14:46:33
+Average validation accuracy: 0.31567519537511596
+Fold 1: 0.3165989159891599.
+Fold 2: 0.31576882149507846.
+Fold 3: 0.3149386402874341.
+Fold 4: 0.31691371041098154.
+Fold 5: 0.31415588869292577.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 04.01.2024 16:14:53
+Average validation accuracy: 0.33133085900009307
+Fold 1: 0.35384237653331707.
+Fold 2: 0.3180534901013105.
+Fold 3: 0.3179539117443.
+Fold 4: 0.3274633152471238.
+Fold 5: 0.3393412013744141.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 32
+head: 21
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 04.01.2024 17:14:05
+Average validation accuracy: 0.31677016333499175
+Fold 1: 0.3205463090637199.
+Fold 2: 0.3166095890410959.
+Fold 3: 0.31811913599340136.
+Fold 4: 0.3129653332812225.
+Fold 5: 0.3156104492955191.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 128
+head: 12
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 04.01.2024 19:39:30
+Average validation accuracy: 0.26949104113005956
+Fold 1: 0.2720806304358272.
+Fold 2: 0.25350849042903556.
+Fold 3: 0.273471839553322.
+Fold 4: 0.2636982217729603.
+Fold 5: 0.2846960234591527.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 256
+head: 21
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 04.01.2024 20:26:47
+Average validation accuracy: 0.31590226634324725
+Fold 1: 0.3125226970100472.
+Fold 2: 0.31675925925925924.
+Fold 3: 0.3267815763339252.
+Fold 4: 0.3117065670986163.
+Fold 5: 0.31174123201438847.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 32
+head: 3
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 04.01.2024 21:17:37
+Average validation accuracy: 0.2644241752026658
+Fold 1: 0.28078036076761187.
+Fold 2: 0.26568313165974355.
+Fold 3: 0.2706649025601231.
+Fold 4: 0.25430543295080654.
+Fold 5: 0.25068704807504394.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 32
+head: 42
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 04.01.2024 21:41:44
+Average validation accuracy: 0.2649123353119989
+Fold 1: 0.26656281266836224.
+Fold 2: 0.25257709180845545.
+Fold 3: 0.2747716220279446.
+Fold 4: 0.26598568652988214.
+Fold 5: 0.26466446352535006.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 256
+head: 21
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 04.01.2024 23:45:08
+Average validation accuracy: 0.27352367528686145
+Fold 1: 0.256199455833617.
+Fold 2: 0.2541013547063755.
+Fold 3: 0.29186001231247916.
+Fold 4: 0.30274222883597884.
+Fold 5: 0.2627153247458569.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 256
+head: 12
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 05.01.2024 02:09:23
+Average validation accuracy: 0.2845563781336562
+Fold 1: 0.2636914784229135.
+Fold 2: 0.3011278859230856.
+Fold 3: 0.2937230260069438.
+Fold 4: 0.286063266939934.
+Fold 5: 0.27817623337540404.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 256
+head: 21
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 05.01.2024 02:41:50
+Average validation accuracy: 0.2664559364070833
+Fold 1: 0.2579839827533166.
+Fold 2: 0.25398656856140106.
+Fold 3: 0.2818697463173881.
+Fold 4: 0.27484236685566765.
+Fold 5: 0.2635970175476432.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 32
+head: 4
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 05.01.2024 03:29:25
+Average validation accuracy: 0.319562065894089
+Fold 1: 0.3217688911298665.
+Fold 2: 0.31672969533977335.
+Fold 3: 0.3107020959154685.
+Fold 4: 0.32979891170041886.
+Fold 5: 0.3188107353849176.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 64
+head: 6
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 05.01.2024 06:16:03
+Average validation accuracy: 0.31453509613940783
+Fold 1: 0.30201337810467965.
+Fold 2: 0.3176556666604131.
+Fold 3: 0.31269680611785877.
+Fold 4: 0.32765151515151514.
+Fold 5: 0.31265811466257243.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 128
+head: 21
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 05.01.2024 08:35:14
+Average validation accuracy: 0.26704776345096815
+Fold 1: 0.28234127821409094.
+Fold 2: 0.2602179378687466.
+Fold 3: 0.27293011171710224.
+Fold 4: 0.25.
+Fold 5: 0.26974948945490107.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 128
+head: 7
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 05.01.2024 10:38:07
+Average validation accuracy: 0.2710338581229792
+Fold 1: 0.25291082558567374.
+Fold 2: 0.26356560057496475.
+Fold 3: 0.2973400514250221.
+Fold 4: 0.27779341183637324.
+Fold 5: 0.2635594011928621.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 05.01.2024 11:07:32
+Average validation accuracy: 0.276986093717452
+Fold 1: 0.2680076825658397.
+Fold 2: 0.27018841976222024.
+Fold 3: 0.27841133816743574.
+Fold 4: 0.295618643059754.
+Fold 5: 0.27270438503201.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 32
+head: 21
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 05.01.2024 12:31:19
+Average validation accuracy: 0.3160178139755148
+Fold 1: 0.31269013319854355.
+Fold 2: 0.31755423398153393.
+Fold 3: 0.31076475029662387.
+Fold 4: 0.32051188733237945.
+Fold 5: 0.31856806506849317.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 128
+head: 12
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 05.01.2024 13:45:12
+Average validation accuracy: 0.3201518721600804
+Fold 1: 0.3126895498983811.
+Fold 2: 0.32982438511271506.
+Fold 3: 0.31322393822393824.
+Fold 4: 0.32364890301800764.
+Fold 5: 0.32137258454736006.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 64
+head: 12
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 05.01.2024 14:16:19
+Average validation accuracy: 0.2822815575578709
+Fold 1: 0.28310616296548524.
+Fold 2: 0.25957955863340065.
+Fold 3: 0.27098563215697724.
+Fold 4: 0.2923371882403124.
+Fold 5: 0.3053992457931788.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 64
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 05.01.2024 14:39:02
+Average validation accuracy: 0.2647207002692236
+Fold 1: 0.25306122448979596.
+Fold 2: 0.2671702958437089.
+Fold 3: 0.2789464931369194.
+Fold 4: 0.2678825605424461.
+Fold 5: 0.25654292733324774.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 256
+head: 3
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 05.01.2024 15:17:40
+Average validation accuracy: 0.31572107875951894
+Fold 1: 0.3146400415974133.
+Fold 2: 0.3130816203663886.
+Fold 3: 0.31459260436533165.
+Fold 4: 0.3136542815557532.
+Fold 5: 0.32263684591270797.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 256
+head: 2
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: None
+Target mode: whole_DNA_seq
+
+
+Time: 05.01.2024 15:56:52
+Average validation accuracy: 0.31383960460721383
+Fold 1: 0.319545179074132.
+Fold 2: 0.3108785490166067.
+Fold 3: 0.3176197588330157.
+Fold 4: 0.3115188979475077.
+Fold 5: 0.3096356381648071.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 64
+head: 7
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 05.01.2024 16:30:15
+Average validation accuracy: 0.2684938309453403
+Fold 1: 0.26660198207038793.
+Fold 2: 0.2793871328498569.
+Fold 3: 0.27015963407887766.
+Fold 4: 0.2551417956914906.
+Fold 5: 0.27117861003608845.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 32
+head: 12
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 05.01.2024 16:49:41
+Average validation accuracy: 0.31441145333366105
+Fold 1: 0.3196372216702706.
+Fold 2: 0.314216628959276.
+Fold 3: 0.3136334954701969.
+Fold 4: 0.3109080615942029.
+Fold 5: 0.31366185897435894.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: max
+Target mode: whole_DNA_seq
+
+
+Time: 05.01.2024 17:20:56
+Average validation accuracy: 0.3215193732543439
+Fold 1: 0.31270636699166965.
+Fold 2: 0.32575122292103426.
+Fold 3: 0.3172102879266276.
+Fold 4: 0.3317094416901782.
+Fold 5: 0.32021954674220965.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 128
+head: 2
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 05.01.2024 17:41:35
+Average validation accuracy: 0.26712450227184875
+Fold 1: 0.27168112816198586.
+Fold 2: 0.2820401210303034.
+Fold 3: 0.2576553687159764.
+Fold 4: 0.2556053659924761.
+Fold 5: 0.26864052745850203.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 128
+head: 21
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: whole_DNA_seq
+
+
+Time: 05.01.2024 18:13:59
+Average validation accuracy: 0.28462984465939395
+Fold 1: 0.2765551122931442.
+Fold 2: 0.2845961106278092.
+Fold 3: 0.2903603988363046.
+Fold 4: 0.25985377191287407.
+Fold 5: 0.31178382962683754.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 128
+head: 4
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: max
+Target mode: whole_DNA_seq
+
+

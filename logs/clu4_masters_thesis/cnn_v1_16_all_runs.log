@@ -1,0 +1,676 @@
+Time: 11.01.2024 11:26:37
+Accuracy: 0.8497570797450862
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 11:51:39
+Accuracy: 0.8765244179001002
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 12:16:43
+Accuracy: 0.860466177831538
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 12:41:49
+Accuracy: 0.6239524791313984
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 13:06:53
+Accuracy: 0.8966447055985128
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 13:31:56
+Accuracy: 0.8535049101688467
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 13:57:01
+Accuracy: 0.8831420530439944
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 14:22:22
+Accuracy: 0.8863096005946239
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 14:47:55
+Accuracy: 0.8474716923785545
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 15:12:35
+Accuracy: 0.8885999485433919
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 15:37:31
+Accuracy: 0.870087865851876
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 16:03:00
+Accuracy: 0.8265743361583896
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 16:28:36
+Accuracy: 0.8460402738114302
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 16:54:10
+Accuracy: 0.8687988247325548
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 17:19:20
+Accuracy: 0.8433705068536792
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 17:44:30
+Accuracy: 0.8780390251797936
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 18:09:36
+Accuracy: 0.852628729955382
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 18:34:45
+Accuracy: 0.8199838544764547
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 18:59:48
+Accuracy: 0.8776214605246212
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 19:24:55
+Accuracy: 0.9075065179958857
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 19:50:03
+Accuracy: 0.887681384940546
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 20:15:05
+Accuracy: 0.80300118137848
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 20:40:14
+Accuracy: 0.8633417215759565
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 21:05:22
+Accuracy: 0.8635024976604373
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 21:30:31
+Accuracy: 0.8849931922065559
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 21:55:39
+Accuracy: 0.8956864235788083
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 22:20:46
+Accuracy: 0.8441893484556556
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 22:45:56
+Accuracy: 0.8589068895669278
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 23:11:08
+Accuracy: 0.8656310633751383
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 11.01.2024 23:36:19
+Accuracy: 0.8907022610352368
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 12.01.2024 00:01:29
+Accuracy: 0.5465617545225895
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 12.01.2024 00:26:39
+Accuracy: 0.7787089831206226
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 12.01.2024 00:51:49
+Accuracy: 0.8650904585404942
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 12.01.2024 01:16:59
+Accuracy: 0.8925728566154228
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 12.01.2024 01:42:12
+Accuracy: 0.8823338633888219
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 12.01.2024 02:07:17
+Accuracy: 0.8476973009031198
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 12.01.2024 02:32:25
+Accuracy: 0.8441699933149304
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 12.01.2024 02:57:34
+Accuracy: 0.8796534802290547
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 12.01.2024 03:22:42
+Accuracy: 0.8690139143603599
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 12.01.2024 03:47:55
+Accuracy: 0.8675678761749709
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 12.01.2024 04:13:10
+Accuracy: 0.8886187138951164
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 12.01.2024 04:38:26
+Accuracy: 0.8470357714508974
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 12.01.2024 05:03:34
+Accuracy: 0.8543169238543875
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 12.01.2024 05:28:41
+Accuracy: 0.8576351171518213
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 12.01.2024 05:53:49
+Accuracy: 0.8766322777976889
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 12.01.2024 06:18:58
+Accuracy: 0.8499314448064464
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 12.01.2024 06:44:06
+Accuracy: 0.8771655119246731
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 12.01.2024 07:09:20
+Accuracy: 0.8605167355243669
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 12.01.2024 07:34:31
+Accuracy: 0.8915953319848811
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 12.01.2024 07:59:42
+Accuracy: 0.8586809970698805
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 12.01.2024 08:24:54
+Accuracy: 0.899873503167147
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+
+Time: 12.01.2024 08:50:06
+Accuracy: 0.867676879243833
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 64
+Momentum: 0.193
+T_max: 0.715
+
+

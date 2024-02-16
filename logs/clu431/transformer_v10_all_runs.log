@@ -1,0 +1,1876 @@
+Time: 12.01.2024 10:04:05
+Validation accuracy: 0.4829499247969761
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 12.01.2024 10:36:10
+Validation accuracy: 0.4792737356864118
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 12.01.2024 11:13:13
+Validation accuracy: 0.4754513634724592
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 12.01.2024 11:48:41
+Validation accuracy: 0.49686286953936953
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 12.01.2024 12:29:39
+Validation accuracy: 0.477493266528623
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 12.01.2024 13:06:54
+Validation accuracy: 0.48484824927885656
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 12.01.2024 13:45:46
+Validation accuracy: 0.496858276158168
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 12.01.2024 14:19:52
+Validation accuracy: 0.4857567424798185
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 12.01.2024 14:56:20
+Validation accuracy: 0.48747841340154235
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 12.01.2024 16:20:04
+Validation accuracy: 0.47602010526628263
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 12.01.2024 16:53:01
+Validation accuracy: 0.4758527145444069
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 12.01.2024 17:31:28
+Validation accuracy: 0.4950332467346131
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 12.01.2024 18:11:30
+Validation accuracy: 0.48381183463098854
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 12.01.2024 18:49:54
+Validation accuracy: 0.47245809752578904
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 12.01.2024 19:30:17
+Validation accuracy: 0.5017532766278988
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 12.01.2024 20:11:07
+Validation accuracy: 0.4797923170343094
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 12.01.2024 20:46:47
+Validation accuracy: 0.4983092654101946
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 12.01.2024 21:17:40
+Validation accuracy: 0.46789490563283376
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 12.01.2024 21:56:10
+Validation accuracy: 0.47720803559074776
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 12.01.2024 22:30:50
+Validation accuracy: 0.4664442987247942
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 12.01.2024 23:05:30
+Validation accuracy: 0.4896526175102347
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 12.01.2024 23:43:30
+Validation accuracy: 0.4854761749152502
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 00:17:47
+Validation accuracy: 0.4844598053131914
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 00:58:47
+Validation accuracy: 0.49051481787287493
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 01:37:46
+Validation accuracy: 0.4946355514526896
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 02:13:14
+Validation accuracy: 0.488583155421689
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 02:48:53
+Validation accuracy: 0.4753184601879427
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 03:25:19
+Validation accuracy: 0.49454446946007113
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 03:56:34
+Validation accuracy: 0.4804600128222387
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 04:31:14
+Validation accuracy: 0.4746868362713944
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 05:16:38
+Validation accuracy: 0.477325890811707
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 05:49:05
+Validation accuracy: 0.47493515561677185
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 06:22:59
+Validation accuracy: 0.4668579694226691
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 07:05:00
+Validation accuracy: 0.4939665519248783
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 07:37:30
+Validation accuracy: 0.4890062417828713
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 08:20:29
+Validation accuracy: 0.48926998191431414
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 08:56:44
+Validation accuracy: 0.47342262662301215
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 09:36:08
+Validation accuracy: 0.4751219727058377
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 10:11:58
+Validation accuracy: 0.46605142546353534
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 10:45:51
+Validation accuracy: 0.48309824883865127
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 11:32:48
+Validation accuracy: 0.47292616816646177
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 12:09:05
+Validation accuracy: 0.4812905276832603
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 12:49:51
+Validation accuracy: 0.4939279946244729
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 13:29:39
+Validation accuracy: 0.48034404893875704
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 14:06:55
+Validation accuracy: 0.48153410507746636
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 14:43:59
+Validation accuracy: 0.4787226091388934
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 15:22:47
+Validation accuracy: 0.48666022156089933
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 15:57:51
+Validation accuracy: 0.484113756826059
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 16:34:54
+Validation accuracy: 0.4916896255653044
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 17:12:54
+Validation accuracy: 0.4678258433008229
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 17:49:22
+Validation accuracy: 0.481669655822048
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 18:26:59
+Validation accuracy: 0.4874857789210546
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 19:02:26
+Validation accuracy: 0.49553597607120514
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 19:37:06
+Validation accuracy: 0.49469542420221513
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 20:23:55
+Validation accuracy: 0.49357965458105063
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 21:00:48
+Validation accuracy: 0.4849489324321287
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 21:35:12
+Validation accuracy: 0.4920334407059138
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 22:13:20
+Validation accuracy: 0.4881654748627642
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 22:48:13
+Validation accuracy: 0.48529016179810885
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 13.01.2024 23:25:04
+Validation accuracy: 0.49762757037702976
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 00:00:22
+Validation accuracy: 0.48062448254261125
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 00:34:50
+Validation accuracy: 0.47617659428531944
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 01:13:29
+Validation accuracy: 0.48470815967216124
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 01:48:45
+Validation accuracy: 0.48256836080929044
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 02:24:14
+Validation accuracy: 0.5016659496037489
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 03:04:15
+Validation accuracy: 0.49203139833369053
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 03:47:15
+Validation accuracy: 0.4857365092104151
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 04:23:55
+Validation accuracy: 0.4948129654648888
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 04:59:10
+Validation accuracy: 0.48164843229972365
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 05:39:01
+Validation accuracy: 0.5019564834138447
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 06:17:01
+Validation accuracy: 0.4767204209682655
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 07:00:00
+Validation accuracy: 0.4793814376402603
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 07:42:05
+Validation accuracy: 0.4800783316799504
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 08:22:15
+Validation accuracy: 0.488202912126921
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 08:57:18
+Validation accuracy: 0.4820643953994224
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 09:30:36
+Validation accuracy: 0.4881535757882561
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 10:03:28
+Validation accuracy: 0.4783404544166491
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 10:37:58
+Validation accuracy: 0.475880151205032
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 11:15:23
+Validation accuracy: 0.49791545078682237
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 11:52:14
+Validation accuracy: 0.4911777481795003
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 12:34:49
+Validation accuracy: 0.4800141832243105
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 13:14:41
+Validation accuracy: 0.48329252884698304
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 13:50:43
+Validation accuracy: 0.48353299160750496
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 14:30:10
+Validation accuracy: 0.4931382147013784
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 15:10:47
+Validation accuracy: 0.48585631617175656
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 15:44:29
+Validation accuracy: 0.48249395121908284
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 16:16:33
+Validation accuracy: 0.4896411506464663
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 16:51:02
+Validation accuracy: 0.479172033266023
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 17:32:38
+Validation accuracy: 0.4902681461398
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 18:04:20
+Validation accuracy: 0.47708969605749973
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 18:44:58
+Validation accuracy: 0.4818857711736614
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 19:21:52
+Validation accuracy: 0.48005943996688216
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 19:59:56
+Validation accuracy: 0.48395026376878875
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 20:37:47
+Validation accuracy: 0.4691005822062397
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 21:18:12
+Validation accuracy: 0.48724007581917517
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 21:56:01
+Validation accuracy: 0.4881509156131394
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 22:31:52
+Validation accuracy: 0.4888450069843278
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 23:11:44
+Validation accuracy: 0.4966072888722347
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 14.01.2024 23:45:34
+Validation accuracy: 0.4679479788615015
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 00:19:42
+Validation accuracy: 0.4878772646667324
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 01:01:31
+Validation accuracy: 0.4880825638818322
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 01:37:24
+Validation accuracy: 0.4833771312999483
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 02:12:17
+Validation accuracy: 0.482597249294904
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 02:43:47
+Validation accuracy: 0.4763254007940499
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 03:20:13
+Validation accuracy: 0.48283698991855184
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 03:56:16
+Validation accuracy: 0.48911540284521443
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 04:34:31
+Validation accuracy: 0.48345486661870846
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 05:10:36
+Validation accuracy: 0.4891920422717168
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 05:46:15
+Validation accuracy: 0.4736870198181252
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 06:23:44
+Validation accuracy: 0.4839757045184749
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 07:05:56
+Validation accuracy: 0.4840496543767001
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 07:45:49
+Validation accuracy: 0.49716390550099276
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 08:21:54
+Validation accuracy: 0.4963167497951557
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 08:58:33
+Validation accuracy: 0.4770126743836373
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 09:41:56
+Validation accuracy: 0.47987982646733834
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 10:17:15
+Validation accuracy: 0.4842857145095899
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 10:54:07
+Validation accuracy: 0.49459524282498585
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 11:28:35
+Validation accuracy: 0.47541943087793936
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 12:06:04
+Validation accuracy: 0.48792569935763197
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 12:42:54
+Validation accuracy: 0.48704664725270963
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 13:18:48
+Validation accuracy: 0.4925699560550519
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 13:54:26
+Validation accuracy: 0.48223250950134083
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 14:27:09
+Validation accuracy: 0.475551510666372
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 15:05:24
+Validation accuracy: 0.4864153636597228
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 15:37:30
+Validation accuracy: 0.48087788874356563
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 16:14:33
+Validation accuracy: 0.4868681743462572
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 16:50:02
+Validation accuracy: 0.48360016285645446
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 17:28:18
+Validation accuracy: 0.4927989894029296
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 18:03:12
+Validation accuracy: 0.4821882054435084
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 18:42:40
+Validation accuracy: 0.48220864051185247
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 15.01.2024 19:14:33
+Validation accuracy: 0.4904546812010231
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 23.01.2024 14:04:43
+Validation accuracy: 0.24807121721812436
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 23.01.2024 14:42:29
+Validation accuracy: 0.25819514556440615
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+
+Time: 24.01.2024 16:31:59
+Validation accuracy: 0.4535175174314505
+
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: whole_matrix
+
+

@@ -1,0 +1,378 @@
+Time: 09.01.2024 00:20:39
+Validation accuracy: 0.4080156255013519
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 09.01.2024 01:38:09
+Validation accuracy: 0.4154180192751079
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 09.01.2024 02:55:57
+Validation accuracy: 0.4211845119816998
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 09.01.2024 04:13:38
+Validation accuracy: 0.4181172053225348
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 09.01.2024 05:30:56
+Validation accuracy: 0.4171412895532665
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 09.01.2024 06:48:36
+Validation accuracy: 0.42365022188169393
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 09.01.2024 08:06:11
+Validation accuracy: 0.4141111621321197
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 09.01.2024 09:24:01
+Validation accuracy: 0.40842408950591763
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 09.01.2024 10:41:45
+Validation accuracy: 0.4257868733567227
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 09.01.2024 11:59:25
+Validation accuracy: 0.41906950412718824
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 09.01.2024 13:17:13
+Validation accuracy: 0.41955820020831797
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 09.01.2024 14:34:52
+Validation accuracy: 0.41654751670346524
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 09.01.2024 15:52:35
+Validation accuracy: 0.4071614985701888
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 09.01.2024 17:10:19
+Validation accuracy: 0.4067305710651216
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 09.01.2024 18:27:53
+Validation accuracy: 0.4311237202891922
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 09.01.2024 19:45:23
+Validation accuracy: 0.42764892086104783
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 09.01.2024 21:02:54
+Validation accuracy: 0.41845318724243424
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 09.01.2024 22:20:29
+Validation accuracy: 0.4298560650160354
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 09.01.2024 23:38:00
+Validation accuracy: 0.41337014228185215
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 10.01.2024 00:55:26
+Validation accuracy: 0.4264175719344519
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 10.01.2024 02:12:52
+Validation accuracy: 0.41254088546601664
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 10.01.2024 03:30:47
+Validation accuracy: 0.4222668154034416
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 10.01.2024 04:48:33
+Validation accuracy: 0.40975804195675214
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 10.01.2024 06:06:14
+Validation accuracy: 0.4190256044821231
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 10.01.2024 07:23:55
+Validation accuracy: 0.4022163473766618
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 10.01.2024 08:41:43
+Validation accuracy: 0.43122077800171954
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 10.01.2024 10:00:25
+Validation accuracy: 0.4148348968229361
+
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+

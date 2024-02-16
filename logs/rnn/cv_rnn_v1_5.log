@@ -1,0 +1,311 @@
+Created: 17.11.2023 15:02:57
+Model version: rnn_v1_5
+Path: saved_models/rnn/rnn_v1_5.pth
+Run name: None
+Accuracy: 0.42520055711932364
+
+Fold 1: 0.4099057468169378.
+Fold 2: 0.40077533264557574.
+Fold 3: 0.4412195141039731.
+Fold 4: 0.4240818345844205.
+Fold 5: 0.4500203574457112.
+
+Hyperparameters:
+Optimizer: SGD
+Momentum: 0
+Learning rate: 0.01
+Weight decay: 0.0001
+Used CosineAnnealingLR scheduler with T_max 0.922
+Used CrossEntropyLoss with label smoothing 0
+Balanced classes
+Data normalized: True
+Bidirectional: True
+Hidden_dim: 51
+N_layers: 1
+Train batch size: 64
+Validation batch size: 5
+
+
+--------------------------Script of the model can be seen below.---------------------------
+import torch
+import torch.nn as nn
+import torch.nn.functional as F
+import os
+
+current_file_name = os.path.basename(__file__)
+model_version=current_file_name.split('.')[0]
+
+class rnn(nn.Module):
+    def __init__(self, bidirectional, hidden_dim, n_layers):
+        super(rnn, self).__init__()
+        # YOUR CODE HERE
+        input_size=84
+        output_size=8
+        self.norm0=nn.BatchNorm2d(1)
+        self.bidirectional=bidirectional #True
+        self.hidden_dim=hidden_dim #35
+        self.n_layers = n_layers
+        fc_input=33*(int(self.bidirectional)+1)*self.hidden_dim
+        self.dropout=nn.Dropout(0.2)
+        self.rnn = nn.RNN(input_size, self.hidden_dim, self.n_layers, batch_first=True, bidirectional=self.bidirectional)
+        self.fc1 = nn.Linear(fc_input, 250)
+        self.fc2 = nn.Linear(250, 200)
+        self.fc3 = nn.Linear(200, output_size)
+
+    def forward(self, x):
+        """
+        Args:
+          x of shape (batch_size, 1, length (33), height (84)): Input sequences.
+        
+        Returns:
+          y of shape (batch_size, 8): Outputs of the network.
+        """
+        x=torch.squeeze(x) #(batch_size,L,H)
+        batch_size = x.size(0)
+        hidden = self.init_hidden(batch_size)
+        out, hidden = self.rnn(x, hidden) #(N,L,D∗hidden_dim), where D = 2 if bidirectional=True otherwise 1
+        #out = out.contiguous().view(-1, self.hidden_dim)
+        out = out.contiguous().view(-1, self.num_flat_features(out)) #(N, L*D*hidden_dim)
+        out=F.relu(self.fc1(out))
+        out=self.dropout(out)
+        out=F.relu(self.fc2(out))
+        out=self.dropout(out)
+        out=self.fc3(out)
+        return out, hidden
+    
+
+    
+    def init_hidden(self, batch_size):
+        # This method generates the first hidden state of zeros which we'll use in the forward pass
+        # We'll send the tensor holding the hidden state to the device we specified earlier as well
+        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        hidden = torch.zeros((int(self.bidirectional)+1)*self.n_layers, batch_size, self.hidden_dim, device=device)
+        return hidden
+    
+    def num_flat_features(self, x):
+        size = x.size()[1:]  # all dimensions except the batch dimension
+        num_features = 1
+        for s in size:
+            num_features *= s
+        return num_features
+-------------------------------------------------------------------------------------------
+
+
+
+------------------------------Created input matrices with script:------------------------------
+import numpy as np
+import torch
+import statistics
+from torch.utils.data import Dataset
+
+class FeatureDataset(Dataset):
+    def __init__(self, data, labels):
+        '''
+        Args:
+        info_dir (string/pandas Dataframe): Path to excel file(or the file itself), that contains clinical info about PET images
+        seed (int): seed for sampling images
+        norm_mean_std (str): string that indicates the means and stds for normalization
+        prob_gaussian (float): Probability for blurring images
+        simple_transformation (bool): Whether to use minimal transformations
+        
+        Outputs:
+        image (torch.Tensor): Image as torch Tensor. Shape (1,3,512,512)
+        label (torch.Tensor): Label indicating if there is cancer in the picture. 1=Cancer, 0=Benign 
+        '''
+        self.data_tensor=data
+        self.labels=labels
+
+    def __len__(self):
+        return self.data_tensor.shape[0] 
+    
+    def __getitem__(self, idx):
+        #load images
+        tensor = self.data_tensor[idx,:,:,:]
+        #load labels 
+        label = self.labels[idx]
+        
+        return tensor, label
+    
+    
+def get_norm_values(file):
+    numbers=dict()
+    previous_id=None
+    with open(file, 'r') as fr:
+        for line in fr:
+            if line.startswith('#'):
+                if line.startswith("#ID:"):
+                        if line.strip()!=previous_id:
+                            previous_id=line.strip()
+                            channel=0
+                        else:
+                            channel+=1
+                continue
+            if not channel in numbers:
+                numbers[channel]=list()
+            numbers[channel] += [float(number) for number in line.strip().split(',')]
+    mins=dict()
+    maxes=dict()
+    for channel in numbers:
+        mins[channel]=min(numbers[channel])
+        maxes[channel]=max(numbers[channel])
+    return mins, maxes
+
+
+def parse_matrices(file, classes, norm):
+    if norm:
+        mins, maxes = get_norm_values(file)
+    bases={'A': 0, 'C': 1, 'G': 2, 'T': 3}
+    #classes={'AA': 0, 'AC': 1, 'AG': 2, 'AT': 3, 'CA': 4, 'CC': 5, 'CG': 6, 'CT': 7, 'GA':8, 'GC': 9, 'GG': 10,
+    #        'GT': 11, 'TA': 12, 'TC': 13, 'TG': 14, 'TT': 15}
+    #classes={'A': 0, 'C': 1, 'G': 2, 'T': 3, 'N':4}
+    #classes={'altA': 0, 'altC': 1, 'altG': 2, 'altT': 3, 'refA': 4, 'refC': 5, 'refG': 6, 'refT': 7}
+    row=0
+    #temp_3d=np.empty((1,1,1))
+    df_target=np.empty((1,1,1))
+    first_row_of_sample=True
+    first_sample=True
+    df_input=None
+    new_sampleid=True
+    previous_id=None
+    single_class=list()
+    target=list()
+    row_list=list()
+    same_summa=0
+    with open(file, 'r') as fr:
+        for line in fr:
+            if line.startswith('#'):
+                if line.startswith("#ID:"):
+                    if previous_id==None:
+                        previous_id=line.strip()
+                        channel=0
+                        continue
+                    elif line.strip()!=previous_id:
+                        new_sampleid=True
+                        channel=0
+                        if first_sample:
+                            df_input=temp_2d
+                            first_sample=False
+                        else:
+                            df_input=np.concatenate((df_input, temp_2d), axis=0)
+                        first_row_of_sample=True
+                        previous_id=line.strip()
+                    else:
+                        channel+=1
+                if new_sampleid:
+                    if line.startswith('#REF:'):
+                        ref=line[6]
+                    elif line.startswith('#ALT:'):
+                        alt=line[6]
+                        target.append(torch.tensor(classes[ref+alt]))
+                        new_sampleid=False
+                continue
+            if norm:
+                numbers = [(float(number)-mins[channel])/(maxes[channel]-mins[channel]) for number in line.strip().split(',')]
+            else:
+                numbers= [float(number) for number in line.strip().split(',')]
+            row_in_array=np.array(numbers).reshape(1,1,-1,1)
+            if first_row_of_sample:
+                temp_2d=row_in_array
+                first_row_of_sample=False
+            else:
+                temp_2d=np.concatenate((temp_2d, row_in_array), axis=3)
+
+    if not first_row_of_sample:
+        df_input=np.concatenate((df_input, temp_2d), axis=0)
+    return torch.Tensor(df_input), torch.tensor(target,dtype=torch.long)
+    
+    
+if __name__=='__main__':
+    raise RuntimeError()
+-------------------------------------------------------------------------------------------
+
+
+
+------------------------------Computed accuracies with script:-----------------------------
+import torch
+
+def count_f_scores(tp,fp,tn,fn):
+    if (tp+fp)==0:
+        precision=0
+    else:
+        precision=tp/(tp+fp)
+    if tp+fn==0:
+        recall=0
+    else:
+        recall=tp/(tp+fn)
+    if precision==0 and recall==0:
+        f1=f2=0
+    else:
+        f1=2*(precision*recall)/(precision+recall)
+        f2=5*(precision*recall)/(4*precision+recall)
+    return f1, f2, precision, recall
+
+def count_pred_types(ftp, ftn, tp,fp,tn,fn, labels, predicted):
+    for label, prediction in zip(labels, predicted):
+        if label in [1,7]:
+            if label==prediction:
+                tn+=1
+            else:
+                fp+=1
+                if prediction in [1,7]:
+                    ftn+=1
+        else:
+            if label==prediction:
+                tp+=1
+            else:
+                fn+=1
+                if prediction not in [1,7]:
+                    ftp+=1
+    return tp,fp,tn,fn,ftn, ftp
+
+def compute_accuracy(device, net, dataloader, criterion, datatype, verbose, cv):
+    net.eval()
+    correct = 0
+    tp=fp=tn=fn=ftn=ftp=0
+    number_of_classes=8
+    correct_per_class=[0 for i in range(number_of_classes)]
+    total_per_class=[0 for i in range(number_of_classes)]
+    with torch.no_grad():
+        tot_loss=0
+        tot_items=0
+        for sequences, labels in dataloader:
+            sequences, labels = sequences.to(device), labels.to(device)
+            result = net(sequences)
+            if isinstance(result, tuple): #RNN case returns also hidden state
+                outputs, _ = result
+            else:
+                outputs = result
+            _, predicted = torch.max(outputs.data, 1)
+            for label, prediction in zip(labels, predicted):
+                correct_per_class[int(label.item())]+=(label.item()==prediction.item())
+                total_per_class[int(label.item())]+=1
+            if cv or verbose:
+                tot_items+=len(labels)
+            if cv:
+                tot_loss+=criterion(outputs,labels).item()
+            if verbose:
+                tp,fp,tn,fn, ftn, ftp = count_pred_types(ftp, ftn, tp,fp,tn,fn, labels, predicted)
+        if cv:
+            tot_loss/=tot_items
+        for i in range(number_of_classes):
+            correct+=(correct_per_class[i]/total_per_class[i])/number_of_classes
+        if verbose:
+            f1, f2, precision, recall = count_f_scores(tp,fp,tn,fn)
+            f1_fake, f2_fake, fake_precision, fake_recall = count_f_scores((tp+ftp),(fp-ftn),(tn+ftn),(fn-ftp))
+            tn_tnfp=tn/(tn+fp) if tn+fp>0 else 0
+            fake_tpftp_tpftpfn=(tp+ftp)/(tp+ftp+fn) if (tp+ftp+fn)>0 else 0
+            fake_tnftn_tnftnfp=(tn+ftn)/(tn+ftn+fp) if (tn+ftn+fp)>0 else 0
+            print('\n',datatype)
+            print("TP:",tp,". FN:",fn, "TP/(TP+FN):",recall,"TN:",tn,"FP:",fp,"TN/(TN+FP):",tn_tnfp,
+                  "Wrong positive class predicted:",ftp, "Wrong negative class predicted:",ftn)
+            print("Fake F1-score:",f1_fake,". Fake F2-score:",f2_fake)
+            print("Fake TP/(TP+FN):",fake_tpftp_tpftpfn,"Fake TN/(TN+FP)",fake_tnftn_tnftnfp)
+            print("Fake precision:",fake_precision,"Fake recall:",fake_recall)
+            print("F1-score:",f1)
+            print("F2-score:",f2)
+            print("Precision:",precision)
+            print("Recall:",recall)
+            print("Fake accuracy:",(tn+ftn+tp+ftp)/tot_items)
+
+    return correct, tot_loss
+-------------------------------------------------------------------------------------------

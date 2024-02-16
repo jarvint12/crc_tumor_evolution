@@ -1,0 +1,298 @@
+Created: 01.03.2023 19:18:52
+Model version: cnn_v1_5
+Path: saved_models/cnn_v1_5.pth
+Run name: None
+Accuracy: 0.43314268828290087
+
+Fold 1: 0.43205358630127016.
+Fold 2: 0.47012720151561943.
+Fold 3: 0.4574231432278245.
+Fold 4: 0.4005344554102594.
+Fold 5: 0.4055750549595307.
+
+Hyperparameters:
+Optimizer: SGD
+Momentum: 0.255
+Learning rate: 0.001
+Weight decay: 1e-05
+Used CrossEntropyLoss with label smoothing 0
+Balanced classes
+Train batch size: 64
+Validation batch size: 5
+
+
+--------------------------Script of the model can be seen below.---------------------------
+import torch
+import torch.nn as nn
+import torch.nn.functional as F
+
+class cnn(nn.Module):
+    def __init__(self, many_classes):
+        super(cnn, self).__init__()
+        # YOUR CODE HERE
+        self.many_classes=many_classes
+        self.dropout=nn.Dropout(0.3)
+        self.m = nn.MaxPool1d(2, stride=2)
+        self.norm0=nn.BatchNorm2d(21)
+        #self.conv1 = nn.Conv1d(1, 6, (4,1))
+        self.conv1 = nn.Conv1d(21, 40, (4,3))
+        self.norm1=nn.BatchNorm1d(40)
+        self.conv2 = nn.Conv1d(40, 40, 3)
+        self.norm2=nn.BatchNorm1d(40)
+        self.conv3 = nn.Conv1d(40, 40, 3)
+        self.norm3=nn.BatchNorm1d(40)
+        self.conv4 = nn.Conv1d(40, 40, 5)
+        self.norm4=nn.BatchNorm1d(40)
+        self.conv1_2 = nn.Conv1d(21, 40, (4,33))
+        #self.norm1_2=nn.BatchNorm2d(15)
+        self.fc1=nn.Linear(120,200)#150) 
+        #self.bn1 = nn.BatchNorm1d(200)
+        self.fc2=nn.Linear(200,120)
+        #self.bn2 = nn.BatchNorm1d(120)
+        self.fc3=nn.Linear(120,8)
+        self.fc4=nn.Linear(120,1)
+        self.sigmoid=nn.Sigmoid()
+        
+
+    def forward(self, x):
+        """
+        Args:
+          x of shape (batch_size, 21, 4, 33): Input sequences.
+        
+        Returns:
+          y of shape (batch_size, 8): Outputs of the network.
+        """
+        x=self.norm0(x)
+        y=F.relu(self.conv1(x)) #(N, C, 1, L), where N is batch size, C is number of channels, L is length after CNN
+        y=y.squeeze(dim=2) #(N, C, L)
+        y=self.m(y)
+        y=self.norm1(y) #Norm over C dimension of (N, C, L)
+        y=F.relu(self.conv2(y))
+        y=self.m(y)
+        y=self.norm2(y)
+        #y=y.unsqueeze(dim=2)
+        y=self.dropout(y)
+        y=F.relu(self.conv3(y))
+        #y=y.squeeze(dim=2)
+        y=self.m(y)
+        #y=self.norm3(y)
+        y=self.dropout(y)
+        #y=F.relu(self.conv4(y))
+        #self.dropout(y)
+        y2=F.relu(self.conv1_2(x)).squeeze(dim=2) #(N, C, 1, 1) -> (N, C, 1)
+        y=torch.cat((y,y2), dim=2) # (N, C, L+1)
+        y=self.norm3(y)
+        #y=self.dropout(y)
+        y = y.view(-1, self.num_flat_features(y)) #(N, C*(L+1))
+        y=F.relu(self.fc1(y))
+        y=self.dropout(y)
+        y=F.relu(self.fc2(y))
+        y=self.dropout(y)
+        if self.many_classes:
+            y=self.fc3(y)
+        #else:
+        #    y=self.fc4(y)
+        #    y=self.sigmoid(y)
+        return y
+    
+    def num_flat_features(self, x):
+        size = x.size()[1:]  # all dimensions except the batch dimension
+        num_features = 1
+        for s in size:
+            num_features *= s
+        return num_features
+-------------------------------------------------------------------------------------------
+
+
+
+------------------------------Created input matrices with script:------------------------------
+import numpy as np
+import torch
+
+
+def parse_matrices(file, many_classes, classes):
+    bases={'A': 0, 'C': 1, 'G': 2, 'T': 3}
+    #classes={'AA': 0, 'AC': 1, 'AG': 2, 'AT': 3, 'CA': 4, 'CC': 5, 'CG': 6, 'CT': 7, 'GA':8, 'GC': 9, 'GG': 10,
+    #        'GT': 11, 'TA': 12, 'TC': 13, 'TG': 14, 'TT': 15}
+    #classes={'A': 0, 'C': 1, 'G': 2, 'T': 3, 'N':4}
+    #classes={'altA': 0, 'altC': 1, 'altG': 2, 'altT': 3, 'refA': 4, 'refC': 5, 'refG': 6, 'refT': 7}
+    row=0
+    #temp_3d=np.empty((1,1,1))
+    df_target=np.empty((1,1,1))
+    first_2d=True
+    first_3d=True
+    first_4d_input=True
+    first_df_input=True
+    new_sampleid=True
+    previous_id=None
+    single_class=list()
+    target=list()
+    row_list=list()
+    with open(file, 'r') as fr:
+        for line in fr:
+            if line.startswith('#'):
+                if line.startswith("#ID:"):
+                    if previous_id==None:
+                        previous_id=line.strip()
+                        continue
+                    if first_4d_input:
+                        temp_4d=temp_3d
+                        first_4d_input=False
+                    else:
+                        temp_4d=np.concatenate((temp_4d, temp_3d), axis=1)
+                    first_3d=True
+                    if line.strip()!=previous_id:
+                        new_sampleid=True
+                        if first_df_input:
+                            df_input=temp_4d
+                            first_df_input=False
+                        else:
+                            df_input=np.concatenate((df_input, temp_4d), axis=0)
+                        first_4d_input=True
+                        previous_id=line.strip()
+                if many_classes:
+                    if line.startswith('#REF:'):
+                        ref=line[6]
+                    elif line.startswith('#ALT:') and new_sampleid:
+                        alt=line[6]
+                        target.append(torch.tensor(classes[ref+alt]))
+                        new_sampleid=False
+                else:
+                    if "CLASS: random" in line and new_sampleid:
+                        new_sampleid=False
+                        if many_classes:
+                            target.append(torch.tensor(0))
+                        else:
+                            type="neg"
+                    elif ("#CLASS: train" in line) or ("#CLASS: predict" in line) and new_sampleid:
+                        new_sampleid=False
+                        if many_classes:
+                            target.append(torch.tensor(1))
+                        else:
+                            type="pos"
+                continue
+            numbers = [float(number) for number in line.strip().split(',')]
+            row_in_array=np.array(numbers).reshape(1,1,1,-1)
+            if first_2d:
+                temp_2d=row_in_array
+                first_2d=False
+            else:
+                temp_2d=np.concatenate((temp_2d, row_in_array), axis=2)
+            row+=1
+            if row==4:
+                if first_3d:
+                    temp_3d=temp_2d
+                    first_3d=False
+                else:
+                    temp_3d=np.concatenate((temp_3d, temp_2d), axis=1)
+                first_2d=True
+                row=0
+    if not first_3d:
+        if first_4d_input:
+            temp_4d=temp_3d
+        else:
+            temp_4d=np.concatenate((temp_4d, temp_3d), axis=1)
+        df_input=np.concatenate((df_input, temp_4d), axis=0)
+    if many_classes:
+        return torch.Tensor(df_input), torch.tensor(target,dtype=torch.long)
+    else:
+        return torch.Tensor(df_input), torch.tensor(target,dtype=torch.float)
+    
+    
+if __name__=='__main__':
+    raise RuntimeError()
+-------------------------------------------------------------------------------------------
+
+
+
+------------------------------Computed accuracies with script:-----------------------------
+import torch
+
+def count_f_scores(tp,fp,tn,fn):
+    if (tp+fp)==0:
+        precision=0
+    else:
+        precision=tp/(tp+fp)
+    if tp+fn==0:
+        recall=0
+    else:
+        recall=tp/(tp+fn)
+    if precision==0 and recall==0:
+        f1=f2=0
+    else:
+        f1=2*(precision*recall)/(precision+recall)
+        f2=5*(precision*recall)/(4*precision+recall)
+    return f1, f2, precision, recall
+
+def count_pred_types(ftp, ftn, tp,fp,tn,fn, labels, predicted, sequences):
+    for label, prediction, sequence in zip(labels, predicted, sequences):
+        #if label in [0,5,10,15]:
+        #if label==4:
+        if label in [1,7]:
+        #if label in [4,5,6,7]:
+            if label==prediction:
+                tn+=1
+            else:
+                fp+=1
+                #if prediction in [0,5,10,15]:
+                if prediction in [1,7]:
+                #if prediction in [4,5,6,7]:
+                #if prediction==4:
+                    ftn+=1
+        else:
+            if label==prediction:
+                tp+=1
+            else:
+                fn+=1
+                #if prediction!=4:
+                #if prediction not in [0,5,10,15]:
+                if prediction not in [1,7]:
+                #if not prediction in [4,5,6,7]:
+                    #for i in range(4):
+                    #    if sequence[0, i,16]==1:
+                    #        ref=i
+                    #if prediction!=i:
+                     #   ftn+=1
+                    ftp+=1
+    return tp,fp,tn,fn,ftn, ftp
+
+def compute_accuracy(device, net, dataloader, criterion, many_classes, datatype, verbose):
+    net.eval()
+    correct = 0
+    total = 0
+    tp=fp=tn=fn=ftn=ftp=0
+    number_of_classes=8
+    correct_separated=[0 for i in range(number_of_classes)]
+    correct_totals=[0 for i in range(number_of_classes)]
+    with torch.no_grad():
+        #tot_loss=0
+        #tot_items=0
+        for sequences, labels in dataloader:
+            sequences, labels = sequences.to(device), labels.to(device)
+            outputs = net(sequences)
+            if not many_classes:
+                outputs=outputs.squeeze()
+                predicted = torch.round(outputs.data)
+            else:
+                _, predicted = torch.max(outputs.data, 1)
+            for label, prediction in zip(labels, predicted):
+                correct_separated[label]+=(label==prediction).item()
+                correct_totals[label]+=1
+            #tot_loss+=criterion(outputs,labels).item()
+            #tot_items+=len(labels)
+            #tp,fp,tn,fn, ftn, ftp = count_pred_types(ftp, ftn, tp,fp,tn,fn, labels, predicted, sequences)
+        #tot_loss/=tot_items
+        for i in range(number_of_classes):
+            correct+=(correct_separated[i]/correct_totals[i])/number_of_classes
+        #f1, f2, precision, recall = count_f_scores(tp,fp,tn,fn)
+        #f1_fake, f2_fake, fake_precision, fake_recall = count_f_scores((tp+ftp),(fp-ftn),(tn+ftn),(fn-ftp))
+        if verbose:
+            print('\n',datatype)
+            print("TP:",tp,". FN:",fn, "TP/(TP+FN):",tp/(tp+fn),"TN:",tn,"FP:",fp,"TN/(TN+FP):",tn/(tn+fp),
+                  "Wrong positive class predicted:",ftp, "Wrong negative class predicted:",ftn)
+            print("Fake F1-score:",f1_fake,". Fake F2-score:",f2_fake)
+            print("Fake TP/(TP+FN):",(tp+ftp)/(tp+ftp+fn),"Fake TN/(TN+FP)",(tn+ftn)/(tn+ftn+fp))
+            print("Fake precision:",fake_precision,"Fake recall:",fake_recall)
+    #return correct / total, tot_loss, f1, f2
+    return correct#, tot_loss, f1, f2, precision, recall, f1_fake, f2_fake, fake_precision, fake_recall
+-------------------------------------------------------------------------------------------

@@ -1,0 +1,38 @@
+Run log.
+
+Time: 19.12.2023 14:35:29
+Average validation accuracy: 0.8780364997839776
+Fold 1: 0.39018249891988743.
+Fold 2: 1.0.
+Fold 3: 1.0.
+Fold 4: 1.0.
+Fold 5: 1.0.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 256
+head: 3
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: sum
+Target mode: whole_matrix
+
+
+Time: 19.12.2023 16:11:10
+Average validation accuracy: 0.9999754178957719
+Fold 1: 1.0.
+Fold 2: 0.9998770894788593.
+Fold 3: 1.0.
+Fold 4: 1.0.
+Fold 5: 1.0.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 64
+head: 3
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: None
+Target mode: whole_matrix
+
+

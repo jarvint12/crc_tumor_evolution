@@ -1,0 +1,2602 @@
+Run log.
+
+Time: 25.01.2024 10:14:13
+Accuracy: 0.35684612627743023
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 25.01.2024 10:48:35
+Accuracy: 0.35630651087193277
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 25.01.2024 11:22:55
+Accuracy: 0.3685901754890685
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 25.01.2024 17:22:06
+Accuracy: 0.3550527983904237
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 25.01.2024 17:49:32
+Accuracy: 0.36991328356577
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 25.01.2024 18:17:10
+Accuracy: 0.35964580684902914
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 25.01.2024 18:44:44
+Accuracy: 0.3667112944292973
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 25.01.2024 19:12:15
+Accuracy: 0.3554343604066163
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 25.01.2024 19:39:44
+Accuracy: 0.36029668059783493
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 25.01.2024 20:07:18
+Accuracy: 0.3568602122858076
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 25.01.2024 20:34:51
+Accuracy: 0.36408415952048845
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 25.01.2024 21:02:24
+Accuracy: 0.358226326889524
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 25.01.2024 21:29:53
+Accuracy: 0.3561855782436488
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 25.01.2024 21:57:30
+Accuracy: 0.3482248806071061
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 25.01.2024 22:25:06
+Accuracy: 0.35841534683096354
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 25.01.2024 22:52:42
+Accuracy: 0.34861876173794265
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 25.01.2024 23:20:12
+Accuracy: 0.3620892914382246
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 25.01.2024 23:47:45
+Accuracy: 0.3643962566171159
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 00:15:20
+Accuracy: 0.3797064583230668
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 00:43:01
+Accuracy: 0.3589549447880631
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 01:10:35
+Accuracy: 0.35450757699546265
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 01:38:10
+Accuracy: 0.3579156265779766
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 02:05:45
+Accuracy: 0.3622178251525651
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 02:33:18
+Accuracy: 0.35615286314206424
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 03:00:55
+Accuracy: 0.36287904233008567
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 03:28:30
+Accuracy: 0.3685537174349574
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 03:56:06
+Accuracy: 0.37011957082434566
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 04:23:42
+Accuracy: 0.36060098449497824
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 04:51:22
+Accuracy: 0.3657659498427875
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 05:19:00
+Accuracy: 0.3620433785135948
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 05:46:37
+Accuracy: 0.3702646109183729
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 06:14:17
+Accuracy: 0.3594859761317414
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 06:42:10
+Accuracy: 0.3529794588696336
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 07:09:49
+Accuracy: 0.3579331408216513
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 07:37:24
+Accuracy: 0.3609101095324223
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 08:05:04
+Accuracy: 0.3565472676618312
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 08:32:41
+Accuracy: 0.3593631995909402
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 09:00:22
+Accuracy: 0.3594871698461289
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 09:28:03
+Accuracy: 0.3559709186294488
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 09:55:39
+Accuracy: 0.35756605249014894
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 10:23:17
+Accuracy: 0.36122497171671863
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 10:50:56
+Accuracy: 0.3681011712215356
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 11:18:32
+Accuracy: 0.3678614908654686
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 11:46:06
+Accuracy: 0.3613734177526017
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 12:13:46
+Accuracy: 0.3601819073882181
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 12:41:28
+Accuracy: 0.35933669605710117
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 13:09:06
+Accuracy: 0.3568365685273044
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 13:36:41
+Accuracy: 0.3573733885602379
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 14:04:19
+Accuracy: 0.36115800598542336
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 14:31:54
+Accuracy: 0.3551996626398236
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 14:59:29
+Accuracy: 0.3616569771564202
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 15:27:05
+Accuracy: 0.35364292225325555
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 15:54:39
+Accuracy: 0.35553211393970685
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 16:22:15
+Accuracy: 0.3577268696741608
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 16:49:50
+Accuracy: 0.3443174671687708
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 17:17:28
+Accuracy: 0.35829293665533457
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 17:45:04
+Accuracy: 0.35963954123063374
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 18:12:43
+Accuracy: 0.3641642631588553
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 18:40:18
+Accuracy: 0.3581200832213035
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 19:07:52
+Accuracy: 0.3588659027243551
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 19:35:28
+Accuracy: 0.36087218536516225
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 20:03:05
+Accuracy: 0.3552055143919499
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 20:30:42
+Accuracy: 0.3719718140968661
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 20:58:17
+Accuracy: 0.3591426848680313
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 21:25:53
+Accuracy: 0.3547761652364667
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 21:53:26
+Accuracy: 0.35084408028145836
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 22:21:01
+Accuracy: 0.3598110992282027
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 22:48:38
+Accuracy: 0.3606704605625227
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 23:16:18
+Accuracy: 0.3585595342417926
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 26.01.2024 23:43:55
+Accuracy: 0.35600316778690955
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 00:11:30
+Accuracy: 0.35902285181118243
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 00:39:06
+Accuracy: 0.36497527222696535
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 01:06:39
+Accuracy: 0.36088472801231086
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 01:34:16
+Accuracy: 0.360821655901696
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 02:01:55
+Accuracy: 0.35671010735143394
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 02:29:31
+Accuracy: 0.3570479766585757
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 02:57:09
+Accuracy: 0.3649730691254775
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 03:24:44
+Accuracy: 0.3555347382979436
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 03:52:18
+Accuracy: 0.3549059490311237
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 04:19:58
+Accuracy: 0.35452165440531025
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 04:47:34
+Accuracy: 0.34949900308753445
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 05:15:13
+Accuracy: 0.3681657505082994
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 05:42:48
+Accuracy: 0.35982131249643245
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 06:10:24
+Accuracy: 0.3562107760428155
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 06:37:58
+Accuracy: 0.3574979970290699
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 07:05:35
+Accuracy: 0.3673861996548655
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 07:33:12
+Accuracy: 0.36721048611956736
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 08:00:45
+Accuracy: 0.35315609315886615
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 08:28:22
+Accuracy: 0.35985587742927294
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 08:55:53
+Accuracy: 0.3665128190832071
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 09:23:27
+Accuracy: 0.3506221218880046
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 09:51:07
+Accuracy: 0.35888546981393077
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 10:18:39
+Accuracy: 0.35788668401551565
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 10:46:14
+Accuracy: 0.371243194542957
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 11:13:55
+Accuracy: 0.35739444259264486
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 11:41:30
+Accuracy: 0.36143491206182177
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 12:09:07
+Accuracy: 0.3573845995072674
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 12:36:43
+Accuracy: 0.3671546414488208
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 13:04:18
+Accuracy: 0.3566627812607217
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 13:31:53
+Accuracy: 0.36072278855965745
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 13:59:27
+Accuracy: 0.356092964322744
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 14:27:01
+Accuracy: 0.35735371347073286
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 14:54:38
+Accuracy: 0.352716839272158
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 15:22:14
+Accuracy: 0.3662791036134752
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 15:49:49
+Accuracy: 0.36167279286148835
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 16:17:27
+Accuracy: 0.35351203379259327
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 16:45:08
+Accuracy: 0.36580954015038847
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 17:12:47
+Accuracy: 0.36220316884790404
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 17:40:19
+Accuracy: 0.3557209969607245
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 18:07:56
+Accuracy: 0.3626529378458105
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 18:35:33
+Accuracy: 0.3653703119021118
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 19:03:09
+Accuracy: 0.3615295672354003
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 19:30:45
+Accuracy: 0.35753809849211804
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 19:58:22
+Accuracy: 0.3625722348258691
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 20:25:58
+Accuracy: 0.36116828460569245
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 20:53:32
+Accuracy: 0.3511531004682981
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 21:23:18
+Accuracy: 0.3533661149878511
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 21:52:51
+Accuracy: 0.3610323543802742
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 22:20:27
+Accuracy: 0.3604164586030451
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 22:48:03
+Accuracy: 0.36547029375837514
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 23:15:40
+Accuracy: 0.3673258324241234
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 27.01.2024 23:43:16
+Accuracy: 0.36428919763894585
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 00:10:52
+Accuracy: 0.366999941528972
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 00:38:28
+Accuracy: 0.36677679338504116
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 01:06:05
+Accuracy: 0.36545308248796093
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 01:33:40
+Accuracy: 0.35871836517901085
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 02:01:19
+Accuracy: 0.35663820881726355
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 02:28:55
+Accuracy: 0.3546798005796197
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 02:56:32
+Accuracy: 0.35694423650781937
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 03:24:09
+Accuracy: 0.3578729926142934
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 03:51:45
+Accuracy: 0.353912150694582
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 04:19:19
+Accuracy: 0.35688736890147704
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 04:46:56
+Accuracy: 0.35564372005894296
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 05:14:33
+Accuracy: 0.36133937796377197
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 05:42:08
+Accuracy: 0.35840254627414325
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 06:09:44
+Accuracy: 0.3676761871542949
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 06:37:19
+Accuracy: 0.3539981618694622
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 07:04:56
+Accuracy: 0.35575642256247125
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 07:32:32
+Accuracy: 0.3624872187844095
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 08:00:07
+Accuracy: 0.36982276255467345
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 08:27:42
+Accuracy: 0.3639317338969678
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 08:55:18
+Accuracy: 0.3576102806655329
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 09:22:54
+Accuracy: 0.35582842000254666
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 09:50:32
+Accuracy: 0.36601863289627856
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 10:18:06
+Accuracy: 0.36267527520394127
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 10:45:43
+Accuracy: 0.36816180316904307
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 11:13:22
+Accuracy: 0.3732852410399082
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 11:40:55
+Accuracy: 0.3628369315247728
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 12:08:33
+Accuracy: 0.35599488059124534
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 12:36:14
+Accuracy: 0.356267202293248
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 13:03:53
+Accuracy: 0.3606398646026438
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 13:31:30
+Accuracy: 0.3647337386791394
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 13:59:06
+Accuracy: 0.3592485389933978
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 14:26:44
+Accuracy: 0.35901320895811234
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 14:54:24
+Accuracy: 0.3594535845330438
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 15:22:04
+Accuracy: 0.3556742612838848
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 15:49:41
+Accuracy: 0.3566992261570067
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 16:17:18
+Accuracy: 0.36151537240369147
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 16:44:55
+Accuracy: 0.3543554012729546
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 17:12:32
+Accuracy: 0.3551614471726443
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 17:40:09
+Accuracy: 0.36133475878201254
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 18:07:43
+Accuracy: 0.35922363342238345
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 18:35:19
+Accuracy: 0.3539667287790783
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 19:03:00
+Accuracy: 0.36031926765981337
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 19:30:35
+Accuracy: 0.3548457938290094
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 19:58:14
+Accuracy: 0.36214080117661346
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 20:25:52
+Accuracy: 0.3566001278926005
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 20:53:28
+Accuracy: 0.3739241694578197
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 21:21:05
+Accuracy: 0.3560354268207055
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 21:48:42
+Accuracy: 0.35683752468351654
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 22:16:21
+Accuracy: 0.35987009822053795
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 22:43:56
+Accuracy: 0.36172461772233216
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 23:11:32
+Accuracy: 0.36127100870254386
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 28.01.2024 23:39:05
+Accuracy: 0.3596899697243223
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 29.01.2024 00:06:42
+Accuracy: 0.3628524672502163
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 29.01.2024 00:34:22
+Accuracy: 0.366717233712651
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 29.01.2024 01:02:02
+Accuracy: 0.3615368286698245
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 29.01.2024 01:29:40
+Accuracy: 0.3636718542390301
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 29.01.2024 01:57:19
+Accuracy: 0.3562968894103378
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 29.01.2024 02:24:55
+Accuracy: 0.3544665212194108
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 29.01.2024 02:52:30
+Accuracy: 0.3547178137556962
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 29.01.2024 03:20:06
+Accuracy: 0.3577329527669002
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 29.01.2024 03:47:41
+Accuracy: 0.3580490936566343
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 29.01.2024 04:15:20
+Accuracy: 0.3626515183283944
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 29.01.2024 04:42:56
+Accuracy: 0.36395374716760387
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 29.01.2024 05:10:31
+Accuracy: 0.35919259916504886
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 29.01.2024 05:38:06
+Accuracy: 0.3629228245128131
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 29.01.2024 06:05:45
+Accuracy: 0.3640077954177849
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 29.01.2024 06:33:22
+Accuracy: 0.3535422948425845
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 29.01.2024 07:00:59
+Accuracy: 0.352138385162442
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 29.01.2024 07:28:36
+Accuracy: 0.35961327794143744
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 29.01.2024 07:56:12
+Accuracy: 0.3590495726992347
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 29.01.2024 08:23:49
+Accuracy: 0.35999794663125995
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 29.01.2024 08:51:26
+Accuracy: 0.35567854774527147
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 29.01.2024 09:19:03
+Accuracy: 0.363383488548944
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 29.01.2024 09:46:36
+Accuracy: 0.35792021014591485
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 29.01.2024 10:14:12
+Accuracy: 0.36573084917673143
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 29.01.2024 10:41:46
+Accuracy: 0.3653770818938592
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 29.01.2024 11:09:20
+Accuracy: 0.3714782972978549
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+
+Time: 29.01.2024 11:36:55
+Accuracy: 0.3516195592970389
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0337
+Batch size: 64
+Data normalized: True
+Momentum: 0.0239
+
+

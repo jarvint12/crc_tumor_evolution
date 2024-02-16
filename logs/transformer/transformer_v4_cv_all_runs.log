@@ -1,0 +1,2612 @@
+Run log.
+
+Time: 16.12.2023 22:27:01
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 08:11:53
+Average validation accuracy: 0.25907513415970274
+Fold 1: 0.25.
+Fold 2: 0.2512129639462646.
+Fold 3: 0.25768099889683643.
+Fold 4: 0.28572981403863756.
+Fold 5: 0.2507518939167751.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 64
+head: 4
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 09:06:51
+Average validation accuracy: 0.25418759935739177
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25493966763073495.
+Fold 5: 0.2659983291562239.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 128
+head: 6
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 10:17:17
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 4
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 13:07:00
+Average validation accuracy: 0.2522959106199619
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.2513073379069142.
+Fold 5: 0.26017221519289535.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 128
+head: 6
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 13:35:36
+Average validation accuracy: 0.25083490941463077
+Fold 1: 0.2541745470731539.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 32
+head: 7
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 14:04:51
+Average validation accuracy: 0.25020748893184513
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25103744465922556.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 256
+head: 3
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 14:41:16
+Average validation accuracy: 0.25865017896365455
+Fold 1: 0.2544351196250614.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.2888157751932115.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 256
+head: 2
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 15:05:41
+Average validation accuracy: 0.25272145813529545
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.2502446183953033.
+Fold 4: 0.25.
+Fold 5: 0.26336267228117394.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 128
+head: 4
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 15:46:01
+Average validation accuracy: 0.2537041179280829
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.2676740936346048.
+Fold 5: 0.2508464960058097.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 256
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 16:23:04
+Average validation accuracy: 0.2568616397427411
+Fold 1: 0.25.
+Fold 2: 0.250649964789309.
+Fold 3: 0.26803010801534427.
+Fold 4: 0.25106934860275043.
+Fold 5: 0.26455877730630206.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 256
+head: 3
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 16:47:39
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 128
+head: 12
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 17:01:19
+Average validation accuracy: 0.2502733391765552
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.251366695882776.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 256
+head: 12
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 17:37:39
+Average validation accuracy: 0.2500307881773399
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.2501539408866995.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 64
+head: 4
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 18:20:55
+Average validation accuracy: 0.25988994255344366
+Fold 1: 0.2582264541984767.
+Fold 2: 0.25515691331295637.
+Fold 3: 0.2619627792977656.
+Fold 4: 0.25.
+Fold 5: 0.2741035659580198.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 64
+head: 7
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 18:38:16
+Average validation accuracy: 0.25015274199484727
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.2507637099742363.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 32
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 18:56:06
+Average validation accuracy: 0.2565947076505602
+Fold 1: 0.2520437842925227.
+Fold 2: 0.2746870553621473.
+Fold 3: 0.25624269859813087.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 256
+head: 7
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 19:37:48
+Average validation accuracy: 0.27846751165324185
+Fold 1: 0.2831403560540043.
+Fold 2: 0.26752661752661755.
+Fold 3: 0.2798291227867627.
+Fold 4: 0.3015189066279444.
+Fold 5: 0.2603225552708803.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 256
+head: 2
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 19:49:42
+Average validation accuracy: 0.25031293258962306
+Fold 1: 0.25169352892749675.
+Fold 2: 0.24987113402061856.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 256
+head: 7
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 20:21:54
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 32
+head: 42
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 20:35:33
+Average validation accuracy: 0.2589453082263061
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.2568064054890249.
+Fold 4: 0.2879201356425059.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 256
+head: 21
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 20:54:27
+Average validation accuracy: 0.26205453583732574
+Fold 1: 0.2589626548329265.
+Fold 2: 0.2556067969118867.
+Fold 3: 0.2822862257623451.
+Fold 4: 0.2634170016794705.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 64
+head: 6
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 21:03:42
+Average validation accuracy: 0.25172988316603584
+Fold 1: 0.25.
+Fold 2: 0.25864941583017936.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 256
+head: 2
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 21:25:59
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 256
+head: 42
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 21:36:08
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 128
+head: 6
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 22:24:21
+Average validation accuracy: 0.2570607461624409
+Fold 1: 0.2593392631668816.
+Fold 2: 0.2575420869721257.
+Fold 3: 0.2501745810055866.
+Fold 4: 0.2510536829101997.
+Fold 5: 0.2671941167574108.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 21
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 22:47:27
+Average validation accuracy: 0.25309482974396197
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.265779893429663.
+Fold 5: 0.2496942552901469.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 256
+head: 3
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 17.12.2023 23:20:20
+Average validation accuracy: 0.27122718395764545
+Fold 1: 0.2511268537972263.
+Fold 2: 0.25640187986801577.
+Fold 3: 0.27470517177547954.
+Fold 4: 0.2692847963760628.
+Fold 5: 0.30461721797144287.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 7
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 00:00:06
+Average validation accuracy: 0.2563121786141157
+Fold 1: 0.25204030104998637.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.27952059202059204.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 32
+head: 12
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 00:16:35
+Average validation accuracy: 0.25267157005689544
+Fold 1: 0.2633578502844771.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 64
+head: 2
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 00:43:52
+Average validation accuracy: 0.26529058105018266
+Fold 1: 0.2691918406671832.
+Fold 2: 0.2733885577372604.
+Fold 3: 0.25538132161366023.
+Fold 4: 0.2784911852328095.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 32
+head: 42
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 01:16:18
+Average validation accuracy: 0.2505980020479674
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25299001023983714.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 64
+head: 21
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 01:37:41
+Average validation accuracy: 0.2529277664286421
+Fold 1: 0.25016914749661706.
+Fold 2: 0.2518155463357941.
+Fold 3: 0.25.
+Fold 4: 0.25222595387913205.
+Fold 5: 0.2604281844316674.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 256
+head: 42
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 02:06:15
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 32
+head: 3
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 02:17:06
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 128
+head: 2
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 02:44:47
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 256
+head: 7
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 03:23:25
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 2
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 03:48:07
+Average validation accuracy: 0.25202469131887123
+Fold 1: 0.2529832263874817.
+Fold 2: 0.2558902302068745.
+Fold 3: 0.25125.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 128
+head: 4
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 04:32:10
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 256
+head: 42
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 04:49:54
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 128
+head: 4
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 05:31:14
+Average validation accuracy: 0.25345400202823143
+Fold 1: 0.25.
+Fold 2: 0.2550929783843178.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.26217703175683915.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 64
+head: 7
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 05:57:27
+Average validation accuracy: 0.25002467917077986
+Fold 1: 0.25.
+Fold 2: 0.2501233958538993.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 128
+head: 42
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 06:45:51
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 64
+head: 42
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 07:40:51
+Average validation accuracy: 0.2552286759928476
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.2760192488818152.
+Fold 4: 0.25.
+Fold 5: 0.25012413108242304.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 64
+head: 12
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 08:00:42
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 64
+head: 6
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 08:34:30
+Average validation accuracy: 0.25265577140535567
+Fold 1: 0.25.
+Fold 2: 0.26226259686417674.
+Fold 3: 0.25.
+Fold 4: 0.2510162601626016.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 64
+head: 12
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 08:57:40
+Average validation accuracy: 0.25104961528405434
+Fold 1: 0.25.
+Fold 2: 0.2498344370860927.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25541363933417904.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 32
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 09:36:58
+Average validation accuracy: 0.2526813706852275
+Fold 1: 0.26340685342613757.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 32
+head: 12
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 10:01:21
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 128
+head: 6
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 10:18:49
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 32
+head: 12
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 10:38:19
+Average validation accuracy: 0.2522169665721602
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.2610848328608012.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 128
+head: 12
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 10:57:32
+Average validation accuracy: 0.25375282285045164
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.26876411425225827.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 256
+head: 12
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 12:11:30
+Average validation accuracy: 0.2551001846671613
+Fold 1: 0.25.
+Fold 2: 0.27548662993332124.
+Fold 3: 0.2503501400560224.
+Fold 4: 0.2498268698060942.
+Fold 5: 0.2498372835403687.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 64
+head: 42
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 12:40:44
+Average validation accuracy: 0.2545068371562267
+Fold 1: 0.2674556777434656.
+Fold 2: 0.25.
+Fold 3: 0.2514203244886374.
+Fold 4: 0.2536581835490304.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 32
+head: 6
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 14:18:24
+Average validation accuracy: 0.27121453013013813
+Fold 1: 0.26343642807057444.
+Fold 2: 0.278158449844845.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.3144777727352713.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 128
+head: 42
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 14:47:36
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 128
+head: 7
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 15:09:24
+Average validation accuracy: 0.26145217952372724
+Fold 1: 0.2592338217338217.
+Fold 2: 0.2801767748448583.
+Fold 3: 0.25.
+Fold 4: 0.2678503010399562.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 32
+head: 2
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 16:32:33
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 3
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 16:59:14
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 256
+head: 4
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 17:26:47
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 64
+head: 6
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 17:44:02
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 32
+head: 2
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 18:21:11
+Average validation accuracy: 0.256636718171008
+Fold 1: 0.25.
+Fold 2: 0.2634909340080118.
+Fold 3: 0.251812744370013.
+Fold 4: 0.2616789252209477.
+Fold 5: 0.2562009872560678.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 128
+head: 42
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 18:36:04
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 256
+head: 21
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 19:32:00
+Average validation accuracy: 0.2592387028755054
+Fold 1: 0.2501245019920319.
+Fold 2: 0.2662510183488841.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.2798179940366111.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 128
+head: 7
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 20:03:41
+Average validation accuracy: 0.256329163940819
+Fold 1: 0.28066813426402465.
+Fold 2: 0.2509776854400703.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 256
+head: 4
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 20:33:04
+Average validation accuracy: 0.2507386256598213
+Fold 1: 0.25.
+Fold 2: 0.25012400793650796.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.2535691203625986.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 256
+head: 21
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 21:01:17
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 64
+head: 3
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 21:29:44
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 64
+head: 12
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 21:40:28
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 128
+head: 3
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 22:10:55
+Average validation accuracy: 0.2534664681668953
+Fold 1: 0.2564195044819153.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.2609128363525611.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 64
+head: 2
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 22:48:05
+Average validation accuracy: 0.25019643448961554
+Fold 1: 0.25098217244807774.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 128
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 23:05:31
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 64
+head: 21
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 23:30:11
+Average validation accuracy: 0.2645923881817641
+Fold 1: 0.25053191489361704.
+Fold 2: 0.2523684210526316.
+Fold 3: 0.3013649573164716.
+Fold 4: 0.26624068558647995.
+Fold 5: 0.25245596205962056.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 256
+head: 4
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 23:46:40
+Average validation accuracy: 0.250777929298661
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.2538896464933049.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 64
+head: 42
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 18.12.2023 23:59:17
+Average validation accuracy: 0.24996644295302012
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.24983221476510067.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 128
+head: 21
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 00:46:24
+Average validation accuracy: 0.25455780842138187
+Fold 1: 0.2517677683381683.
+Fold 2: 0.25.
+Fold 3: 0.2681312400402033.
+Fold 4: 0.25057422950333386.
+Fold 5: 0.25231580422520405.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 256
+head: 6
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 01:08:38
+Average validation accuracy: 0.25003457814661134
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.2501728907330567.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 256
+head: 42
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 01:56:15
+Average validation accuracy: 0.26413884361432555
+Fold 1: 0.2629625132085762.
+Fold 2: 0.25.
+Fold 3: 0.30021508691566834.
+Fold 4: 0.25.
+Fold 5: 0.2575166179473832.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 128
+head: 7
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 02:24:33
+Average validation accuracy: 0.25269227719708437
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.26346138598542174.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 64
+head: 7
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 03:00:23
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 256
+head: 12
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 03:15:56
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 64
+head: 42
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 03:29:20
+Average validation accuracy: 0.25189295977011494
+Fold 1: 0.2594647988505747.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 256
+head: 21
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 04:09:40
+Average validation accuracy: 0.254753685786919
+Fold 1: 0.26611415474060823.
+Fold 2: 0.251984126984127.
+Fold 3: 0.25.
+Fold 4: 0.25567014720985964.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 256
+head: 21
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 04:25:08
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 64
+head: 42
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 04:42:33
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 32
+head: 7
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 06:00:31
+Average validation accuracy: 0.265521201283186
+Fold 1: 0.25.
+Fold 2: 0.27501561841356614.
+Fold 3: 0.27900685283553606.
+Fold 4: 0.27358353516682793.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 256
+head: 2
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 06:17:04
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 128
+head: 7
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 06:56:42
+Average validation accuracy: 0.2500252016129032
+Fold 1: 0.2501260080645161.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 32
+head: 3
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 07:11:21
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 256
+head: 2
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 07:35:00
+Average validation accuracy: 0.25167892769410394
+Fold 1: 0.25731454071047843.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25108009776004103.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 64
+head: 2
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 07:52:07
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 32
+head: 7
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 08:19:13
+Average validation accuracy: 0.25553830814330414
+Fold 1: 0.25563999980223817.
+Fold 2: 0.25521543251536005.
+Fold 3: 0.26683610839892263.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 128
+head: 4
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 08:58:23
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 32
+head: 6
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 09:18:34
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 256
+head: 2
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 10:14:07
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 32
+head: 21
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 10:32:47
+Average validation accuracy: 0.2520099096926086
+Fold 1: 0.25.
+Fold 2: 0.25277045236495915.
+Fold 3: 0.2558070646947473.
+Fold 4: 0.2514720314033366.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 256
+head: 6
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 10:48:14
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 128
+head: 21
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 11:44:44
+Average validation accuracy: 0.2540296062469594
+Fold 1: 0.25.
+Fold 2: 0.24974645030425963.
+Fold 3: 0.27040158093053734.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 64
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 11:57:17
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 256
+head: 7
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 12:26:41
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 32
+head: 21
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 12:38:54
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 64
+head: 7
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 12:52:33
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 256
+head: 21
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 13:40:33
+Average validation accuracy: 0.25820629255531247
+Fold 1: 0.25.
+Fold 2: 0.2627668910591456.
+Fold 3: 0.25973084087758314.
+Fold 4: 0.26853373083983345.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 128
+head: 6
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 14:16:32
+Average validation accuracy: 0.2540411520934448
+Fold 1: 0.25.
+Fold 2: 0.270205760467224.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 64
+head: 3
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 14:36:45
+Average validation accuracy: 0.25144051130776796
+Fold 1: 0.25.
+Fold 2: 0.2572025565388397.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 64
+head: 2
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 14:54:47
+Average validation accuracy: 0.2502123038598348
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.251061519299174.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 32
+head: 21
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 15:05:39
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 128
+head: 12
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 15:33:13
+Average validation accuracy: 0.25874519180289524
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.2924820376227883.
+Fold 5: 0.25124392139168794.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 128
+head: 3
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 15:49:12
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 64
+head: 7
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 16:06:40
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 64
+head: 21
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 16:33:48
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 64
+head: 6
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 17:47:43
+Average validation accuracy: 0.2531334175084175
+Fold 1: 0.2656670875420875.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 128
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 18:02:33
+Average validation accuracy: 0.2500756048387097
+Fold 1: 0.25.
+Fold 2: 0.2503780241935484.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 256
+head: 7
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 18:26:26
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 32
+head: 21
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 18:48:44
+Average validation accuracy: 0.257351656568134
+Fold 1: 0.25.
+Fold 2: 0.2564666991573279.
+Fold 3: 0.25.
+Fold 4: 0.2802915836833422.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 128
+head: 7
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 19:03:12
+Average validation accuracy: 0.2504978962471764
+Fold 1: 0.25169330289193304.
+Fold 2: 0.25079617834394907.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 256
+head: 3
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 19:14:50
+Average validation accuracy: 0.2531545895369481
+Fold 1: 0.2535290336216262.
+Fold 2: 0.25.
+Fold 3: 0.2521953176612631.
+Fold 4: 0.25.
+Fold 5: 0.260048596401851.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 256
+head: 7
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 19:49:52
+Average validation accuracy: 0.2569140390613232
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.27823114485908707.
+Fold 4: 0.25.
+Fold 5: 0.25633905044752897.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 32
+head: 42
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 20:10:24
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 64
+head: 4
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 20:42:49
+Average validation accuracy: 0.25560667393548847
+Fold 1: 0.25.
+Fold 2: 0.25209168920809627.
+Fold 3: 0.2506106987495414.
+Fold 4: 0.26792645128263276.
+Fold 5: 0.25740453043717215.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 256
+head: 4
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 21:01:23
+Average validation accuracy: 0.2502366554165355
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25118327708267746.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 64
+head: 21
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 21:13:18
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 64
+head: 2
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 21:33:05
+Average validation accuracy: 0.25865541340716275
+Fold 1: 0.25.
+Fold 2: 0.2523678963110668.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.2909091707247471.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 128
+head: 7
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 22:17:43
+Average validation accuracy: 0.25493279853249534
+Fold 1: 0.2639159072979475.
+Fold 2: 0.25.
+Fold 3: 0.25235433604336044.
+Fold 4: 0.2583937493211687.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 256
+head: 2
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 22:45:49
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 32
+head: 3
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 23:10:35
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-06
+Batch size: 128
+head: 12
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 23:26:18
+Average validation accuracy: 0.25097913482623435
+Fold 1: 0.25.
+Fold 2: 0.25489567413117153.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 128
+head: 42
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 19.12.2023 23:49:43
+Average validation accuracy: 0.2522191197291103
+Fold 1: 0.25.
+Fold 2: 0.26109559864555165.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 32
+head: 7
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 20.12.2023 00:20:08
+Average validation accuracy: 0.26142441646258036
+Fold 1: 0.26918859649122806.
+Fold 2: 0.26257581613718556.
+Fold 3: 0.25185751469995826.
+Fold 4: 0.27225725725725725.
+Fold 5: 0.2512428977272727.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 128
+head: 12
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 20.12.2023 00:50:44
+Average validation accuracy: 0.25444185886112536
+Fold 1: 0.2512135922330097.
+Fold 2: 0.25689250679625786.
+Fold 3: 0.2511713923476278.
+Fold 4: 0.26268573993660566.
+Fold 5: 0.250246062992126.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-06
+Batch size: 32
+head: 21
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 20.12.2023 01:08:30
+Average validation accuracy: 0.2516839296410192
+Fold 1: 0.25.
+Fold 2: 0.25563063063063063.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.2527890175744653.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 256
+head: 3
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 20.12.2023 02:05:21
+Average validation accuracy: 0.2544872858652001
+Fold 1: 0.2511682242990654.
+Fold 2: 0.25.
+Fold 3: 0.26558949832765305.
+Fold 4: 0.25.
+Fold 5: 0.25567870669928194.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 64
+head: 4
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 20.12.2023 02:36:43
+Average validation accuracy: 0.25224213145648766
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.2612106572824385.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 256
+head: 6
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 20.12.2023 03:00:12
+Average validation accuracy: 0.24991703816870364
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.24958519084351832.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 32
+head: 12
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 20.12.2023 03:45:18
+Average validation accuracy: 0.25980383005335234
+Fold 1: 0.2542188158310402.
+Fold 2: 0.2543985238582669.
+Fold 3: 0.2503807106598985.
+Fold 4: 0.28471629939371873.
+Fold 5: 0.2553048005238375.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 256
+head: 4
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 20.12.2023 04:07:22
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 256
+head: 21
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 20.12.2023 05:05:23
+Average validation accuracy: 0.25969767606659533
+Fold 1: 0.25.
+Fold 2: 0.2979898758464362.
+Fold 3: 0.2504985044865404.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 128
+head: 21
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 20.12.2023 05:43:52
+Average validation accuracy: 0.2577198154647398
+Fold 1: 0.2524557165861514.
+Fold 2: 0.2538914979855347.
+Fold 3: 0.26992794616420657.
+Fold 4: 0.25124254473161034.
+Fold 5: 0.2610813718561959.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 1e-08
+Batch size: 32
+head: 7
+num_encoder_layers: 4
+num_decoder_layers: 4
+Norm type: None
+Target mode: target_with_landscape
+
+
+Time: 20.12.2023 06:05:57
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 1e-08
+Batch size: 128
+head: 4
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 20.12.2023 06:23:37
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-08
+Batch size: 32
+head: 12
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 20.12.2023 06:58:12
+Average validation accuracy: 0.2583261828852392
+Fold 1: 0.25.
+Fold 2: 0.2535052795568634.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.28812563486933235.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 0
+Batch size: 256
+head: 12
+num_encoder_layers: 8
+num_decoder_layers: 8
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 20.12.2023 07:19:38
+Average validation accuracy: 0.2577095204308524
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.27331092404621815.
+Fold 5: 0.2652366781080437.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 128
+head: 2
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: max
+Target mode: target_with_landscape
+
+
+Time: 20.12.2023 07:56:47
+Average validation accuracy: 0.2504891798772816
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25244589938640805.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-05
+Weight decay: 1e-06
+Batch size: 128
+head: 42
+num_encoder_layers: 6
+num_decoder_layers: 6
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 20.12.2023 08:23:47
+Average validation accuracy: 0.2623249418387327
+Fold 1: 0.2498950576357614.
+Fold 2: 0.2717398261368607.
+Fold 3: 0.27705809370894763.
+Fold 4: 0.2629317317120936.
+Fold 5: 0.25.
+Optimizer: AdamW
+Learning Rate: 1e-06
+Weight decay: 0
+Batch size: 64
+head: 21
+num_encoder_layers: 3
+num_decoder_layers: 3
+Norm type: sum
+Target mode: target_with_landscape
+
+
+Time: 20.12.2023 08:35:53
+Average validation accuracy: 0.25
+Fold 1: 0.25.
+Fold 2: 0.25.
+Fold 3: 0.25.
+Fold 4: 0.25.
+Fold 5: 0.25.
+Optimizer: Adam
+Learning Rate: 0.0001
+Weight decay: 0
+Batch size: 64
+head: 6
+num_encoder_layers: 2
+num_decoder_layers: 2
+Norm type: sum
+Target mode: target_with_landscape
+
+

@@ -1,0 +1,2430 @@
+Run log.
+
+Time: 21.09.2023 09:01:03
+Average validation accuracy: 0.39547332276177316
+Fold 1: 0.39364981604218896.
+Fold 2: 0.4109377875243483.
+Fold 3: 0.38363615345807445.
+Fold 4: 0.38815636176571855.
+Fold 5: 0.40098649501853567.
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0215
+Batch size: 64
+
+
+Time: 21.09.2023 09:04:23
+Average validation accuracy: 0.13327667842215257
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.13333333333333333.
+Fold 4: 0.1505926724137931.
+Fold 5: 0.13245738636363635.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0.045
+Batch size: 128
+Momentum: 0.277
+
+
+Time: 21.09.2023 09:10:45
+Average validation accuracy: 0.13829457162514797
+Fold 1: 0.12856227600292883.
+Fold 2: 0.14092967876088583.
+Fold 3: 0.1347555129434324.
+Fold 4: 0.13224753958065896.
+Fold 5: 0.15497785083783386.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0.001
+Smoothing: 0.0232
+Batch size: 32
+Momentum: 0
+T_max: 1
+
+
+Time: 21.09.2023 09:42:50
+Average validation accuracy: 0.3756114821278131
+Fold 1: 0.38982460092372695.
+Fold 2: 0.3659660728509668.
+Fold 3: 0.3804278380521786.
+Fold 4: 0.340485423684336.
+Fold 5: 0.401353475127857.
+Optimizer: Adam
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+
+
+Time: 21.09.2023 09:50:13
+Average validation accuracy: 0.125
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: Adam
+Learning Rate: 0.01
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0
+Batch size: 32
+
+
+Time: 21.09.2023 09:54:08
+Average validation accuracy: 0.125
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 1e-05
+Scheduler: True
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Momentum: 0.545
+T_max: 0.937
+
+
+Time: 21.09.2023 10:03:23
+Average validation accuracy: 0.38988263315448396
+Fold 1: 0.3835840750447485.
+Fold 2: 0.3925736087756726.
+Fold 3: 0.3875674542751341.
+Fold 4: 0.3735855843548613.
+Fold 5: 0.41210244332200335.
+Optimizer: SGD
+Learning Rate: 0.01
+Scheduler: True
+Weight decay: 0.0001
+Smoothing: 0
+Batch size: 32
+Momentum: 0
+T_max: 1
+
+
+Time: 21.09.2023 10:10:55
+Average validation accuracy: 0.35264830996795193
+Fold 1: 0.39815481674211883.
+Fold 2: 0.3893622900123718.
+Fold 3: 0.3716402661986251.
+Fold 4: 0.38103600051714215.
+Fold 5: 0.22304817636950197.
+Optimizer: SGD
+Learning Rate: 0.01
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0.0145
+Batch size: 64
+Momentum: 0.384
+
+
+Time: 21.09.2023 10:17:12
+Average validation accuracy: 0.125
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: Adam
+Learning Rate: 0.01
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0
+Batch size: 32
+
+
+Time: 21.09.2023 10:21:10
+Average validation accuracy: 0.12780448717948717
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.1390224358974359.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0.00429
+Batch size: 64
+Momentum: 0.709
+
+
+Time: 21.09.2023 10:28:39
+Average validation accuracy: 0.1349963854723817
+Fold 1: 0.12918311645496505.
+Fold 2: 0.13220516595665938.
+Fold 3: 0.1358383940620783.
+Fold 4: 0.14196857135152627.
+Fold 5: 0.13578667953667953.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 32
+Momentum: 0
+T_max: 1
+
+
+Time: 21.09.2023 10:37:00
+Average validation accuracy: 0.33209878606764587
+Fold 1: 0.3796930124990652.
+Fold 2: 0.36224943232674656.
+Fold 3: 0.14056872656769154.
+Fold 4: 0.37159948779502416.
+Fold 5: 0.4063832711497019.
+Optimizer: SGD
+Learning Rate: 0.01
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0
+Batch size: 64
+Momentum: 0
+
+
+Time: 21.09.2023 11:05:12
+Average validation accuracy: 0.39163729809847975
+Fold 1: 0.3909985198684883.
+Fold 2: 0.38887541938029924.
+Fold 3: 0.38009353948699903.
+Fold 4: 0.39485767687218126.
+Fold 5: 0.40336133488443093.
+Optimizer: Adam
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 32
+
+
+Time: 21.09.2023 11:09:50
+Average validation accuracy: 0.40009924891905546
+Fold 1: 0.4006337058024671.
+Fold 2: 0.422523337698287.
+Fold 3: 0.3964864353378769.
+Fold 4: 0.3927609048670934.
+Fold 5: 0.3880918608895527.
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0.00243
+Batch size: 64
+
+
+Time: 21.09.2023 11:26:42
+Average validation accuracy: 0.13291133927934576
+Fold 1: 0.125.
+Fold 2: 0.15672277860643513.
+Fold 3: 0.12918446365940897.
+Fold 4: 0.12864945413088466.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0
+Batch size: 32
+Momentum: 0
+
+
+Time: 21.09.2023 11:44:01
+Average validation accuracy: 0.1425650559002755
+Fold 1: 0.14369565217391306.
+Fold 2: 0.1431163219933722.
+Fold 3: 0.15177054371331478.
+Fold 4: 0.14924276162077735.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 0.0001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+Momentum: 0.0603
+T_max: 1
+
+
+Time: 21.09.2023 11:49:12
+Average validation accuracy: 0.1321456106555025
+Fold 1: 0.13044507575757575.
+Fold 2: 0.125.
+Fold 3: 0.15284197204798064.
+Fold 4: 0.12744100547195622.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0.0324
+Batch size: 32
+Momentum: 0.606
+
+
+Time: 21.09.2023 11:54:32
+Average validation accuracy: 0.1337591240998315
+Fold 1: 0.125.
+Fold 2: 0.14991918103448276.
+Fold 3: 0.125.
+Fold 4: 0.1328976034858388.
+Fold 5: 0.13597883597883598.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0.0331
+Batch size: 32
+Momentum: 0
+
+
+Time: 21.09.2023 12:04:32
+Average validation accuracy: 0.2976032083547651
+Fold 1: 0.41166391809980424.
+Fold 2: 0.125.
+Fold 3: 0.4063962965280183.
+Fold 4: 0.3918026739928498.
+Fold 5: 0.15315315315315314.
+Optimizer: SGD
+Learning Rate: 0.01
+Scheduler: True
+Weight decay: 0.0001
+Smoothing: 0.0483
+Batch size: 32
+Momentum: 0
+T_max: 0.858
+
+
+Time: 21.09.2023 12:12:19
+Average validation accuracy: 0.39439708814774155
+Fold 1: 0.386683318559202.
+Fold 2: 0.40454304564481314.
+Fold 3: 0.3947505598367446.
+Fold 4: 0.395509497015.
+Fold 5: 0.39049901968294815.
+Optimizer: SGD
+Learning Rate: 0.01
+Scheduler: False
+Weight decay: 0
+Smoothing: 0.00135
+Batch size: 32
+Momentum: 0.63
+
+
+Time: 21.09.2023 12:21:33
+Average validation accuracy: 0.33843887435152203
+Fold 1: 0.3897322934384986.
+Fold 2: 0.3947095741023696.
+Fold 3: 0.3814159444940133.
+Fold 4: 0.3933059319769402.
+Fold 5: 0.13303062774578847.
+Optimizer: SGD
+Learning Rate: 0.01
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.00388
+Batch size: 64
+Momentum: 0
+
+
+Time: 21.09.2023 12:26:03
+Average validation accuracy: 0.34791730451645203
+Fold 1: 0.3975865463607479.
+Fold 2: 0.40542915900188203.
+Fold 3: 0.125.
+Fold 4: 0.4057551175136337.
+Fold 5: 0.4058156997059966.
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0
+Batch size: 64
+
+
+Time: 21.09.2023 12:30:18
+Average validation accuracy: 0.125
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 1e-05
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0.0131
+Batch size: 64
+Momentum: 0
+T_max: 1
+
+
+Time: 21.09.2023 12:50:07
+Average validation accuracy: 0.3279859876167204
+Fold 1: 0.3443560841074711.
+Fold 2: 0.4039724663638804.
+Fold 3: 0.32494224330114824.
+Fold 4: 0.373578701517604.
+Fold 5: 0.19308044279349812.
+Optimizer: Adam
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 128
+
+
+Time: 21.09.2023 12:56:07
+Average validation accuracy: 0.1253259779338014
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.126629889669007.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+Momentum: 0
+
+
+Time: 21.09.2023 12:59:50
+Average validation accuracy: 0.125
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 0.0001
+Scheduler: True
+Weight decay: 0.0001
+Smoothing: 0
+Batch size: 128
+Momentum: 0
+T_max: 0.595
+
+
+Time: 21.09.2023 13:11:37
+Average validation accuracy: 0.40129037690301506
+Fold 1: 0.4052251047028673.
+Fold 2: 0.41365964902669283.
+Fold 3: 0.3907560870427216.
+Fold 4: 0.3998054748758451.
+Fold 5: 0.39700556886694816.
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0.0187
+Batch size: 32
+
+
+Time: 21.09.2023 13:18:12
+Average validation accuracy: 0.4129437539943283
+Fold 1: 0.40793543884539074.
+Fold 2: 0.40938376719759473.
+Fold 3: 0.42372857766958194.
+Fold 4: 0.42160630984205116.
+Fold 5: 0.40206467641702287.
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0.0467
+Batch size: 64
+
+
+Time: 21.09.2023 13:24:52
+Average validation accuracy: 0.13323686036713006
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.12693273255436244.
+Fold 4: 0.1409489186073504.
+Fold 5: 0.14830265067393744.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0.0187
+Batch size: 32
+Momentum: 0
+T_max: 1
+
+
+Time: 21.09.2023 13:44:33
+Average validation accuracy: 0.34225346792044076
+Fold 1: 0.38360614479708816.
+Fold 2: 0.34812839812613566.
+Fold 3: 0.3528803198002946.
+Fold 4: 0.28239640474367333.
+Fold 5: 0.34425607213501214.
+Optimizer: Adam
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0
+Batch size: 128
+
+
+Time: 21.09.2023 13:49:49
+Average validation accuracy: 0.1296871419192717
+Fold 1: 0.13328598484848486.
+Fold 2: 0.125.
+Fold 3: 0.12598425196850394.
+Fold 4: 0.13916547277936964.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0479
+Batch size: 32
+Momentum: 0
+
+
+Time: 21.09.2023 13:53:46
+Average validation accuracy: 0.13660029458582645
+Fold 1: 0.13897058823529412.
+Fold 2: 0.12902738329327798.
+Fold 3: 0.12946428571428573.
+Fold 4: 0.1605392156862745.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0.001
+Smoothing: 0.0274
+Batch size: 64
+Momentum: 0
+T_max: 0.906
+
+
+Time: 21.09.2023 13:58:23
+Average validation accuracy: 0.13406417112299468
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.1703208556149733.
+Optimizer: SGD
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 64
+Momentum: 0.317
+
+
+Time: 21.09.2023 14:03:58
+Average validation accuracy: 0.4003099276190484
+Fold 1: 0.38978601397915735.
+Fold 2: 0.3971456250607706.
+Fold 3: 0.41355531056225586.
+Fold 4: 0.410856038625909.
+Fold 5: 0.39020664986714915.
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0237
+Batch size: 64
+
+
+Time: 21.09.2023 14:10:03
+Average validation accuracy: 0.4124226017329655
+Fold 1: 0.4067506734199072.
+Fold 2: 0.4238347950902798.
+Fold 3: 0.404433252788834.
+Fold 4: 0.4315892227396727.
+Fold 5: 0.3955050646261339.
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0.0494
+Batch size: 128
+
+
+Time: 21.09.2023 14:15:45
+Average validation accuracy: 0.13631303473012513
+Fold 1: 0.13158344733242133.
+Fold 2: 0.1508224479922593.
+Fold 3: 0.14256756756756755.
+Fold 4: 0.13159171075837742.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0.0102
+Batch size: 64
+Momentum: 0.781
+
+
+Time: 21.09.2023 14:41:59
+Average validation accuracy: 0.39303814102317375
+Fold 1: 0.39536889553326593.
+Fold 2: 0.3880316804858998.
+Fold 3: 0.39742791073179945.
+Fold 4: 0.38745726912899064.
+Fold 5: 0.3969049492359129.
+Optimizer: Adam
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 21.09.2023 14:47:31
+Average validation accuracy: 0.125
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 1e-05
+Scheduler: True
+Weight decay: 0.001
+Smoothing: 0
+Batch size: 32
+Momentum: 0
+T_max: 0.425
+
+
+Time: 21.09.2023 15:00:37
+Average validation accuracy: 0.24259904904409405
+Fold 1: 0.15681459288818395.
+Fold 2: 0.20370370370370372.
+Fold 3: 0.12780119243421054.
+Fold 4: 0.348629440124978.
+Fold 5: 0.37604631606939404.
+Optimizer: Adam
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 0
+Smoothing: 0.00685
+Batch size: 128
+
+
+Time: 21.09.2023 15:04:47
+Average validation accuracy: 0.12784655636108513
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.13923278180542564.
+Optimizer: SGD
+Learning Rate: 1e-05
+Scheduler: True
+Weight decay: 0.001
+Smoothing: 0.0408
+Batch size: 64
+Momentum: 0
+T_max: 0.212
+
+
+Time: 21.09.2023 15:11:12
+Average validation accuracy: 0.1986667057891486
+Fold 1: 0.1267433751743375.
+Fold 2: 0.385363898510419.
+Fold 3: 0.2013986287450888.
+Fold 4: 0.15354802270890341.
+Fold 5: 0.12627960380699424.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 64
+Momentum: 0.706
+
+
+Time: 21.09.2023 15:16:47
+Average validation accuracy: 0.13235829916821434
+Fold 1: 0.12693032015065914.
+Fold 2: 0.12979397448808325.
+Fold 3: 0.1335550875849526.
+Fold 4: 0.13864087301587302.
+Fold 5: 0.13287124060150377.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0.001
+Smoothing: 0
+Batch size: 128
+Momentum: 0
+T_max: 1
+
+
+Time: 21.09.2023 15:21:04
+Average validation accuracy: 0.1850100405720903
+Fold 1: 0.16881374559393136.
+Fold 2: 0.22097384313366664.
+Fold 3: 0.2164729361917055.
+Fold 4: 0.13800685748360167.
+Fold 5: 0.1807828204575463.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Momentum: 0.862
+T_max: 0.762
+
+
+Time: 21.09.2023 15:26:22
+Average validation accuracy: 0.1640116606835878
+Fold 1: 0.125.
+Fold 2: 0.14112903225806453.
+Fold 3: 0.19827586206896552.
+Fold 4: 0.17732007575757575.
+Fold 5: 0.17833333333333334.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0.001
+Smoothing: 0.0403
+Batch size: 32
+Momentum: 0.613
+T_max: 0.665
+
+
+Time: 21.09.2023 15:35:16
+Average validation accuracy: 0.13866004978022128
+Fold 1: 0.1440140864648172.
+Fold 2: 0.125.
+Fold 3: 0.13764408608867798.
+Fold 4: 0.14932202083885304.
+Fold 5: 0.1373200555087583.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0.00254
+Batch size: 32
+Momentum: 0
+
+
+Time: 21.09.2023 15:40:54
+Average validation accuracy: 0.1425432034178508
+Fold 1: 0.1445507073122136.
+Fold 2: 0.13470355870630973.
+Fold 3: 0.16062458126145368.
+Fold 4: 0.1347218048878205.
+Fold 5: 0.1381153649214564.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0.001
+Smoothing: 0
+Batch size: 128
+Momentum: 0.436
+T_max: 0.432
+
+
+Time: 21.09.2023 15:44:55
+Average validation accuracy: 0.14621404543878969
+Fold 1: 0.125.
+Fold 2: 0.17236024844720496.
+Fold 3: 0.12867647058823528.
+Fold 4: 0.1452323717948718.
+Fold 5: 0.15980113636363635.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0.0481
+Batch size: 64
+Momentum: 0
+
+
+Time: 21.09.2023 15:49:24
+Average validation accuracy: 0.4038889199510696
+Fold 1: 0.41276923086858747.
+Fold 2: 0.3847090289002945.
+Fold 3: 0.3796271634236609.
+Fold 4: 0.43582395276814095.
+Fold 5: 0.4065152237946643.
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0.0244
+Batch size: 128
+
+
+Time: 21.09.2023 15:56:12
+Average validation accuracy: 0.12522522522522522
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.12612612612612611.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0.0123
+Batch size: 32
+Momentum: 0
+
+
+Time: 21.09.2023 16:04:30
+Average validation accuracy: 0.125
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: Adam
+Learning Rate: 0.01
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 21.09.2023 16:09:51
+Average validation accuracy: 0.13784991324465007
+Fold 1: 0.17894736842105263.
+Fold 2: 0.125.
+Fold 3: 0.1353021978021978.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0.001
+Smoothing: 0.0484
+Batch size: 32
+Momentum: 0.398
+T_max: 1
+
+
+Time: 21.09.2023 16:14:53
+Average validation accuracy: 0.125
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: Adam
+Learning Rate: 0.01
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0.00898
+Batch size: 64
+
+
+Time: 21.09.2023 16:33:21
+Average validation accuracy: 0.265280791290199
+Fold 1: 0.3308319141592204.
+Fold 2: 0.36555307111053237.
+Fold 3: 0.125.
+Fold 4: 0.3800189711812423.
+Fold 5: 0.125.
+Optimizer: Adam
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.00484
+Batch size: 128
+
+
+Time: 21.09.2023 16:38:19
+Average validation accuracy: 0.4046497419931244
+Fold 1: 0.40525195976448053.
+Fold 2: 0.3916583954562205.
+Fold 3: 0.3721905430685439.
+Fold 4: 0.42221965332317674.
+Fold 5: 0.43192815835320014.
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0.0156
+Batch size: 64
+
+
+Time: 21.09.2023 16:42:19
+Average validation accuracy: 0.1251700680272109
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.12585034013605442.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 1e-05
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0287
+Batch size: 64
+Momentum: 0.491
+T_max: 1
+
+
+Time: 21.09.2023 16:47:38
+Average validation accuracy: 0.125
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0406
+Batch size: 32
+Momentum: 0
+
+
+Time: 21.09.2023 16:58:18
+Average validation accuracy: 0.1401761713074463
+Fold 1: 0.14321476453829396.
+Fold 2: 0.125.
+Fold 3: 0.1496737553881798.
+Fold 4: 0.15267857142857144.
+Fold 5: 0.13031376518218624.
+Optimizer: SGD
+Learning Rate: 0.0001
+Scheduler: True
+Weight decay: 0.0001
+Smoothing: 0.021
+Batch size: 32
+Momentum: 0
+T_max: 1
+
+
+Time: 21.09.2023 17:03:36
+Average validation accuracy: 0.13520257296466973
+Fold 1: 0.128125.
+Fold 2: 0.125.
+Fold 3: 0.164247311827957.
+Fold 4: 0.1336405529953917.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0473
+Batch size: 32
+Momentum: 0
+T_max: 1
+
+
+Time: 21.09.2023 17:11:10
+Average validation accuracy: 0.3953506985122882
+Fold 1: 0.38442819801445965.
+Fold 2: 0.408438950340996.
+Fold 3: 0.39296849894526387.
+Fold 4: 0.41363634219196255.
+Fold 5: 0.3772815030687588.
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0.00254
+Batch size: 128
+
+
+Time: 21.09.2023 17:18:57
+Average validation accuracy: 0.15334460448631657
+Fold 1: 0.20746009810131638.
+Fold 2: 0.15791463285229201.
+Fold 3: 0.15134829147797446.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0.00445
+Batch size: 32
+Momentum: 0
+
+
+Time: 21.09.2023 17:27:59
+Average validation accuracy: 0.12820150339507347
+Fold 1: 0.125.
+Fold 2: 0.12553002003975738.
+Fold 3: 0.13005736714975846.
+Fold 4: 0.12727285627790813.
+Fold 5: 0.1331472735079433.
+Optimizer: SGD
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Momentum: 0.78
+
+
+Time: 21.09.2023 17:58:46
+Average validation accuracy: 0.3860353456023541
+Fold 1: 0.39445927911512785.
+Fold 2: 0.37230413255230504.
+Fold 3: 0.3818628526886675.
+Fold 4: 0.38193928941093197.
+Fold 5: 0.39961117424473813.
+Optimizer: Adam
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0
+Batch size: 32
+
+
+Time: 21.09.2023 18:02:45
+Average validation accuracy: 0.125
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 1e-05
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0261
+Batch size: 64
+Momentum: 0
+T_max: 0.544
+
+
+Time: 21.09.2023 18:06:11
+Average validation accuracy: 0.125
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 1e-05
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Momentum: 0
+T_max: 1
+
+
+Time: 21.09.2023 18:14:48
+Average validation accuracy: 0.39689759985523054
+Fold 1: 0.3757914873224242.
+Fold 2: 0.4165363879920497.
+Fold 3: 0.4025637479885288.
+Fold 4: 0.38920635780693125.
+Fold 5: 0.40039001816621883.
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 21.09.2023 18:34:14
+Average validation accuracy: 0.1348406972216496
+Fold 1: 0.15166947250280582.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.14753401360544216.
+Optimizer: SGD
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 32
+Momentum: 0
+
+
+Time: 21.09.2023 18:41:55
+Average validation accuracy: 0.31115810337214017
+Fold 1: 0.21423180592991914.
+Fold 2: 0.1958627648839556.
+Fold 3: 0.3747831233722339.
+Fold 4: 0.3933852368554091.
+Fold 5: 0.3775275858191831.
+Optimizer: SGD
+Learning Rate: 0.01
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0156
+Batch size: 64
+Momentum: 0
+T_max: 1
+
+
+Time: 21.09.2023 18:47:34
+Average validation accuracy: 0.40438405801711885
+Fold 1: 0.39928025841497516.
+Fold 2: 0.40289961528037843.
+Fold 3: 0.4155066200950683.
+Fold 4: 0.3989981967484086.
+Fold 5: 0.40523559954676375.
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 32
+
+
+Time: 21.09.2023 18:55:14
+Average validation accuracy: 0.125
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: Adam
+Learning Rate: 0.01
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 32
+
+
+Time: 21.09.2023 19:06:35
+Average validation accuracy: 0.1976808338051795
+Fold 1: 0.1588168872964021.
+Fold 2: 0.16454927545280806.
+Fold 3: 0.39410795704582147.
+Fold 4: 0.1309757053291536.
+Fold 5: 0.13995434390171232.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+Momentum: 0
+T_max: 0.51
+
+
+Time: 21.09.2023 19:13:41
+Average validation accuracy: 0.13404034310546115
+Fold 1: 0.1258445945945946.
+Fold 2: 0.1474322316597987.
+Fold 3: 0.1332420739090853.
+Fold 4: 0.12809343434343434.
+Fold 5: 0.1355893810203928.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.00314
+Batch size: 64
+Momentum: 0
+T_max: 0.267
+
+
+Time: 21.09.2023 19:21:07
+Average validation accuracy: 0.125
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: Adam
+Learning Rate: 0.01
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0
+Batch size: 64
+
+
+Time: 21.09.2023 19:25:17
+Average validation accuracy: 0.1253061224489796
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.12653061224489795.
+Optimizer: SGD
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0.00313
+Batch size: 128
+Momentum: 0
+
+
+Time: 21.09.2023 19:34:27
+Average validation accuracy: 0.3884567326250545
+Fold 1: 0.40335528573393103.
+Fold 2: 0.36925373498976777.
+Fold 3: 0.380158325505858.
+Fold 4: 0.3872235783914046.
+Fold 5: 0.40229273850431096.
+Optimizer: SGD
+Learning Rate: 0.01
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0
+Batch size: 32
+Momentum: 0
+
+
+Time: 21.09.2023 19:41:30
+Average validation accuracy: 0.38299065738745713
+Fold 1: 0.3884147804241452.
+Fold 2: 0.3881039544981306.
+Fold 3: 0.39235423027779837.
+Fold 4: 0.36941896789745365.
+Fold 5: 0.37666135383975774.
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0
+Batch size: 64
+
+
+Time: 21.09.2023 20:04:26
+Average validation accuracy: 0.3700899854466436
+Fold 1: 0.34444269002248523.
+Fold 2: 0.3969348168466258.
+Fold 3: 0.40426057613438604.
+Fold 4: 0.38464705266638977.
+Fold 5: 0.320164791563331.
+Optimizer: Adam
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+
+
+Time: 21.09.2023 20:10:15
+Average validation accuracy: 0.125
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+Momentum: 0
+
+
+Time: 21.09.2023 20:15:05
+Average validation accuracy: 0.16783404100597293
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.3391702050298647.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: Adam
+Learning Rate: 0.01
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0168
+Batch size: 128
+
+
+Time: 21.09.2023 20:21:59
+Average validation accuracy: 0.16379363845813094
+Fold 1: 0.13750862875325237.
+Fold 2: 0.19905337721419913.
+Fold 3: 0.18581224478830863.
+Fold 4: 0.13409949099560153.
+Fold 5: 0.16249445053929287.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0.0221
+Batch size: 32
+Momentum: 0.223
+
+
+Time: 21.09.2023 20:27:58
+Average validation accuracy: 0.12812112406380816
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.12931034482758622.
+Fold 4: 0.1362952754914546.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 1e-05
+Scheduler: True
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+Momentum: 0
+T_max: 1
+
+
+Time: 21.09.2023 20:31:39
+Average validation accuracy: 0.125
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 128
+Momentum: 0.0755
+
+
+Time: 21.09.2023 20:40:36
+Average validation accuracy: 0.16025182734659646
+Fold 1: 0.14095557535406786.
+Fold 2: 0.15322731749420304.
+Fold 3: 0.1645762736006468.
+Fold 4: 0.20182625985501101.
+Fold 5: 0.14067371042905352.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0.0001
+Smoothing: 0.0101
+Batch size: 32
+Momentum: 0
+T_max: 0.965
+
+
+Time: 21.09.2023 20:49:02
+Average validation accuracy: 0.13650444726167069
+Fold 1: 0.16572651663405089.
+Fold 2: 0.1349531728484915.
+Fold 3: 0.12559186106763673.
+Fold 4: 0.125.
+Fold 5: 0.13125068575817422.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0.0001
+Smoothing: 0
+Batch size: 32
+Momentum: 0
+T_max: 1
+
+
+Time: 21.09.2023 20:55:40
+Average validation accuracy: 0.40211939560100396
+Fold 1: 0.3944897519804167.
+Fold 2: 0.4081916125009863.
+Fold 3: 0.3850074859210797.
+Fold 4: 0.40647402096888363.
+Fold 5: 0.41643410663365305.
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+
+
+Time: 21.09.2023 21:07:01
+Average validation accuracy: 0.3976549371627466
+Fold 1: 0.38276417395589124.
+Fold 2: 0.39994863534387676.
+Fold 3: 0.3813565525835042.
+Fold 4: 0.40821009640263717.
+Fold 5: 0.41599522752782364.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 32
+Momentum: 0.862
+T_max: 0.784
+
+
+Time: 21.09.2023 21:10:41
+Average validation accuracy: 0.1308305318584924
+Fold 1: 0.125.
+Fold 2: 0.14573317307692307.
+Fold 3: 0.125.
+Fold 4: 0.13341948621553884.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0.00262
+Batch size: 128
+Momentum: 0.0954
+
+
+Time: 21.09.2023 21:19:33
+Average validation accuracy: 0.3936850562337234
+Fold 1: 0.40297371903608725.
+Fold 2: 0.38862329839616144.
+Fold 3: 0.40135067948022274.
+Fold 4: 0.3808593668298718.
+Fold 5: 0.3946182174262738.
+Optimizer: SGD
+Learning Rate: 0.01
+Scheduler: True
+Weight decay: 0.0001
+Smoothing: 0
+Batch size: 32
+Momentum: 0
+T_max: 1
+
+
+Time: 21.09.2023 21:24:09
+Average validation accuracy: 0.1364096038620682
+Fold 1: 0.12974719252055236.
+Fold 2: 0.13060634263387827.
+Fold 3: 0.1255554186230063.
+Fold 4: 0.12553451540006239.
+Fold 5: 0.17060455013284187.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0
+Batch size: 128
+Momentum: 0.727
+
+
+Time: 21.09.2023 21:35:15
+Average validation accuracy: 0.3435293682283588
+Fold 1: 0.41451723536565527.
+Fold 2: 0.3991646520348633.
+Fold 3: 0.37373609172404.
+Fold 4: 0.14803030303030304.
+Fold 5: 0.38219855898693256.
+Optimizer: SGD
+Learning Rate: 0.01
+Scheduler: True
+Weight decay: 0.0001
+Smoothing: 0.0449
+Batch size: 32
+Momentum: 0
+T_max: 0.433
+
+
+Time: 21.09.2023 21:45:55
+Average validation accuracy: 0.125
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: Adam
+Learning Rate: 0.01
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0.022
+Batch size: 32
+
+
+Time: 21.09.2023 21:50:39
+Average validation accuracy: 0.39993044180022724
+Fold 1: 0.3946737083913697.
+Fold 2: 0.4151803020661416.
+Fold 3: 0.39278947526570107.
+Fold 4: 0.3970883393802415.
+Fold 5: 0.3999203838976822.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 64
+Momentum: 0.993
+
+
+Time: 21.09.2023 22:10:03
+Average validation accuracy: 0.13746069574160552
+Fold 1: 0.14753495791474341.
+Fold 2: 0.13375355549608653.
+Fold 3: 0.15502290180513423.
+Fold 4: 0.125.
+Fold 5: 0.1259920634920635.
+Optimizer: SGD
+Learning Rate: 0.0001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+Momentum: 0
+T_max: 0.821
+
+
+Time: 21.09.2023 22:14:25
+Average validation accuracy: 0.39227681516326607
+Fold 1: 0.37913254174242306.
+Fold 2: 0.404248249015282.
+Fold 3: 0.3924711106965058.
+Fold 4: 0.4137020667527003.
+Fold 5: 0.3718301076094193.
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+
+
+Time: 21.09.2023 22:18:58
+Average validation accuracy: 0.125
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 1e-05
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0.000103
+Batch size: 64
+Momentum: 0.0966
+T_max: 0.797
+
+
+Time: 21.09.2023 22:28:05
+Average validation accuracy: 0.14715912841015083
+Fold 1: 0.125.
+Fold 2: 0.14166666666666666.
+Fold 3: 0.13884969968815067.
+Fold 4: 0.1430115682848104.
+Fold 5: 0.1872677074111263.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.00142
+Batch size: 32
+Momentum: 0
+T_max: 0.595
+
+
+Time: 21.09.2023 22:31:36
+Average validation accuracy: 0.135168353813674
+Fold 1: 0.1651098901098901.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.13573187895847993.
+Fold 5: 0.125.
+Optimizer: Adam
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0.0254
+Batch size: 128
+
+
+Time: 21.09.2023 22:35:31
+Average validation accuracy: 0.1825540282973503
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.4127701414867515.
+Optimizer: Adam
+Learning Rate: 0.01
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0.0371
+Batch size: 128
+
+
+Time: 21.09.2023 22:42:20
+Average validation accuracy: 0.125
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 0.01
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0
+Batch size: 32
+Momentum: 0.958
+
+
+Time: 21.09.2023 22:46:22
+Average validation accuracy: 0.125
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0.0323
+Batch size: 64
+Momentum: 0.386
+
+
+Time: 21.09.2023 22:51:55
+Average validation accuracy: 0.3927630651086835
+Fold 1: 0.381041569193443.
+Fold 2: 0.38970668093421235.
+Fold 3: 0.3989376029921444.
+Fold 4: 0.367861826581128.
+Fold 5: 0.4262676458424898.
+Optimizer: SGD
+Learning Rate: 0.01
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.00746
+Batch size: 64
+Momentum: 0.895
+T_max: 0.717
+
+
+Time: 21.09.2023 23:09:08
+Average validation accuracy: 0.13173421893443799
+Fold 1: 0.125.
+Fold 2: 0.13350456621004567.
+Fold 3: 0.1264792899408284.
+Fold 4: 0.14252460173866996.
+Fold 5: 0.13116263678264597.
+Optimizer: SGD
+Learning Rate: 0.0001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 32
+Momentum: 0.223
+T_max: 1
+
+
+Time: 21.09.2023 23:25:09
+Average validation accuracy: 0.13421995987077465
+Fold 1: 0.15947420634920634.
+Fold 2: 0.125.
+Fold 3: 0.13023761228629382.
+Fold 4: 0.1276321121737721.
+Fold 5: 0.12875586854460094.
+Optimizer: SGD
+Learning Rate: 0.0001
+Scheduler: True
+Weight decay: 0.001
+Smoothing: 0.0131
+Batch size: 32
+Momentum: 0
+T_max: 0.977
+
+
+Time: 21.09.2023 23:53:31
+Average validation accuracy: 0.3609073694112759
+Fold 1: 0.37800777848568085.
+Fold 2: 0.3815727418058207.
+Fold 3: 0.2465277777777778.
+Fold 4: 0.3698274659669006.
+Fold 5: 0.4286010830201995.
+Optimizer: Adam
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 0
+Smoothing: 0.0415
+Batch size: 32
+
+
+Time: 22.09.2023 00:01:04
+Average validation accuracy: 0.3912719161804025
+Fold 1: 0.3934243415728132.
+Fold 2: 0.40899719307169236.
+Fold 3: 0.3915636182206031.
+Fold 4: 0.40991716431378394.
+Fold 5: 0.35245726372312003.
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0
+Batch size: 128
+
+
+Time: 22.09.2023 00:05:22
+Average validation accuracy: 0.15870961520632
+Fold 1: 0.1563102591757362.
+Fold 2: 0.1482341781388335.
+Fold 3: 0.1382094031228897.
+Fold 4: 0.18331104476374116.
+Fold 5: 0.16748319083039945.
+Optimizer: SGD
+Learning Rate: 0.01
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0
+Batch size: 64
+Momentum: 0
+
+
+Time: 22.09.2023 00:12:13
+Average validation accuracy: 0.3839244248544393
+Fold 1: 0.3708828172993737.
+Fold 2: 0.38221726331856326.
+Fold 3: 0.41366630301989105.
+Fold 4: 0.39913312487817704.
+Fold 5: 0.3537226157561913.
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+
+
+Time: 22.09.2023 00:21:33
+Average validation accuracy: 0.125
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: Adam
+Learning Rate: 0.01
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0077
+Batch size: 32
+
+
+Time: 22.09.2023 00:28:58
+Average validation accuracy: 0.3938406526312644
+Fold 1: 0.3765288045391074.
+Fold 2: 0.37898116367390255.
+Fold 3: 0.43392957424525336.
+Fold 4: 0.378847485744953.
+Fold 5: 0.4009162349531054.
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0
+Batch size: 64
+
+
+Time: 22.09.2023 00:34:34
+Average validation accuracy: 0.40355444712676886
+Fold 1: 0.4278916307498989.
+Fold 2: 0.4041685511076599.
+Fold 3: 0.40285790253101744.
+Fold 4: 0.38722689347210965.
+Fold 5: 0.3956272577731583.
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 22.09.2023 00:41:51
+Average validation accuracy: 0.3875910391274008
+Fold 1: 0.35802968136138386.
+Fold 2: 0.3787582910408421.
+Fold 3: 0.40217670688098206.
+Fold 4: 0.384503907173279.
+Fold 5: 0.41448660918051705.
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 64
+
+
+Time: 22.09.2023 00:46:29
+Average validation accuracy: 0.39495655993844603
+Fold 1: 0.39961495596602603.
+Fold 2: 0.41191222003125594.
+Fold 3: 0.3856681025033552.
+Fold 4: 0.3997375425234584.
+Fold 5: 0.37784997866813463.
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0
+Batch size: 128
+
+
+Time: 22.09.2023 00:51:05
+Average validation accuracy: 0.125
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: Adam
+Learning Rate: 0.01
+Scheduler: False
+Weight decay: 0
+Smoothing: 0.00192
+Batch size: 64
+
+
+Time: 22.09.2023 00:59:43
+Average validation accuracy: 0.39779475245353363
+Fold 1: 0.3991467599873453.
+Fold 2: 0.38951360132318136.
+Fold 3: 0.3930860848570154.
+Fold 4: 0.38242528994680175.
+Fold 5: 0.4248020261533246.
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 32
+
+
+Time: 22.09.2023 01:09:31
+Average validation accuracy: 0.40189520390782707
+Fold 1: 0.40339962731301127.
+Fold 2: 0.4107938893155808.
+Fold 3: 0.41212269796417256.
+Fold 4: 0.40483156228629613.
+Fold 5: 0.3783282426600748.
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0.00447
+Batch size: 32
+
+
+Time: 22.09.2023 01:35:36
+Average validation accuracy: 0.38240708306573296
+Fold 1: 0.39139564336087596.
+Fold 2: 0.3845411351544521.
+Fold 3: 0.38391382958489867.
+Fold 4: 0.374275029571417.
+Fold 5: 0.37790977765702094.
+Optimizer: Adam
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0
+Batch size: 64
+
+
+Time: 22.09.2023 01:43:42
+Average validation accuracy: 0.3877432237037498
+Fold 1: 0.3580385781676004.
+Fold 2: 0.38793054581618036.
+Fold 3: 0.41729625489737654.
+Fold 4: 0.3647438470156487.
+Fold 5: 0.41070689262194326.
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0429
+Batch size: 128
+
+
+Time: 22.09.2023 01:48:32
+Average validation accuracy: 0.16143576755202207
+Fold 1: 0.125.
+Fold 2: 0.12870611543683672.
+Fold 3: 0.125.
+Fold 4: 0.3034727223232736.
+Fold 5: 0.125.
+Optimizer: Adam
+Learning Rate: 0.01
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+
+
+Time: 22.09.2023 01:54:57
+Average validation accuracy: 0.40921210591508206
+Fold 1: 0.4192188694846375.
+Fold 2: 0.39671587510785455.
+Fold 3: 0.4231460900389566.
+Fold 4: 0.40542268183569297.
+Fold 5: 0.4015570131082689.
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0.00328
+Batch size: 32
+
+
+Time: 22.09.2023 02:02:32
+Average validation accuracy: 0.1325172284755615
+Fold 1: 0.16258614237780747.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: Adam
+Learning Rate: 0.01
+Scheduler: False
+Weight decay: 0
+Smoothing: 0.0099
+Batch size: 32
+
+
+Time: 22.09.2023 02:33:11
+Average validation accuracy: 0.3889996122144306
+Fold 1: 0.40379713425510666.
+Fold 2: 0.3750966238745138.
+Fold 3: 0.3697021382541687.
+Fold 4: 0.3875831381991237.
+Fold 5: 0.4088190264892399.
+Optimizer: Adam
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0
+Batch size: 32
+
+
+Time: 22.09.2023 02:39:50
+Average validation accuracy: 0.13473635164285178
+Fold 1: 0.13337770866601417.
+Fold 2: 0.125.
+Fold 3: 0.1575121540762902.
+Fold 4: 0.1327918954719545.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 0.0001
+Scheduler: True
+Weight decay: 0
+Smoothing: 0
+Batch size: 128
+Momentum: 0.788
+T_max: 1
+
+
+Time: 22.09.2023 02:49:09
+Average validation accuracy: 0.3426574234680971
+Fold 1: 0.4090209974055283.
+Fold 2: 0.3873319161788286.
+Fold 3: 0.3958147172972218.
+Fold 4: 0.39611948645890654.
+Fold 5: 0.125.
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0.0415
+Batch size: 32
+
+
+Time: 22.09.2023 02:52:43
+Average validation accuracy: 0.13577457545478794
+Fold 1: 0.12903225806451613.
+Fold 2: 0.125.
+Fold 3: 0.13924199623352165.
+Fold 4: 0.12771739130434784.
+Fold 5: 0.15788123167155424.
+Optimizer: Adam
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0.0308
+Batch size: 128
+
+
+Time: 22.09.2023 03:01:42
+Average validation accuracy: 0.3942153577299396
+Fold 1: 0.38688899263199006.
+Fold 2: 0.41105733448076565.
+Fold 3: 0.3930609385894144.
+Fold 4: 0.383559044671405.
+Fold 5: 0.396510478276123.
+Optimizer: SGD
+Learning Rate: 0.01
+Scheduler: True
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+Momentum: 0
+T_max: 0.367
+
+
+Time: 22.09.2023 03:05:45
+Average validation accuracy: 0.12772127872127872
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.1386063936063936.
+Optimizer: SGD
+Learning Rate: 1e-05
+Scheduler: True
+Weight decay: 0.0001
+Smoothing: 0.0209
+Batch size: 64
+Momentum: 0
+T_max: 1
+
+
+Time: 22.09.2023 03:13:32
+Average validation accuracy: 0.39349266981438025
+Fold 1: 0.3594877063987493.
+Fold 2: 0.3888670916204809.
+Fold 3: 0.39231310247826223.
+Fold 4: 0.4221352810394384.
+Fold 5: 0.4046601675349701.
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0489
+Batch size: 64
+
+
+Time: 22.09.2023 03:21:32
+Average validation accuracy: 0.12692292106880748
+Fold 1: 0.125.
+Fold 2: 0.1338690872751499.
+Fold 3: 0.12611607142857142.
+Fold 4: 0.12462944664031621.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 0.0001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0.0257
+Batch size: 32
+Momentum: 0
+T_max: 0.882
+
+
+Time: 22.09.2023 03:30:03
+Average validation accuracy: 0.3997622109430523
+Fold 1: 0.4011484662819179.
+Fold 2: 0.4234624434986791.
+Fold 3: 0.3997813966798358.
+Fold 4: 0.3825614068161181.
+Fold 5: 0.39185734143871054.
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0
+Batch size: 32
+
+
+Time: 22.09.2023 03:34:14
+Average validation accuracy: 0.125
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 64
+Momentum: 0
+
+
+Time: 22.09.2023 03:41:22
+Average validation accuracy: 0.34279366641526543
+Fold 1: 0.4142831979516779.
+Fold 2: 0.125.
+Fold 3: 0.3794187979782858.
+Fold 4: 0.4026076382410111.
+Fold 5: 0.3926586979053524.
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0.041
+Batch size: 128
+
+
+Time: 22.09.2023 03:47:58
+Average validation accuracy: 0.38736364176626126
+Fold 1: 0.3740863130505625.
+Fold 2: 0.412514609081849.
+Fold 3: 0.37819516671232056.
+Fold 4: 0.387299917741875.
+Fold 5: 0.38472220224469944.
+Optimizer: SGD
+Learning Rate: 0.01
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0
+Batch size: 32
+Momentum: 0.618
+
+
+Time: 22.09.2023 03:55:18
+Average validation accuracy: 0.39123497021329245
+Fold 1: 0.40568848610716407.
+Fold 2: 0.37680861678829236.
+Fold 3: 0.39129366179558.
+Fold 4: 0.3940911579106601.
+Fold 5: 0.38829292846476576.
+Optimizer: SGD
+Learning Rate: 0.01
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0226
+Batch size: 64
+Momentum: 0.564
+T_max: 0.726
+
+
+Time: 22.09.2023 04:15:51
+Average validation accuracy: 0.3642833142110292
+Fold 1: 0.3863508256228815.
+Fold 2: 0.2826180076757089.
+Fold 3: 0.3760400346311171.
+Fold 4: 0.3777950655981702.
+Fold 5: 0.3986126375272683.
+Optimizer: Adam
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 32
+
+
+Time: 22.09.2023 04:19:49
+Average validation accuracy: 0.125
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+Momentum: 0.826
+
+
+Time: 22.09.2023 04:43:15
+Average validation accuracy: 0.3858135986839394
+Fold 1: 0.4061723731249416.
+Fold 2: 0.35961813848835955.
+Fold 3: 0.3985208652374153.
+Fold 4: 0.374074442350794.
+Fold 5: 0.3906821742181863.
+Optimizer: Adam
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0
+Batch size: 64
+
+
+Time: 22.09.2023 04:47:51
+Average validation accuracy: 0.1251736111111111
+Fold 1: 0.12586805555555555.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: Adam
+Learning Rate: 0.01
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 64
+
+
+Time: 22.09.2023 05:00:29
+Average validation accuracy: 0.3038350588271521
+Fold 1: 0.20321145506206073.
+Fold 2: 0.4049413710955983.
+Fold 3: 0.3854169425530671.
+Fold 4: 0.1562339694264902.
+Fold 5: 0.36937155599854415.
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0.0224
+Batch size: 32
+Momentum: 0.72
+
+
+Time: 22.09.2023 05:18:58
+Average validation accuracy: 0.1279830145493374
+Fold 1: 0.13771876031888297.
+Fold 2: 0.12673502264019504.
+Fold 3: 0.125.
+Fold 4: 0.12592621511884633.
+Fold 5: 0.12453507466876262.
+Optimizer: SGD
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0.000801
+Batch size: 32
+Momentum: 0
+
+
+Time: 22.09.2023 05:26:24
+Average validation accuracy: 0.3855808336381673
+Fold 1: 0.4006472312307436.
+Fold 2: 0.3922154740504683.
+Fold 3: 0.3777919824106724.
+Fold 4: 0.37683625513203123.
+Fold 5: 0.3804132253669213.
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+
+
+Time: 22.09.2023 05:31:26
+Average validation accuracy: 0.20836070229067385
+Fold 1: 0.15428752764010423.
+Fold 2: 0.14816089934290105.
+Fold 3: 0.20821073812035437.
+Fold 4: 0.37200084715704484.
+Fold 5: 0.1591434991929649.
+Optimizer: SGD
+Learning Rate: 0.01
+Scheduler: True
+Weight decay: 0
+Smoothing: 0
+Batch size: 128
+Momentum: 0
+T_max: 0.5
+
+
+Time: 22.09.2023 05:37:29
+Average validation accuracy: 0.40215235571135965
+Fold 1: 0.398359117009432.
+Fold 2: 0.42864411668556873.
+Fold 3: 0.40481307785220944.
+Fold 4: 0.3934423140083868.
+Fold 5: 0.38550315300120136.
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0
+Batch size: 32
+
+
+Time: 22.09.2023 05:46:22
+Average validation accuracy: 0.2865336635126127
+Fold 1: 0.38232996241954076.
+Fold 2: 0.39875140473375714.
+Fold 3: 0.13773034728363487.
+Fold 4: 0.125.
+Fold 5: 0.38885660312613085.
+Optimizer: SGD
+Learning Rate: 0.01
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0.031
+Batch size: 32
+Momentum: 0.157
+
+
+Time: 22.09.2023 05:49:55
+Average validation accuracy: 0.12538787023977432
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.12693935119887165.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 1e-05
+Scheduler: False
+Weight decay: 0
+Smoothing: 0.0143
+Batch size: 128
+Momentum: 0
+
+
+Time: 22.09.2023 05:53:22
+Average validation accuracy: 0.1448860484602775
+Fold 1: 0.18081494057724956.
+Fold 2: 0.125.
+Fold 3: 0.15481321839080459.
+Fold 4: 0.13880208333333333.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 0.01
+Scheduler: False
+Weight decay: 0
+Smoothing: 0.0416
+Batch size: 128
+Momentum: 0
+
+
+Time: 22.09.2023 06:01:36
+Average validation accuracy: 0.38582342804118075
+Fold 1: 0.3966145663168718.
+Fold 2: 0.3856500522109526.
+Fold 3: 0.36501149851179177.
+Fold 4: 0.3965409275726814.
+Fold 5: 0.38530009559360606.
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0.00139
+Batch size: 128
+
+
+Time: 22.09.2023 06:06:56
+Average validation accuracy: 0.125
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0
+Batch size: 128
+Momentum: 0.377
+
+
+Time: 22.09.2023 06:18:03
+Average validation accuracy: 0.4100296720275226
+Fold 1: 0.40673994764831123.
+Fold 2: 0.42299613863806723.
+Fold 3: 0.4116040352562853.
+Fold 4: 0.41672166418694667.
+Fold 5: 0.3920865744080027.
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0.0466
+Batch size: 32
+
+
+Time: 22.09.2023 06:25:53
+Average validation accuracy: 0.1264320116098892
+Fold 1: 0.125.
+Fold 2: 0.13182471264367815.
+Fold 3: 0.125.
+Fold 4: 0.12533534540576793.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 1e-05
+Scheduler: True
+Weight decay: 0.0001
+Smoothing: 0
+Batch size: 64
+Momentum: 0.877
+T_max: 0.4
+
+
+Time: 22.09.2023 06:29:19
+Average validation accuracy: 0.125
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: SGD
+Learning Rate: 0.0001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0.0281
+Batch size: 128
+Momentum: 0
+T_max: 1
+
+
+Time: 22.09.2023 06:36:41
+Average validation accuracy: 0.38324981243854933
+Fold 1: 0.4005469936244096.
+Fold 2: 0.37704932104355715.
+Fold 3: 0.3730780891266217.
+Fold 4: 0.39412788202974747.
+Fold 5: 0.3714467763684106.
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.001
+Smoothing: 0
+Batch size: 64
+
+
+Time: 22.09.2023 06:40:35
+Average validation accuracy: 0.4000301530537994
+Fold 1: 0.3864851148777552.
+Fold 2: 0.40899620280631804.
+Fold 3: 0.38950012779966847.
+Fold 4: 0.41344827009497076.
+Fold 5: 0.4017210496902844.
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 128
+
+
+Time: 22.09.2023 06:44:05
+Average validation accuracy: 0.16725836755939646
+Fold 1: 0.17092175066312998.
+Fold 2: 0.140625.
+Fold 3: 0.17708333333333331.
+Fold 4: 0.20208333333333334.
+Fold 5: 0.14557842046718578.
+Optimizer: SGD
+Learning Rate: 0.01
+Scheduler: True
+Weight decay: 0
+Smoothing: 0.0284
+Batch size: 128
+Momentum: 0
+T_max: 1
+
+
+Time: 22.09.2023 06:49:37
+Average validation accuracy: 0.125
+Fold 1: 0.125.
+Fold 2: 0.125.
+Fold 3: 0.125.
+Fold 4: 0.125.
+Fold 5: 0.125.
+Optimizer: Adam
+Learning Rate: 0.01
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0181
+Batch size: 64
+
+

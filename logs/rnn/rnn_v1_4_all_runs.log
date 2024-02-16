@@ -1,0 +1,2256 @@
+Time: 22.11.2023 12:23:53
+Accuracy: 0.4504025961575952
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 12:44:00
+Accuracy: 0.44865565417221887
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 13:04:07
+Accuracy: 0.4557970885582039
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 13:24:12
+Accuracy: 0.4475906344770699
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 13:44:18
+Accuracy: 0.43641662866619135
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 14:04:25
+Accuracy: 0.4520139755509207
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 14:24:33
+Accuracy: 0.45012694179051616
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 14:44:40
+Accuracy: 0.43744816140422166
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 15:04:45
+Accuracy: 0.45196353715939447
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 15:24:53
+Accuracy: 0.45511410814365355
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 15:45:01
+Accuracy: 0.44797277752050946
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 16:05:09
+Accuracy: 0.44901873736768294
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 16:25:14
+Accuracy: 0.4428955045188982
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 16:45:24
+Accuracy: 0.44095473106286037
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 17:05:32
+Accuracy: 0.4475327782385392
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 17:25:40
+Accuracy: 0.4482361279896787
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 17:45:49
+Accuracy: 0.44802893416472966
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 18:05:55
+Accuracy: 0.454740616676512
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 18:26:01
+Accuracy: 0.45251080362449797
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 18:46:08
+Accuracy: 0.4579569404808385
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 19:06:15
+Accuracy: 0.44378505543502555
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 19:26:24
+Accuracy: 0.45512923175070297
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 19:46:31
+Accuracy: 0.44412748230337834
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 20:06:39
+Accuracy: 0.45378879226805297
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 20:26:47
+Accuracy: 0.45280292567007024
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 20:46:55
+Accuracy: 0.45073636245885745
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 21:07:02
+Accuracy: 0.4493532666374067
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 21:27:09
+Accuracy: 0.4448875246680779
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 21:47:19
+Accuracy: 0.442692355634789
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 22:07:29
+Accuracy: 0.44635238314829484
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 22:27:38
+Accuracy: 0.4453443892130453
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 22:47:47
+Accuracy: 0.444684801276224
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 23:07:56
+Accuracy: 0.4508077065657009
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 23:28:06
+Accuracy: 0.448592932290002
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 22.11.2023 23:48:16
+Accuracy: 0.45048086058392434
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 00:08:25
+Accuracy: 0.4501399121009911
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 00:28:35
+Accuracy: 0.4582631521106155
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 00:48:45
+Accuracy: 0.4417159023251988
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 01:08:53
+Accuracy: 0.4398696074495428
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 01:29:02
+Accuracy: 0.4445912774846506
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 01:49:10
+Accuracy: 0.44748750731705517
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 02:09:21
+Accuracy: 0.45132940772107494
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 02:29:29
+Accuracy: 0.46121160367234115
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 02:49:39
+Accuracy: 0.44074961218001607
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 03:09:47
+Accuracy: 0.44457113521764
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 03:29:54
+Accuracy: 0.45306806638550795
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 03:50:03
+Accuracy: 0.44500370075563167
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 04:10:11
+Accuracy: 0.4535142235091104
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 04:30:20
+Accuracy: 0.45689504412606063
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 04:50:28
+Accuracy: 0.44770537581820136
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 05:10:36
+Accuracy: 0.4459754200183823
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 05:30:45
+Accuracy: 0.45266141771737933
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 05:50:53
+Accuracy: 0.4589180798112379
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 06:11:03
+Accuracy: 0.44916299774406865
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 06:31:12
+Accuracy: 0.4443855394892122
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 06:51:20
+Accuracy: 0.4472949771734551
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 07:11:29
+Accuracy: 0.4514626982080001
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 07:31:38
+Accuracy: 0.4458562028931107
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 07:51:47
+Accuracy: 0.4521944100094232
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 08:11:57
+Accuracy: 0.43969959916647106
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 08:32:07
+Accuracy: 0.45520557708801856
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 08:52:16
+Accuracy: 0.44850975845472507
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 09:12:23
+Accuracy: 0.45277247485714633
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 09:32:32
+Accuracy: 0.44365469825147447
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 09:58:42
+Accuracy: 0.455628327241374
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 10:18:52
+Accuracy: 0.45059510656954616
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 10:38:59
+Accuracy: 0.4496693332335101
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 10:59:09
+Accuracy: 0.4518154677908251
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 11:19:18
+Accuracy: 0.46940381373139817
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 11:39:26
+Accuracy: 0.44465210322032955
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 11:59:36
+Accuracy: 0.4444449514006122
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 12:19:45
+Accuracy: 0.44216456190040404
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 12:39:56
+Accuracy: 0.4527398091065369
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 13:00:06
+Accuracy: 0.4511347382210234
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 13:20:15
+Accuracy: 0.4633119449103266
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 13:40:25
+Accuracy: 0.4515849709864836
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 14:00:35
+Accuracy: 0.4506065484802918
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 14:20:45
+Accuracy: 0.4563208920005752
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 14:40:56
+Accuracy: 0.4579576326529636
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 15:01:07
+Accuracy: 0.43927743068842406
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 15:21:17
+Accuracy: 0.4531377221689695
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 15:41:28
+Accuracy: 0.4500444988051717
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 16:01:39
+Accuracy: 0.4437196612828783
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 16:21:48
+Accuracy: 0.449301428301831
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 16:41:57
+Accuracy: 0.45325843138130634
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 17:02:07
+Accuracy: 0.4474105303478224
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 17:22:17
+Accuracy: 0.4586965287084105
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 17:42:28
+Accuracy: 0.454412736195135
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 18:02:39
+Accuracy: 0.457656737833382
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 18:22:49
+Accuracy: 0.4487614337770373
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 18:42:57
+Accuracy: 0.462811947762506
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 19:03:09
+Accuracy: 0.4479989430220872
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 19:23:20
+Accuracy: 0.44327953575002416
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 19:43:34
+Accuracy: 0.4528993282863047
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 20:03:45
+Accuracy: 0.44661118891381446
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 20:23:56
+Accuracy: 0.4389403400688268
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 20:44:07
+Accuracy: 0.439795230271008
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 21:04:20
+Accuracy: 0.4494476807499263
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 21:24:31
+Accuracy: 0.4434183880386141
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 21:44:42
+Accuracy: 0.46205006401509807
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 22:04:52
+Accuracy: 0.4477863572927288
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 22:25:04
+Accuracy: 0.45225495325864623
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 22:45:15
+Accuracy: 0.45401500968113107
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 23:05:26
+Accuracy: 0.44814066372653627
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 23:25:36
+Accuracy: 0.44851797496179713
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 23.11.2023 23:45:47
+Accuracy: 0.4475635896305917
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 00:05:57
+Accuracy: 0.44980169332699177
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 00:26:07
+Accuracy: 0.44830166470136434
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 00:46:19
+Accuracy: 0.446070720115005
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 01:06:29
+Accuracy: 0.43739781758413576
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 01:26:41
+Accuracy: 0.44052243666455765
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 01:46:51
+Accuracy: 0.4464766745722399
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 02:07:02
+Accuracy: 0.44216471274696184
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 02:27:13
+Accuracy: 0.44743249114136796
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 02:47:24
+Accuracy: 0.44538734138148384
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 03:07:35
+Accuracy: 0.4516045197782814
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 03:27:44
+Accuracy: 0.4471918804365168
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 03:47:57
+Accuracy: 0.4518621568577851
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 04:08:08
+Accuracy: 0.44975855786629465
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 04:28:20
+Accuracy: 0.44327107274507804
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 04:48:32
+Accuracy: 0.4499931808358481
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 05:08:45
+Accuracy: 0.44534541714439835
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 05:28:56
+Accuracy: 0.45916854992021017
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 05:49:06
+Accuracy: 0.45586928677637384
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 06:09:15
+Accuracy: 0.45744788215246984
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 06:29:24
+Accuracy: 0.44591056328358103
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 06:49:35
+Accuracy: 0.45393814341241245
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 07:09:47
+Accuracy: 0.4515431168289067
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 07:29:58
+Accuracy: 0.4418850293301374
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 07:50:11
+Accuracy: 0.44841641840067464
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 08:10:24
+Accuracy: 0.43487559746643173
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 08:30:33
+Accuracy: 0.44758691415776974
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 08:50:44
+Accuracy: 0.4533517201462435
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 09:10:55
+Accuracy: 0.45328678475361855
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 09:31:08
+Accuracy: 0.448388290058375
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 09:51:20
+Accuracy: 0.4526120810694411
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 10:11:29
+Accuracy: 0.4502820232352194
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 10:31:39
+Accuracy: 0.4463043531631162
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 10:51:49
+Accuracy: 0.44328024104738273
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 11:12:01
+Accuracy: 0.45993036591329034
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+
+Time: 24.11.2023 11:32:13
+Accuracy: 0.4558639650672737
+
+Optimizer: SGD
+Learning Rate: 0.001
+Scheduler: True
+Weight decay: 1e-05
+Smoothing: 0
+Batch size: 128
+Bidirectional: True
+Hidden Dim: 97
+n_layers: 1
+Momentum: 0.763
+T_max: 0.878
+
+

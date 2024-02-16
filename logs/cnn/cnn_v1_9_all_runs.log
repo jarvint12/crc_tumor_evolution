@@ -1,0 +1,1771 @@
+Time: 22.11.2023 12:52:26
+Accuracy: 0.4255216269706237
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 22.11.2023 13:47:49
+Accuracy: 0.42541153165878826
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 22.11.2023 14:43:15
+Accuracy: 0.41135915585498994
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 22.11.2023 15:38:39
+Accuracy: 0.4058223019857107
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 22.11.2023 16:34:07
+Accuracy: 0.43085243475979235
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 22.11.2023 17:29:33
+Accuracy: 0.4175459356545813
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 22.11.2023 18:25:01
+Accuracy: 0.4148786812675066
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 22.11.2023 19:20:32
+Accuracy: 0.39647895600190686
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 22.11.2023 20:16:04
+Accuracy: 0.4268019642394005
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 22.11.2023 21:11:30
+Accuracy: 0.4099791608195961
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 22.11.2023 22:07:00
+Accuracy: 0.40686097007153343
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 22.11.2023 23:02:27
+Accuracy: 0.4135477543893263
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 22.11.2023 23:57:56
+Accuracy: 0.4212064949558486
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 23.11.2023 00:53:25
+Accuracy: 0.42131888471425794
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 23.11.2023 01:48:52
+Accuracy: 0.4175361081965839
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 23.11.2023 02:44:13
+Accuracy: 0.4090173990772814
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 23.11.2023 03:39:43
+Accuracy: 0.43140697574759945
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 23.11.2023 04:35:15
+Accuracy: 0.42022031958127964
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 23.11.2023 05:30:48
+Accuracy: 0.42387190221283655
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 23.11.2023 06:26:19
+Accuracy: 0.419390363913357
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 23.11.2023 07:21:56
+Accuracy: 0.436479637861219
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 23.11.2023 08:17:26
+Accuracy: 0.4302519027515903
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 23.11.2023 09:12:53
+Accuracy: 0.4350321567883072
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 23.11.2023 10:08:25
+Accuracy: 0.43396301167168133
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 23.11.2023 11:04:00
+Accuracy: 0.4157714974228223
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 23.11.2023 11:59:31
+Accuracy: 0.40477154642427726
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 23.11.2023 12:15:43
+Accuracy: 0.41933808604773987
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 23.11.2023 12:54:46
+Accuracy: 0.4209811509102859
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 23.11.2023 12:54:57
+Accuracy: 0.4056606872985639
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 23.11.2023 13:33:49
+Accuracy: 0.41956675243395825
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 23.11.2023 13:50:28
+Accuracy: 0.4157230346736674
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 23.11.2023 14:12:52
+Accuracy: 0.39308528600660886
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 23.11.2023 14:45:55
+Accuracy: 0.4211107039245695
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 23.11.2023 14:51:51
+Accuracy: 0.39029094774075446
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 23.11.2023 15:30:50
+Accuracy: 0.41534096860764674
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 23.11.2023 15:41:25
+Accuracy: 0.4280377714146135
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 23.11.2023 16:09:52
+Accuracy: 0.4068614786191459
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 23.11.2023 16:36:50
+Accuracy: 0.40466898927509964
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 23.11.2023 16:48:52
+Accuracy: 0.42691361284610646
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 23.11.2023 17:27:54
+Accuracy: 0.3904352893974194
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 23.11.2023 17:32:20
+Accuracy: 0.4225769804098468
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 23.11.2023 18:06:58
+Accuracy: 0.4080316924542743
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 23.11.2023 18:27:48
+Accuracy: 0.4273006306782925
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 23.11.2023 18:46:02
+Accuracy: 0.4275234838608853
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 23.11.2023 19:23:16
+Accuracy: 0.4329408295393247
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 23.11.2023 19:25:03
+Accuracy: 0.4322425908642202
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 23.11.2023 20:04:12
+Accuracy: 0.4331807935242943
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 23.11.2023 20:18:44
+Accuracy: 0.40667979530681153
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 23.11.2023 20:43:12
+Accuracy: 0.4172692234450072
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 23.11.2023 21:14:16
+Accuracy: 0.4351211056576495
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 23.11.2023 21:22:15
+Accuracy: 0.41508114688418
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 23.11.2023 22:01:18
+Accuracy: 0.410715289102085
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 23.11.2023 22:09:41
+Accuracy: 0.41210347007627535
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 23.11.2023 22:40:22
+Accuracy: 0.3875071191436775
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 23.11.2023 23:05:09
+Accuracy: 0.4233759036484341
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 23.11.2023 23:19:27
+Accuracy: 0.424419829409199
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 23.11.2023 23:58:35
+Accuracy: 0.39777614924591254
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 24.11.2023 00:00:39
+Accuracy: 0.40736466481980743
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 24.11.2023 00:37:41
+Accuracy: 0.3994881752682499
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 24.11.2023 00:56:06
+Accuracy: 0.42399374951162155
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 24.11.2023 01:16:40
+Accuracy: 0.4334542388607154
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 24.11.2023 01:51:36
+Accuracy: 0.4322729123225643
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 24.11.2023 01:55:45
+Accuracy: 0.43467519124637666
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 24.11.2023 02:34:48
+Accuracy: 0.4225535241228841
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 24.11.2023 02:47:03
+Accuracy: 0.4206475524034315
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 24.11.2023 03:13:47
+Accuracy: 0.40799132082821776
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 24.11.2023 03:42:35
+Accuracy: 0.41460694900241635
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 24.11.2023 03:52:48
+Accuracy: 0.42212425814710675
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 24.11.2023 04:31:53
+Accuracy: 0.39784369363478733
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 24.11.2023 04:38:01
+Accuracy: 0.4277715966499222
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 24.11.2023 05:10:55
+Accuracy: 0.4046174241884385
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 24.11.2023 05:33:31
+Accuracy: 0.412741592683686
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 24.11.2023 05:50:01
+Accuracy: 0.40996330810948955
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 24.11.2023 06:28:55
+Accuracy: 0.432599109269543
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 24.11.2023 06:29:04
+Accuracy: 0.4133681648735711
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 24.11.2023 07:08:10
+Accuracy: 0.39518010035930934
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 24.11.2023 07:24:24
+Accuracy: 0.43703436918459365
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 24.11.2023 07:47:12
+Accuracy: 0.426330310310011
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 24.11.2023 08:19:53
+Accuracy: 0.4177036185934077
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 24.11.2023 08:26:16
+Accuracy: 0.4124492473012617
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 24.11.2023 09:05:20
+Accuracy: 0.41989160861897934
+
+Optimizer: Adam
+Learning Rate: 0.0001
+Scheduler: False
+Weight decay: 0.0001
+Smoothing: 0.0396
+Batch size: 64
+
+
+Time: 24.11.2023 09:15:19
+Accuracy: 0.40300004591983485
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 24.11.2023 10:10:49
+Accuracy: 0.4209113517848844
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 24.11.2023 11:06:21
+Accuracy: 0.4166007169414889
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 24.11.2023 12:01:50
+Accuracy: 0.4297347522670859
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 24.11.2023 12:57:21
+Accuracy: 0.415300102314606
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 24.11.2023 13:52:52
+Accuracy: 0.41510491156624446
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 24.11.2023 14:48:14
+Accuracy: 0.44999122782522405
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 24.11.2023 15:43:41
+Accuracy: 0.43740744986596014
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 24.11.2023 16:39:08
+Accuracy: 0.42152265331996086
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 24.11.2023 17:34:39
+Accuracy: 0.4174644223745535
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 24.11.2023 18:30:08
+Accuracy: 0.4358887956722055
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 24.11.2023 19:25:35
+Accuracy: 0.4022725595920273
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 24.11.2023 20:21:05
+Accuracy: 0.4163182568798041
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 24.11.2023 21:16:34
+Accuracy: 0.4173225808028534
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 24.11.2023 22:12:05
+Accuracy: 0.42648911538658996
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 24.11.2023 23:07:35
+Accuracy: 0.4240695299416988
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 25.11.2023 00:03:02
+Accuracy: 0.4206782319688299
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 25.11.2023 00:58:30
+Accuracy: 0.4273659297140788
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 25.11.2023 01:54:00
+Accuracy: 0.42640835074952965
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 25.11.2023 02:49:27
+Accuracy: 0.4164592909919841
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 25.11.2023 03:44:59
+Accuracy: 0.40987843167785565
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 25.11.2023 04:40:29
+Accuracy: 0.41441043861205823
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 25.11.2023 05:35:58
+Accuracy: 0.42617284622310436
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 25.11.2023 06:31:27
+Accuracy: 0.4160555844314651
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 25.11.2023 07:26:54
+Accuracy: 0.434748288232959
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 25.11.2023 08:22:21
+Accuracy: 0.4171072594519527
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 25.11.2023 09:17:50
+Accuracy: 0.4221169510421732
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 25.11.2023 10:13:21
+Accuracy: 0.42357235954702427
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 25.11.2023 11:08:47
+Accuracy: 0.4279021562473849
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 25.11.2023 12:04:15
+Accuracy: 0.4435484276013812
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 25.11.2023 12:59:42
+Accuracy: 0.4397966500243389
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 25.11.2023 13:55:07
+Accuracy: 0.43476344537555045
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 25.11.2023 14:50:35
+Accuracy: 0.43671250535618267
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 25.11.2023 15:45:59
+Accuracy: 0.4120173701827374
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 25.11.2023 16:41:24
+Accuracy: 0.41429219332668876
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 25.11.2023 17:36:49
+Accuracy: 0.4199816166176784
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 25.11.2023 18:32:17
+Accuracy: 0.41458447935660897
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 25.11.2023 19:27:42
+Accuracy: 0.4109317105482586
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 25.11.2023 20:23:06
+Accuracy: 0.41708960496414743
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 25.11.2023 21:18:16
+Accuracy: 0.45281711656796275
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 25.11.2023 22:13:22
+Accuracy: 0.4065675627524342
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 25.11.2023 23:08:51
+Accuracy: 0.4333113639128405
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 26.11.2023 00:04:18
+Accuracy: 0.40412214254201717
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 26.11.2023 00:59:46
+Accuracy: 0.4335193512384511
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 26.11.2023 01:55:15
+Accuracy: 0.41801297168914414
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 26.11.2023 02:50:43
+Accuracy: 0.4310981048591186
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 26.11.2023 03:46:13
+Accuracy: 0.4242628556216397
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 26.11.2023 04:41:39
+Accuracy: 0.43237235933154583
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 26.11.2023 05:37:05
+Accuracy: 0.4111816412953911
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 26.11.2023 06:32:25
+Accuracy: 0.39031241681574724
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 26.11.2023 07:27:50
+Accuracy: 0.4140859246442925
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 26.11.2023 08:23:17
+Accuracy: 0.4029892227345186
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 26.11.2023 09:18:38
+Accuracy: 0.44044106777894
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 26.11.2023 10:14:02
+Accuracy: 0.4184161688596559
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 26.11.2023 11:09:27
+Accuracy: 0.42612181292420465
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 26.11.2023 12:04:55
+Accuracy: 0.43695186304455813
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 26.11.2023 13:00:21
+Accuracy: 0.3905834091556042
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 26.11.2023 13:55:45
+Accuracy: 0.406740855428835
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 26.11.2023 14:51:07
+Accuracy: 0.43783539678103617
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 26.11.2023 15:46:28
+Accuracy: 0.4338701485180885
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 26.11.2023 16:41:55
+Accuracy: 0.41054719997569333
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 26.11.2023 17:37:18
+Accuracy: 0.4297296831834271
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 26.11.2023 18:32:44
+Accuracy: 0.4486692383497787
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 26.11.2023 19:28:06
+Accuracy: 0.4358071009168529
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 26.11.2023 20:23:28
+Accuracy: 0.4208109993123807
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 26.11.2023 21:18:59
+Accuracy: 0.41801789435118447
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 26.11.2023 22:14:25
+Accuracy: 0.4380477230327853
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 26.11.2023 23:09:49
+Accuracy: 0.4205574920244823
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 27.11.2023 00:05:19
+Accuracy: 0.41601554236262617
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 27.11.2023 01:00:47
+Accuracy: 0.4307092387455166
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 27.11.2023 01:56:14
+Accuracy: 0.39924385216428326
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 27.11.2023 02:51:40
+Accuracy: 0.41424287218935735
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 27.11.2023 03:47:04
+Accuracy: 0.40908357505086984
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 27.11.2023 04:42:31
+Accuracy: 0.41543147895802685
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 27.11.2023 05:37:56
+Accuracy: 0.4229709815155017
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 27.11.2023 06:33:24
+Accuracy: 0.41695284322075005
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 27.11.2023 07:28:58
+Accuracy: 0.4341432830478249
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 27.11.2023 08:24:28
+Accuracy: 0.41464521775589513
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 27.11.2023 09:20:00
+Accuracy: 0.4088736414306728
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
+Time: 27.11.2023 10:15:30
+Accuracy: 0.41039722147238006
+
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: False
+Weight decay: 0
+Smoothing: 0
+Batch size: 32
+
+
