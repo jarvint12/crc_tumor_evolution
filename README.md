@@ -15,8 +15,13 @@ saved_models contains the best performed models saved as .pth files. Thus, you c
 
 For every model, there is a .ipynb file and a .py file, which either can be used to use the models. The models and scripts are paired as follow:
 
-*MLP*: basemodel_fc.ipynb, fc_v6.py
-*CNN_BASE*: basemodel_cnn.ipynb, cnn_base_clu4.py
-*CNN*: CNN_pipeline.ipynb, cnnv16_clu4.py
-*RNN*: RNN_pipeline.ipynb, rnnv6_clu4.py
-*Transformer*: transformer_pipeline.ipynb, transformer_whole_matrix4.py
+<b>MLP</b>: basemodel_fc.ipynb, fc_v6.py
+
+<b>CNN_BASE</b>: basemodel_cnn.ipynb, cnn_base_clu4.py
+
+<b>CNN</b>: CNN_pipeline.ipynb, cnnv16_clu4.py
+
+<b>RNN</b>: RNN_pipeline.ipynb, rnnv6_clu4.py
+
+<b>Transformer</b>: transformer_pipeline.ipynb, transformer_whole_matrix4.py
+
